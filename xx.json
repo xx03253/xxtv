@@ -84,7 +84,7 @@
 
     #三方聚合
     {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"盘看看","name":"盘看看(聚)","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
+    {"key":"盘看看","name":"盘看看(聚)","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 ## 搜搜
     {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
