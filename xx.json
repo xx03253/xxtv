@@ -18,7 +18,7 @@
     //{"key": "Nfyun", "name": "🥇Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key":"csp_LiteApple","name":"🥇小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"293视频","name":"🥇293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"360_spider","name":"🥇360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xx03253.github.io/xxu/MaooXB2/360_730.jar"}, 
+    {"key":"360_spider","name":"🥇360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://xx03253.github.io/xxu/MaooXB2/0730.jar"}, 
     {"key":"csp_Auete","name":"🥇Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🥇Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
