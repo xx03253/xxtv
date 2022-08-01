@@ -1,13 +1,13 @@
 {
 "Home": [
-{"key":"APP","title":"首页","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/11.png"},
-{"key":"网页","title":"自定","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/22.png"},
-{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/33.png"},
-{"key":"直播","title":"电视","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/44.png"},
-{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/55.png"},
-{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/66.png"},
-{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/77.png"},
-{"key":"待添加","title":"添加","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/88.png"}
+{"key":"APP","title":"首页","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/01.jpg"},
+{"key":"网页","title":"自定","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/02.jpg"},
+{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/03.jpg"},
+{"key":"直播","title":"电视","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/04.jpg"},
+{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/05.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/06.jpg"},
+{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/07.jpg"},
+{"key":"待添加","title":"添加","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/08.jpg"}
 ],
 
 "zhuyejiekou": [
