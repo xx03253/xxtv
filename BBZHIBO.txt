@@ -1,6 +1,6 @@
-﻿##微信公众号 吾爱有三日月与卿##
+﻿##XXU##
 
-吾爱露营,http://52bsj.vip:81/api/v3/file/get/787/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A5.mp4?sign=LozCRhyuUUqHmPp889qwXlOlXe7DY4pji5s5mdkr4h8%3D%3A0
+露营,http://52bsj.vip:81/api/v3/file/get/787/%E5%90%BE%E7%88%B1%E9%9C%B2%E8%90%A5.mp4?sign=LozCRhyuUUqHmPp889qwXlOlXe7DY4pji5s5mdkr4h8%3D%3A0
 串烧[1280*720],https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
 舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
 王者荣耀,https://live.52sf.ga/huya/kpl
@@ -8,7 +8,7 @@
 
 ##
 
-##吾爱主机##
+##主机##
 对马岛,https://pan.css.lc/api/v3/file/get/27359/%E5%AF%B9%E9%A9%AC%E5%B2%9B.mp4?sign=paha_--vitlxMh_k2wFILITg3pNHxxvPL4F2He7jgPY%3D%3A0
 对马岛2,https://pan.css.lc/api/v3/file/get/27360/%E5%AF%B9%E9%A9%AC%E5%B2%9B2.mp4?sign=JkhdYoKRuVtwQ4rgs3Y-67QnCY4MuJB6hndksqO73N0%3D%3A0
 对马岛3,https://pan.css.lc/api/v3/file/get/27361/%E5%AF%B9%E9%A9%AC%E5%B2%9B3.mp4?sign=SWDOBSzwITzY6-93TIUTgCFmwNxWl217hhIPba2qnQw%3D%3A0
@@ -26,7 +26,7 @@
 只狼3,https://pan.css.lc/api/v3/file/get/27356/%E5%8F%AA%E7%8B%BC3.mp4?sign=xk3kVellZNqKIH0qpPr1PLIY8YM5aDUf4tsKgmMuRHg%3D%3A0
 
 ##
-##吾爱体育##
+##体育##
 
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
