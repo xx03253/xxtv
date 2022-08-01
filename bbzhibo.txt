@@ -455,6 +455,18 @@ Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptv
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8#
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8#
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8#
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8#
+三立iNews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8#
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8#
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8#
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8#
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8#
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#
 
 ##
 
