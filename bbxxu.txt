@@ -1,5 +1,4 @@
-{
-"Home": [
+{"Home": [
 {"key":"APP","title":"首页","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/01.jpg"},
 {"key":"网页","title":"自定","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/02.jpg"},
 {"key":"采集","title":"采集","pic":"https://raw.iqiq.io/xx03253/xxu/master/pic/03.jpg"},
