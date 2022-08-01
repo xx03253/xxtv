@@ -267,7 +267,7 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}，
+"bflianjiehou": "\""},
 {"name": "体育-jrs",
 "url": "http://www.jrskan.com",
 "User": "空",
