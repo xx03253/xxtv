@@ -34,6 +34,19 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P#
 CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
 ##
 
+##台湾##
+台视,http://61.219.170.95:18543/.m3u8#
+华视,http://61.219.170.95:18551/.m3u8#
+中天新闻,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8#
+民视新闻台,http://103.144.247.90:9500/live.m3u8?c=11#
+台视新闻台,http://103.144.247.90:9500/live.m3u8?c=10#
+三立LIVE,http://103.144.247.90:9500/live.m3u8?c=7#
+
+八大综合,http://61.219.170.95:18517/.m3u8#
+中天娱乐,http://61.219.170.95:18521/.m3u8#
+纬来体育,http://117.148.179.172:80/PLTV/88888888/224/3221231778/1.m3u8#
+
+##
 
 ##TW##
 
@@ -42,6 +55,11 @@ CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8#
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#
+壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8#
+TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#
+
+
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8#
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8#
@@ -54,10 +72,8 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#
 
 
-壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#
-民視,http://seb.sason.top/ptv/ftv.php?id=ms#
-緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8#
-TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#
+
+
 ##
 
 ##首页##
