@@ -40,6 +40,7 @@ CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8#
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8#
@@ -52,6 +53,11 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8#
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#
 
+
+壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#
+民視,http://seb.sason.top/ptv/ftv.php?id=ms#
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8#
+TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#
 ##
 
 ##首页##
