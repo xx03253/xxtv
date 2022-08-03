@@ -46,7 +46,7 @@
     {"key":"csp_biubiu_花猫TV","name":"🥈花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/花猫TV.json"},
     {"key":"csp_biubiu_人人影视","name":"🥈人人影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/人人影视.json"},
     {"key":"csp_biubiu_火火影视","name":"🥈火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/火火影视.json"},
-
+    {"key": "csp_biubiu_YYDS影院","name": "🥈YYDS影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/YYDS影院.json"}, 
 ## XPath系列
     {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXP/bidid.json"},
     {"key":"csp_xpath_ddg","name":"🥈达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXP/dadagui.json"},
