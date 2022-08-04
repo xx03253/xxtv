@@ -147,7 +147,7 @@
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 
 
-"dianshizhibo": "https://raw.iqiq.io/xx03253/xxu/master/bbzhibo.txt",
+"dianshizhibo": "https://raw.iqiq.io/xx03253/xxu/master/live/tv2.txt",
 
 "guolvdizhi": "pap.html#player.css#url=#51.la#poster#api.php#file=#cnzz.com",
 
