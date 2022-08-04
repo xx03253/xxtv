@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/xxtv.jar",
+  "spider":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;c0507f416b27a5406528d81b7c3fb6ce",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
