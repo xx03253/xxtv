@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.fastgit.org/xx03253/xxu/master/MaooXB2/xxtv.jar",
+  "spider":"https://raw.fastgit.org/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;10fe3408d7ccbe61c78a0c3279396a7d",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
