@@ -272,7 +272,7 @@
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
-}，
+},
 {
 "name": "橘子tv",
 "url": "https://juztv.com",
