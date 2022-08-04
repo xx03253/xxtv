@@ -273,8 +273,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-{
-"name": "橘子tv",
+{"name": "橘子tv",
 "url": "https://juztv.com",
 "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
