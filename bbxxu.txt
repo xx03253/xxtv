@@ -1,13 +1,13 @@
 {
 "Home": [
-{"key":"APP","title":"首页","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/11.jpg"},
-{"key":"网页","title":"自定","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/22.jpg"},
-{"key":"采集","title":"采集","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/33.jpg"},
-{"key":"直播","title":"电视","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/44.jpg"},
-{"key":"历史","title":"历史","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/55.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/66.jpg"},
-{"key":"推送","title":"推送","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/77.jpg"},
-{"key":"待添加","title":"添加","pic":"https://raw.fastgit.org/xx03253/xxu/master/pic/88.jpg"}
+{"key":"APP","title":"首页","pic":"https://pic.netbian.com/uploads/allimg/220315/120647-1647317207d3ed.jpg"},
+{"key":"网页","title":"自定","pic":"https://pic.netbian.com/uploads/allimg/220712/232420-16576394601846.jpg"},
+{"key":"采集","title":"采集","pic":"https://pic.netbian.com/uploads/allimg/220330/003346-16485716262167.jpg"},
+{"key":"直播","title":"电视","pic":"https://pic.netbian.com/uploads/allimg/190916/110446-1568603086ff1f.jpg"},
+{"key":"历史","title":"历史","pic":"https://pic.netbian.com/uploads/allimg/220315/120404-1647317044d496.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://pic.3gbizhi.com/2020/0816/20200816070447569.jpg"},
+{"key":"推送","title":"推送","pic":"https://pic.netbian.com/uploads/allimg/220215/233307-164493918726da.jpg"},
+{"key":"待添加","title":"添加","pic":"http://img.netbian.com/file/newc/506cffc1321de954acf7eb780a2c341e.jpg"}
 ],
 
 "zhuyejiekou": [
@@ -140,7 +140,7 @@
 {"name":"解析","url":"https://nbjx.vip/?url="}, 
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 
-"dianshizhibo":"http://52bsj.vip:81/api/v3/file/get/795/6.27BB%E7%9B%B4%E6%92%AD%E6%98%8E%E7%BB%86%20%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%93%E7%94%A8%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF%E3%80%91.txt?sign=bNo_qn8SAPHXufshSfG5895k63-OfO-28i8BENGBaRI%3D%3A0",
+"dianshizhibo": "https://raw.fastgit.org/xx03253/xxu/master/bbzhibo.txt",
 
 "guolvdizhi": "pap.html#player.css#url=#51.la#poster#api.php#file=#cnzz.com",
 
