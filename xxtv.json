@@ -58,6 +58,7 @@
     {"key": "csp_biubiu_tv9box","name": "🥈tv9box(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/xx03253/xxu/master/MaooXB2/tv9box.json"},
 
 ## XPath系列
+    {"key":"csp_xpath_dyn","name":"🥈电影牛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/xx03253/xxu/master/MaooXP/dyn.json"},
     {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/xx03253/xxu/master/MaooXP/bidid.json"},
     {"key":"csp_xpath_ddg","name":"🥈达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/xx03253/xxu/master/MaooXP/dadagui.json"},
     {"key":"csp_xpath_jbb","name":"🥈剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/xx03253/xxu/master/MaooXP/jubaibai.json"},
