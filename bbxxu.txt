@@ -140,7 +140,7 @@
 {"name":"解析","url":"https://nbjx.vip/?url="}, 
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 
-"dianshizhibo": "https://raw.fastgit.org/xx03253/xxu/master/bbzhibo.txt",
+"dianshizhibo": "https://agit.ai/xx03253/xxu/raw/branch/main/bbzhibo.txt",
 
 "guolvdizhi": "pap.html#player.css#url=#51.la#poster#api.php#file=#cnzz.com",
 
