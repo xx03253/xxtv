@@ -61,7 +61,7 @@
     {"key":"csp_xpath_dandanzan10","name":"🥈蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/dandanzan10.json"},
 
     #官采资源
-    {"key":"木子看剧","name":"🥉酷云77","type":1,"api":"http://api.kunyu77.com/api.php","searchable":1,"quickSearch":1},
+    {"key":"木子看剧","name":"🥉酷云77","type":1,"api":"http://api.kunyu77.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
     #切片资源
