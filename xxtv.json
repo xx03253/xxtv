@@ -61,9 +61,11 @@
     {"key":"csp_xpath_naifeiorg","name":"🥈奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/naifeiorg.json"},
     {"key":"csp_xpath_dandanzan10","name":"🥈蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/dandanzan10.json"},
 
+##  官采资源
+     {"key":"爱电影","name":"爱电影(官)","type":1,"api":"https://www.idianying.com.cn/mogai_api.php/v1.vod","searchable":1,"quickSearch":1},
 
 
-    #切片资源
+##  切片资源
     {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
