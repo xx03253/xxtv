@@ -22,7 +22,7 @@
     {"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🥇Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Lib","name": "🥇Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
-    //{"key": "csp_DiDuan","name": "🥇低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0}, 
+    {"key": "csp_DiDuan","name": "🥇低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0}, 
     {"key": "神马影院","name": "🥇神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "KanSJ_spider","name": "🛰️看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
@@ -37,6 +37,7 @@
     {"key":"天堂资源","name":"🥇天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     //{"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "csp_dd5555","name": "🥇555影视(SP)","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
     
 
