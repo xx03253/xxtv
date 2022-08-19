@@ -70,7 +70,6 @@
     {"key":"csp_biubiu_星空影视","name":"🥈星空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/星空影视.json"},
     {"key":"csp_biubiu_豆角网","name":"🥈豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/豆角网.json"},
 
-    {"key": "csp_大师兄","name": "🥈大师兄(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/大师兄.json"},
 
 
 ## XB系列
