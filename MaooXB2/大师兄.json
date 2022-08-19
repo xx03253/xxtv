@@ -7,7 +7,7 @@
   "fenlei": "电影$/type/1#电视剧$/type/2#综艺$/type/3#动漫$/type/4#今日更新$/label/new#最近热门$/label/hot",
   "houzhui": ".html",
   "shifouercijiequ": "1",
-  "jiequqian": "class=\"module-main",
+  "jiequqian": "class=\"module-items",
   "jiequhou": "class=\"module",
   "jiequshuzuqian": "<a",
   "jiequshuzuhou": "</a>",
