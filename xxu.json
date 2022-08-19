@@ -85,6 +85,9 @@
     {"key":"csp_xpath_rttks","name":"人人影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/rttks.json"},
     {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/pianba.json"},
 
+     {"key": "csp_xpath_网络搜集库88","name": "⚽️球迷专场一","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"}, 
+    {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场二","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/qiumi.json"},
+    
 ##  萝卜/白菜/木白/绿豆
     {"key":"csp_appysv2_影库","name":"影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
     {"key":"csp_appysv2_醉璃笙TV","name":"醉璃笙TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"},
