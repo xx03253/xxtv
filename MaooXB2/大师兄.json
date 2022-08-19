@@ -11,7 +11,7 @@
   "jiequhou": "",
   "jiequshuzuqian": "<a",
   "jiequshuzuhou": "</a>",
-  "tupianqian": "original=\"",
+  "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
