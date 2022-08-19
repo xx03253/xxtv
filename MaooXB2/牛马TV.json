@@ -7,13 +7,12 @@
 
   "fenlei": "电影$/type/dianying/#电视剧$/type/dianshiju/#综艺$/type/zongyi/#动漫$/type/dongman/",
   "houzhui": ".html",
-
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "lazyload\"",
+  "jiequshuzuqian": "class=\"stui-vodlist__box\"",
   "jiequshuzuhou": "</a>",
-  "tupianqian": "data-original=\"",
+  "tupianqian": "original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
