@@ -38,7 +38,8 @@
     {"key": "csp_dd5555","name": "🥇555影视(SP)","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
     
-
+    {"key":"csp_biubiu_555蓝光","name":"555蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/555蓝光.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+     
 ##  速度还行
     {"key": "csp_厂长资源","name": "🥈厂长资源(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/厂长资源-蓝光.json"},
     {"key": "csp_影视工厂","name": "🥈影视工厂(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/影视工厂.json"},
