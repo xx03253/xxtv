@@ -8,9 +8,9 @@
 
   "houzhui": "---.html",
   "shifouercijiequ": "1",
-  "jiequqian": "module-heading",
-  "jiequhou": "<div id=\"heading\">",
-  "jiequshuzuqian": "<a",
+  "jiequqian": "module-page",
+  "jiequhou": "<div id=\"page\">",
+  "jiequshuzuqian": "<a href=",
   "jiequshuzuhou": "no-referrer",
   "tupianqian": "original=\"",
   "tupianhou": "\"",
