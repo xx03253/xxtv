@@ -2,10 +2,10 @@
   "name": "牛马TV",
   "url": "http://www.niumatv.com",
   "tihuan": "cnzz.com",
-  "User": "User-Agent:Dart/2.14 (dart:io)",
+  "User": "空",
   "shouye": "1",
 
-  "fenlei": "电影$/type/dianying/page/#电视剧$/type/dianshiju/page/#综艺$/type/zongyi/page/#动漫$/type/dongman/page/#儿童片$/type/class/儿童/dianying/page/#动画片$/type/class/动画/dianying/page/#陆剧$/type/area/中国大陆/dianshiju/page/#韩剧$/type/area/韩国/dianshiju/page/#日剧$/type/area/日本/dianshiju/page/#美剧$/type/area/美国/dianshiju/page/#英剧$/type/area/英国/dianshiju/page/#港剧$/type/area/中国香港/dianshiju/page/#台剧$/type/area/中国台湾/dianshiju/page/#泰剧$/type/area/泰国/dianshiju/page/#陆漫$/type/area/中国大陆/dongman/page/#日漫$/type/area/日本/dongman/page/#喜剧片$/type/class/喜剧/dianying/page/#爱情片$/type/class/爱情/dianying/page/#恐怖片$/type/class/恐怖/dianying/page/#动作片$/type/class/动作/dianying/page/#科幻片$/type/class/科幻/dianying/page/#剧情片$/type/class/剧情/dianying/page/#战争片$/type/class/战争/dianying/page/#警匪片$/type/class/警匪/dianying/page/#犯罪片$/type/class/犯罪/dianying/page/#奇幻片$/type/class/奇幻/dianying/page/#武侠片$/type/class/武侠/dianying/page/#冒险片$/type/class/冒险/dianying/page/#枪战片$/type/class/枪战/dianying/page/#恐怖片$/type/class/恐怖/dianying/page/#悬疑片$/type/class/悬疑/dianying/page/#惊悚片$/type/class/惊悚/dianying/page/#经典片$/type/class/经典/dianying/page/#青春片$/type/class/青春/dianying/page/#文艺片$/type/class/文艺/dianying/page/#微电影$/type/class/微电影/dianying/page/#古装片$/type/class/古装/dianying/page/#历史片$/type/class/历史/dianying/page/#运动片$/type/class/运动/dianying/page/#农村片$/type/class/农村/dianying/page/#网络电影$/type/class/网络电影/dianying/page/",
+  "fenlei": "电影$/type/dianying/#电视剧$/type/dianshiju/#综艺$/type/zongyi/#动漫$/type/dongman/",
   "houzhui": ".html",
 
   "shifouercijiequ": "0",
