@@ -52,6 +52,14 @@
   "bfjiequshuzuqian": "id=\"hl-plays-list", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "<div", //播放截取的列表数组的后关键词
 
+    "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "class=\"iconfont hl-icon-laiyuan",
+    "xljiequshuzuhou": "/span>",
+    "xlbiaotiqian": ";",
+    "xlbiaotihou": "<",
+
   "zhuangtaiqian": "状态：</em><span class=\"hl-text-conch\">", //状态前关键词
   "zhuangtaihou": "</span>", //状态后关键词
   "daoyanqian": "导演：</em>", //导演前关键词
