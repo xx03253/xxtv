@@ -9,7 +9,7 @@
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "lazyload\"",
+  "jiequshuzuqian": "class=\"myui-vodlist__thumb lazyload",
   "jiequshuzuhou": "</a>",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
