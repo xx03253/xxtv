@@ -52,13 +52,13 @@
   "bfjiequshuzuqian": "class=\"module-play-list-content", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
-  "xlshifouercijiequ": "1",
-  "xljiequqian": "class=\"stui-pannel stui-pannel-bg clearfix",
-  "xljiequhou": "class=\"stui-pannel_bd col-pd clearfix",
-  "xljiequshuzuqian": "class=\"title",
-  "xljiequshuzuhou": "/h3>",
-  "xlbiaotiqian": "/>",
-  "xlbiaotihou": "<",
+  "xlshifouercijiequ": "0",
+  "xljiequqian": "",
+  "xljiequhou": "",
+  "xljiequshuzuqian": "class=\"module-tab-item tab-item",
+  "xljiequshuzuhou": "<small>",
+  "xlbiaotiqian": "<span>",
+  "xlbiaotihou": "</span>",
 
   "zhuangtaiqian": "更新：</span>", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
