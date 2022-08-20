@@ -46,7 +46,15 @@
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"list_block show\"",
   "bfjiequshuzuhou": "</ul>",
-
+    
+    "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "class=\"iconfont icon-pin\"",
+    "xljiequshuzuhou": "/h3>",
+    "xlbiaotiqian": ">",
+    "xlbiaotihou": "<",
+  
   "zhuangtaiqian": "class=\"yac\">",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
