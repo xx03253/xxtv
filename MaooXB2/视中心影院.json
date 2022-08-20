@@ -46,6 +46,14 @@
   "bfjiequshuzuqian": "class=\"module-blocklist scroll-box scroll-box-y\"",
   "bfjiequshuzuhou": "</div>",
 
+    "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "class=\"module-tab-item tab-item",
+    "xljiequshuzuhou": "/span>",
+    "xlbiaotiqian": "<span>",
+    "xlbiaotihou": "<",
+
   "zhuangtaiqian": "集数：</span>",
   "zhuangtaihou": "</div>",
   "daoyanqian": "导演：</span>",
