@@ -53,13 +53,7 @@
   "bfjiequshuzuqian": "id=\"sort-item", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
-    "xlshifouercijiequ": "0",
-    "xljiequqian": "",
-    "xljiequhou": "",
-    "xljiequshuzuqian": "data-dropdown-value=",
-    "xljiequshuzuhou": "</span>",
-    "xlbiaotiqian": "<span>">",
-    "xlbiaotihou": "<",
+   
 
   "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
