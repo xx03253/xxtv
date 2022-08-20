@@ -46,6 +46,14 @@
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"stui-content__playlist sort-list",
   "bfjiequshuzuhou": "</ul>",
+   
+   "xlshifouercijiequ": "0",
+  "xljiequqian": "",
+  "xljiequhou": "",
+  "xljiequshuzuqian": "class="sort-button  pull-right",
+  "xljiequshuzuhou": "/h3>",
+  "xlbiaotiqian": "class=\"title\">",
+  "xlbiaotihou": "<",
 
   "zhuangtaiqian": "更新：",
   "zhuangtaihou": "</p>",
