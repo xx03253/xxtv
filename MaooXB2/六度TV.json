@@ -47,6 +47,14 @@
   "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
   "bfjiequshuzuhou": "</ul>",
 
+   "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "href=\"#play",
+    "xljiequshuzuhou": "</li>",
+    "xlbiaotiqian": ">",
+    "xlbiaotihou": "<",
+
   "zhuangtaiqian": "类型：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
