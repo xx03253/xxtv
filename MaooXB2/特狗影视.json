@@ -8,9 +8,9 @@
   "fenlei": "电影$/vodshow/id/1/page/#国产剧$/vodshow/area/内地/id/2/page/#香港剧$/vodshow/area/香港/id/2/page/#韩国剧$/vodshow/area/韩国/id/2/page/#美国剧$/vodshow/area/美国/id/2/page/#日本剧$/vodshow/area/日本/id/2/page/#泰国剧$/vodshow/area/泰国/id/2/page/#台湾剧$/vodshow/area/台湾/id/2/page/#英国剧$/vodshow/area/英国/id/2/page/#其它剧$/vodshow/area/其它/id/2/page/#综艺$/vodshow/id/3/page/#国产动漫$/vodshow/area/内地/id/4/page/#日本动漫$/vodshow/area/日本/id/4/page/#欧美动漫$/vodshow/area/欧美/id/4/page/#其它动漫$/vodshow/area/其它/id/4/page/",
   "houzhui": ".html",
 
-  "shifouercijiequ": "1",
-  "jiequqian": "class=\"myui-panel-box clearfix\"",
-  "jiequhou": "<div class=\"myui-panel",
+  "shifouercijiequ": "0",
+  "jiequqian": "",
+  "jiequhou": "",
   "jiequshuzuqian": "class=\"myui-vodlist__box\"",
   "jiequshuzuhou": "</span>",
   "tupianqian": "data-original=\"",
