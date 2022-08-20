@@ -46,6 +46,14 @@
   "bfjiequshuzuqian": "class=\"stui-content__playlist",
   "bfjiequshuzuhou": "</ul>",
 
+    "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "class=\"title",
+    "xljiequshuzuhou": "/h3>",
+    "xlbiaotiqian": ">",
+    "xlbiaotihou": "<",
+
   "zhuangtaiqian": "年份：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
