@@ -57,9 +57,9 @@
     "xljiequqian": "",
     "xljiequhou": "",
     "xljiequshuzuqian": "class=/"module-tab-item tab-item",
-    "xljiequshuzuhou": "/span>",
+    "xljiequshuzuhou": "</span>",
     "xlbiaotiqian": "<span>",
-    "xlbiaotihou": "<",
+    "xlbiaotihou": "",
 
   "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
