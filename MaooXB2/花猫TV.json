@@ -49,9 +49,9 @@
     "xlshifouercijiequ": "0",
     "xljiequqian": "",
     "xljiequhou": "",
-    "xljiequshuzuqian": "pan><h3 class=\"title",
+    "xljiequshuzuqian": "class=\"stui-pannel__head clearfix",
     "xljiequshuzuhou": "/h3>",
-    "xlbiaotiqian": ">",
+    "xlbiaotiqian": "class=\"title",
     "xlbiaotihou": "<",
 
   "zhuangtaiqian": "年份：</span>",
