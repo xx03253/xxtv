@@ -46,10 +46,9 @@
     {"key":"csp_biubiu_豆角网","name":"🥈豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/豆角网.json"},
     
     {"key":"csp_biubiu_特狗影视","name":"🥈特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/特狗影视.json"},
-    {"key":"csp_biubiu_139影视","name":"🥈139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/139影视.json"},
     {"key":"csp_biubiu_31看影视","name":"🥈31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/31看影视.json"},
     {"key":"csp_biubiu_乌龟影院","name":"🥈乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/乌龟影院.json"},
-    {"key":"csp_biubiu_思乐影视","name":"🥈乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/思乐影视.json"},
+    {"key":"csp_biubiu_思乐影视","name":"🥈思乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/思乐影视.json"},
 
     {"key":"csp_biubiu_city电影","name":"🥈city电影(可)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/city电影.json"},
     {"key":"csp_biubiu_视中心影院","name":"🥈视中心影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/视中心影院.json"},
