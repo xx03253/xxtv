@@ -18,7 +18,8 @@
     {"key":"csp_biubiu_yekong","name":"🥈夜空高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/yekong.json"},
     {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/真不卡影院(不支持搜索).json"},
 
-     {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/骚火电影.json"},
+    {"key": "csp_剧白白","name": "🥈剧白白(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/剧白白-蓝光.json"},
+    {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/骚火电影.json"},
     {"key":"csp_biubiu_87影院","name":"🥈87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/87影院.json"},
     {"key":"csp_biubiu_蓝光影院","name":"🥈蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/蓝光影院.json"},
     {"key":"csp_biubiu_小强迷","name":"🥈小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/小强迷.json"},
