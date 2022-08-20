@@ -52,6 +52,14 @@
   "bfjiequshuzuqian": "class=\"module-play-list-content", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
+  "xlshifouercijiequ": "0",
+  "xljiequqian": "",
+  "xljiequhou": "",
+  "xljiequshuzuqian": "class=\"odule-tab-item tab-item",
+  "xljiequshuzuhou": "<small>",
+  "xlbiaotiqian": "<span>",
+  "xlbiaotihou": "</span>",
+
   "zhuangtaiqian": "更新：</span>", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
   "daoyanqian": "导演：</span>", //导演前关键词
