@@ -44,6 +44,15 @@
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
   "bfjiequshuzuhou": "</ul>",
+ 
+   "xlshifouercijiequ": "0",
+    "xljiequqian": "",
+    "xljiequhou": "",
+    "xljiequshuzuqian": "class=\"stui-pannel__head bottom-line active clearfix",
+    "xljiequshuzuhou": "/h3>",
+    "xlbiaotiqian": "class=\"title\">",
+    "xlbiaotihou": "<",
+
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
