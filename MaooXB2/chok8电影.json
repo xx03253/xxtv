@@ -48,6 +48,14 @@
   "bfjiequshuzuqian": "class=\"stui-content__playlist",
   "bfjiequshuzuhou": "</ul>",
 
+  "xlshifouercijiequ": "1",
+  "xljiequqian": "class=\"stui-pannel stui-pannel-bg clearfix",
+  "xljiequhou": "class=\"stui-pannel_bd col-pd clearfix",
+  "xljiequshuzuqian": "class=\"title",
+  "xljiequshuzuhou": "/h3>",
+  "xlbiaotiqian": "/>",
+  "xlbiaotihou": "<",
+
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
