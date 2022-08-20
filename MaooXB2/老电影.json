@@ -53,9 +53,9 @@
     "xljiequqian": "",
     "xljiequhou": "",
     "xljiequshuzuqian": "class=\"iconfont icon-iconfontplay",
-    "xljiequshuzuhou": "</h3>",
+    "xljiequshuzuhou": "/h3>",
     "xlbiaotiqian": ";",
-    "xlbiaotihou": "",
+    "xlbiaotihou": "<",
   
   "zhuangtaiqian": "状态：",
   "zhuangtaihou": "</p>",
