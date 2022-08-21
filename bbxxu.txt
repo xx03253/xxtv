@@ -27,9 +27,8 @@
 "caijizhan": [
 // 填采集站接口,
 // 采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
-{"name":"特狗影视","url":"http://tv.tegouys.com/api.php/iptv/vod/"},
-{"name":"多多资源(切)","url":"https://www.ddzyz1.com/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
+{"name":"多多资源(切)","url":"https://www.ddzyz1.com/api.php"},
 {"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
 {"name":"天堂资源(官)","url":"http://vipmv.cc/api.php"},
