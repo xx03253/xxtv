@@ -367,6 +367,11 @@
       }
     },
     {
+		"name": "GGTV快速",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/gang0819/API.php?appkey=QQ172598364&url="
+	  }, 
+    {
       "name": "nxflv",
       "type": 1,
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
