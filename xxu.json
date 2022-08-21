@@ -126,45 +126,43 @@
 
 ## 搜搜
    {
-      "key": "Gitcafe",
-      "name": "小纸条〔SP〕",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "1f373a68733e4dafa5fa28dca9826b35"
-    },
+			"key": "Gitcafe",
+			"name": "🗞️小纸条（云盘高清）",
+			"type": 3,
+			"api": "csp_GitCafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+		}, 
     {
-      "key": "zhaozy",
-      "name": "找资源〔只支持搜索〕",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "28801b1dbaf4418fb7bc221a575703dd"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜〔只支持搜索〕",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "28801b1dbaf4418fb7bc221a575703dd"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送〔支持阿里/磁力〕",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
-    }
+			"key": "AliPS",
+			"name": "🔍阿狸盘搜(仅搜索)",
+			"type": 3,
+			"api": "csp_AliPanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+		}, {
+			"key": "zhaozy",
+			"name": "🗂️找资源(仅搜索)",
+			"type": 3,
+			"api": "csp_FindZY",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+		}, {
+			"key": "push_agent",
+			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
+			"type": 3,
+			"api": "csp_PushAgent",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+		}
 
     
   ],
