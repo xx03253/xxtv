@@ -40,13 +40,13 @@
 "bfjiequshuzuqian": "class=\"content_playlist clearfix",
 "bfjiequshuzuhou": "</ul>",
 
-   "xlshifouercijiequ": "0",
-    "xljiequqian": "",
-    "xljiequhou": "",
-    "xljiequshuzuqian": "class=\"tabs-play",
-    "xljiequshuzuhou": "/span>",
-    "xlbiaotiqian": "</i>",
-    "xlbiaotihou": "<",
+ "xlshifouercijiequ": "0",
+  "xljiequqian": "",
+  "xljiequhou": "",
+  "xljiequshuzuqian": "class=\"tabs-play",
+  "xljiequshuzuhou": "/span>",
+   "xlbiaotiqian": "</i>",
+   "xlbiaotihou": "<",
 
 "zhuangtaiqian": "class=\"pic_text text_right\">",
 "zhuangtaihou": "</span",
@@ -64,4 +64,5 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+"bflianjiehou": "\""
+}
