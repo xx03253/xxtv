@@ -96,6 +96,7 @@
 
 
 ## XPath系列
+    {"key":"csp_xpath_ikan6","name":"🥈爱看影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/ikan6.json"},
     {"key":"csp_xpath_tgys","name":"🥈特狗影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/tgys.json"},
     {"key":"csp_xpath_jpys","name":"🥈极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/jpys.json"},
     {"key":"csp_xpath_6d","name":"🥈六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/6d.json"},
