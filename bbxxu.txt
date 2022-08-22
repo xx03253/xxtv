@@ -11,8 +11,6 @@
 ],
 
 "zhuyejiekou": [
-
-{"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
 {"name":"爱电影（基本官方）","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"段友影视2（部分官方资源）","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"Hi影视(部分官方资源）","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
@@ -23,6 +21,7 @@
 {"name":"爱电影(萝卜)","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"嗷呜视频","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
+{"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
 {"name":"迪迪影院","url":"http://dd88.icu:6080/xgapp.php/v2/"}
 ],
 "caijizhan": [
