@@ -1,13 +1,13 @@
 {
 "Home": [
-{"key":"APP","title":"影视","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/11.jpg"},
-{"key":"网页","title":"网页","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/22.jpg"},
-{"key":"采集","title":"采集","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/33.jpg"},
-{"key":"直播","title":"直播","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/44.jpg"},
-{"key":"历史","title":"历史","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/55.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/66.jpg"},
-{"key":"推送","title":"推送","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/77.jpg"},
-{"key":"待添加","title":"添加","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/tu/88.jpg"}
+{"key":"APP","title":"影视","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/11.jpg"},
+{"key":"网页","title":"网页","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/22.jpg"},
+{"key":"采集","title":"采集","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/33.jpg"},
+{"key":"直播","title":"直播","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/44.jpg"},
+{"key":"历史","title":"历史","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/55.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/66.jpg"},
+{"key":"推送","title":"推送","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/77.jpg"},
+{"key":"待添加","title":"添加","pic":"https://agit.ai/xx03253/xxu/raw/branch/main/pic/88.jpg"}
 ],
 
 "zhuyejiekou": [
