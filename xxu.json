@@ -65,7 +65,7 @@
     {"key":"csp_biubiu_极品影视","name":"🥈极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/极品影视.json"},
     {"key":"csp_biubiu_看片网","name":"🥈看片网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/看片网.json"},
     
-    
+    {"key": "T4","name": "T4网页","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
 
   
 
