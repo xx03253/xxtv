@@ -1,6 +1,6 @@
 {
   "version": "22.8.25",
   "changelog": "线路优化",
-  "force": false,
+  "force": true,
   "download": "https://raw.fastgit.org/xx03253/xxu/main/apks/帅祥TV_220825.apk"
 }
