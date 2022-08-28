@@ -31,46 +31,7 @@
     {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"木子看剧","name":"木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-    
-    {"key":"csp_Alist1","name":"🐞Alist1Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/Alist.jar","ext":"https://drive.9t.ee"},
- {
-  "key": "csp_Alist2",
-  "name": "Alist2(SP)",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/Alist.jar",
-  "ext": "https://alist.52qy.repl.co"
-},
-
-  {"key": "csp_Alist9",
-  "name": "Alist9听闻(SP)",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/Alist.jar",
-  "ext": "https://wangpan.sangxuesheng.com"
- },
- {"key": "csp_Alist11",
-  "name": "Alist11七米蓝(SP)",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/Alist.jar",
-  "ext": "https://al.chirmyram.com"
- },
-
-
-
-
-
-
+   
     #三方聚合
     {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"盘看看","name":"盘看看(聚)","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
