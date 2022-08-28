@@ -96,9 +96,9 @@
     {"key":"csp_biubiu_飘花播播","name":"🥈飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/飘花播播.json"},
     
     {"key":"csp_XYQBiu_凌云影视","name":"🥈凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/凌云影视xyq.json"},
-     {"key":"csp_XYQBiu_万能影视","name":"🥈万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/万能影视xyq.json"},
-     {"key":"csp_XYQBiu_99e影视","name":"🥈99e影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/99e影视xyq.json"},
-
+    {"key":"csp_XYQBiu_万能影视","name":"🥈万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/万能影视xyq.json"},
+    {"key":"csp_XYQBiu_99e影视","name":"🥈99e影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/99e影视xyq.json"},
+    {"key":"csp_XYQBiu_电影先生","name":"🥈电影先生(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/电影先生xyq.json"},
 
 
 ## XPath系列
