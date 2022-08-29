@@ -200,7 +200,7 @@
   ],
 
   "parses":[
-   {"name":"解析聚合","type":3,"url":"Demo"},
+    {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "aiku","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="}, 
@@ -252,10 +252,8 @@
     {"name":"云端","type":0,"url":"https://js.52jx.top:2525/?url="},
     {"name":"云端","type":0,"url":"https://sb.5gseo.net/?url="},
     {"name":"云析","type":0,"url":"https://jx.yparse.com/index.php?url="},
-    "name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
+     {"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
      {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="}
-   
-    
   ],
   "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
   "ijk":[
