@@ -86,22 +86,20 @@
 {"name":"搬运","url":"https://jx.bynote.top/API.php?url="}, 
 {"name":"ggtv","url":"https://vip.fuqizhishi.com/?v="}, 
 {"name":"GGTV快速","url":"https://play.fuqizhishi.com/gang0829/API.php?appkey=QQ172598364&url="},
-{"name":"OKjx综合","url":"https://okjx.cc/?url="},
-{"name":"解析1","url":"https://jx.hfyrw.com/mao.go?url="}, 
-{"name":"解析2","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="}, 
-{"name":"解析3","url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-{"name":"293","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},{"name":"解析4","url":"https://jx.bozrc.com:4433/player/?url="}, 
-{"name":"解析5","url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="}, 
-{"name":"解析6","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&urI="}], 
- "beiyongjiexi": [
-{"name":"虾米","url":"https://nbjx.vip/?url="}, 
-{"name":"人人迷","url":"https://jx.blbo.cc:4433/?url="}, 
-{"name":"解析7","url":"https://za.kuanjv.com/?url="},
-{"name":"云解析","url":"https://jx.aidouer.net/?url="}, 
-{"name":"SVIP","url":"https://svip.bljiex.cc/?v="}, 
-{"name":"qiqtv","url":"https://z1.m1907.cn/?jx="}, 
-{"name":"解析8","url":"https://vip.2ktvb.com/player/?url="}, 
-{"name":"178解析","url":"http://jx5.178du.com/p1/?url="} ], 
+{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"左岸2","url":"https://za.kuanjv.com/?url="},
+{"name":"太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
+{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="}
+],
+
+"beiyongjiexi": [
+{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+{"name":"九亿","url":"https://m3u8.look4you.top/?url="}
+],
 
 
 "dianshizhibo": "https://agit.ai/xx03253/xxu/raw/branch/main/bbzhibo.txt",
