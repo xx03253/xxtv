@@ -20,6 +20,7 @@
      {"key":"csp_biubiu_万能影视","name":"🥈万能影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/万能影视.json"},
     {"key":"csp_biubiu_麦豆TV","name":"🥈麦豆TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/麦豆TV.json"},
     
+    {"key":"csp_biubiu_云雀影视","name":"🥈云雀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/云雀影视.json"},
     {"key":"csp_biubiu_F7好看剧","name":"🥈F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/F7好看剧.json"},
     //{"key":"csp_biubiu_爱看影视","name":"🥈爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/爱看影视.json"},
 
