@@ -19,6 +19,7 @@
     {"key":"csp_biubiu_饭团HD","name":"🥈饭团HD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/饭团HD.json"},
      {"key":"csp_biubiu_万能影视","name":"🥈万能影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/万能影视.json"},
     {"key":"csp_biubiu_麦豆TV","name":"🥈麦豆TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/麦豆TV.json"},
+    {"key":"csp_biubiu_云雀影视","name":"🥈云雀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/云雀影视.json"},
 
     {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场1","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/qiumi.json"},
     {"key": "csp_xpath_网络搜集库88","name": "⚽️球迷专场2","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"}, 
