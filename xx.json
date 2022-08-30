@@ -16,6 +16,7 @@
     {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"快播资源","name":"快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+    {"key":"快播资源","name":"快播资源(优)","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     
 
 ##  切片资源
