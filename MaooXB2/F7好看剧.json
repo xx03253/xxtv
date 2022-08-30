@@ -5,7 +5,7 @@
 "ua": "",
 "User": "空",
 
-  "fenlei": "#电影$/vodtype/1#连续剧$/vodtype/2#综艺$/vodtype/3#动漫$/vodtype/4#B站$/vodtype/20", //网站列表的分类
+  "fenlei": "#电影$/vodtype/1/page/#连续剧$/vodtype/2/page/#综艺$/vodtype/3/page/#动漫$/vodtype/4/page/#B站$/vodtype/20/page/", //网站列表的分类
   "houzhui": "---.html", //网站翻页链接的后缀
 
  "shifouercijiequ": "1",
