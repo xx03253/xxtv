@@ -2,9 +2,9 @@
 "name": "云雀影视",
   "url": "https://v.yunque.vip",
   "tihuan": "cnzz.com",
-  "User": "User-Agent:Dart/2.14 (dart:io)",
+  "User": "",
   "shouye": "1",
-  "fenlei": "电影$/index.php/vod/type/id/20#电视剧$/index.php/vod/type/id/21#综艺$/index.php/vod/type/id/22#综艺$/index.php/vod/type/id/23",
+  "fenlei": "电影$/index.php/vod/type/id/20#电视剧$/index.php/vod/type/id/21#综艺$/index.php/vod/type/id/22#动漫$/index.php/vod/type/id/23",
 
   "houzhui": ".html",
   "shifouercijiequ": "1",
