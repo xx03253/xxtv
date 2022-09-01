@@ -160,20 +160,3 @@ HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 澳视葡文HD,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 ##
-
-##欧美##
-
-
-CGTN(Opt-1),http://live.cgtn.com/500/prog_index.m3u8
-
-
-
-NRBNETWORK,http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-AKCTV-MeettheBreeds,https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
-moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-美国ⅠNewsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-美国ⅠNewsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-CanadaOne[1280*720],http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-TheShop
