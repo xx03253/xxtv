@@ -22,6 +22,9 @@
     
     {"key": "csp_Alist11","name": " Alist(聚合)","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com#米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alist.jar"},
 
+     {"key":"mtv_zh_刺猬影视","name":"刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+     {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+     {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
 ##  切片资源
    
     {"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
