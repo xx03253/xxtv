@@ -122,6 +122,7 @@
 
 ##  切片资源
     {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+    {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
     {"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
