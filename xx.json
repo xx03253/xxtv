@@ -59,11 +59,12 @@
     {"name": "油果","type": 1,"url": "http://json.youguo520.top/fufeng/?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name": "搬运","type": 1,"url": "https://jx.bynote.top/API.php?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
     {"name":"刚刚影视","type":1,"url": " https://vip.fuqizhishi.com/?v="},
+    {"name":"盘古","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}, 
     {"name":"老板","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
     {"name":"ckmov","type":1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    
+    {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
     {"name": "综合","type": 0,"url": "https://okjx.cc/?url="},
     {"name": "江湖","type": 0,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name": "无名","type": 0,"url": "https://www.daga.cc/vip1/?url="},
