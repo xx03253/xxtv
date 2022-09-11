@@ -215,15 +215,11 @@
     {"name":"wp","type":0,"url":"http://api.wpsseo.cn/?v="},
     {"name":"Fosi嗅探","type":1,"url":"https://play.fositv.com/?url="},
     {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-    {"name": "爱豆","type": 1,"url": "https://jx.aidouer.net/?url="},
-    {"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v="},
-    {"name": "LA","type": 0,"url": "https://api.jiexi.la/?url="},
-    {"name": "LE","type": 0,"url": "https://lecurl.cn/?url="},
-    {"name":"萝卜解析","type": 0,"url": "https://ys.lbbb.cc/?url="},
     {"name":"盘古","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="}, 
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name": "江湖","type": 0,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name": "无名","type": 0,"url": "https://www.daga.cc/vip1/?url="},
+    {"name": "LE","type": 0,"url": "https://lecurl.cn/?url="},
     {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 
 ## 备用
