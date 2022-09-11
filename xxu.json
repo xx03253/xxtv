@@ -191,44 +191,36 @@
     
   ],
 
- "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-   {"name": "aiku","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="}, 
-    {"name": "云you解析①","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="}, 
-    {"name": "油果","type": 1,"url": "http://json.youguo520.top/fufeng/?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
-    {"name": "搬运","type": 1,"url": "https://jx.bynote.top/API.php?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-    {"name":"刚刚影视","type":1,"url": " https://vip.fuqizhishi.com/?v="},
-    {"name":"盘古","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}, 
-    {"name":"老板","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
-    {"name":"ckmov","type":1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
-    {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
-    {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+ "parses":[
+    {"name":"解析聚合","type":3,"url":"Demo"},
+    {"name":"Json并发","type":2,"url":"Parallel"},
+    {"name":"Json轮询","type":2,"url":"Sequence"},
+    {"name":"搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+    {"name": "aiku","type": 1,"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="}, 
+    {"name":"未知","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
+    {"name":"懒人","type":1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
     {"name": "综合","type": 0,"url": "https://okjx.cc/?url="},
+    {"name":"wp","type":0,"url":"http://api.wpsseo.cn/?v="},
+    {"name":"Fosi嗅探","type":1,"url":"https://play.fositv.com/?url="},
+    {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+    {"name":"盘古","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="}, 
+    {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name": "江湖","type": 0,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name": "无名","type": 0,"url": "https://www.daga.cc/vip1/?url="},
-    {"name": "parwix","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+    {"name": "LE","type": 0,"url": "https://lecurl.cn/?url="},
+    {"name":"未知2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 
 ## 备用
+    {"name":"刚刚影视","type":0,"url": "https://vip.fuqizhishi.com/?v="},
+    {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+    {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"老板","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
+    {"name":"ckmov","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
     {"name":"纯净1","type":0,"url":"https://z1.m1907.cn/?jx="},
     {"name":"思古","type":0,"url":"https://jsap.attakids.com/?url="},
     {"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="},
     {"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="}
-    
   ],
   "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
   "ijk":[
