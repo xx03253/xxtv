@@ -212,6 +212,7 @@
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
     {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+    {"name": "ZN解析","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},	
     {"name": "云you解析1","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="}, 
     {"name":"wp","type":0,"url":"http://api.wpsseo.cn/?v="},
     {"name": "云you解析2","type": 1,"url": "https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="}, 
@@ -221,8 +222,7 @@
     {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
     {"name":"未知2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    {"name": "解析01","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},	
-	  {"name": "解析02","type": 1,"url": "https://hc.izny.cn/json.php?url="},	
+    
 
 ## 备用
     {"name": "综合","type": 0,"url": "https://okjx.cc/?url="},
