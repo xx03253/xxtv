@@ -220,7 +220,9 @@
     {"name":"诺讯","type":1,"url":"https://www.nxflv.com/?url="},
     {"name":"m3u8tv高清","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
     {"name":"CK","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    {"name":"ZN","type":1,"url":"https://svip.znjson.com/api/?key=U2Yuh6lIZunk6VEvAt&url="},
+    {"name":"ZN","type":0,"url":"https://svip.znjson.com/api/?key=U2Yuh6lIZunk6VEvAt&url="},
+    {"name":"ZN备用","type":1,"url":"https://svip.znjson.com/api/?key=PftTggzBRabgCuvljB&url="},
+    
     //{"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 ## 备用
     
