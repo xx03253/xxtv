@@ -1,0 +1,9 @@
+{
+"免嗅":"1",
+"播放标题":"span>&&<",
+"副标题":"class="pic-text text-right"&&</span>",
+"线路数组": "class="tab-top play-tab clearfix&&</div>",
+"线路标题": "<h3>&&</h3>",
+"播放数组":"class="play-item cont active&&</div>",
+"分类url":"https://www.fantuanhd.com/show/id-{cateId}/page/{catePg}.html"
+}
