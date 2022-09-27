@@ -165,7 +165,7 @@
 		"bfbiaotihou": "</strong>",
 		"bflianjieqian": "data-play=\"",
 		"bflianjiehou": "\"",
-		"bfqianzhui": "http://play.sportsteam333.com"
+		"bfqianzhui": "http://play.sportsteam365.com"
 		},
 		{
 		 "name": "体育-zb8",
