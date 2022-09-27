@@ -1,9 +1,17 @@
-{
+
+{  //饭团HD
 "免嗅":"1",
-"播放标题":"span>&&<",
-"副标题":"class=\"pic-text text-right\"&&</span>",
-"线路数组": "class=\"tab-top play-tab clearfix&&</div>",
-"线路标题": "<h3>&&</h3>",
-"播放数组":"class=\"play-item cont active&&</div>",
-"分类url":"https://www.fantuanhd.com/show/id-{cateId}/page/{catePg}.html"
+"播放数组":"class=\"stui-play__list clearfix&&</div>",
+"分类url":"https://www.fantuanhd.com/type/id-{cateId}/page/{catePg}.html",
+"分类":"电影$20#电视剧$21#综艺$22#动漫$23#纪录片$24#动画片$25",
+"状态":"类型：&&</p>",
+"导演": "导演：&&</p>",
+"主演": "主演：&&</p>",
+"简介": "style=\"display: none;\">&&</div>",
+"标题": "title=\"&&\"",
+"副标题": "class=\"pic-text text-right\">&&</span>",
+"分类数组": "<li>&&</li>",
+"分类标题": ">&&</a>",
+"分类ID": "href=\"&&.html"
 }
+
