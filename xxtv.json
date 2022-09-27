@@ -47,8 +47,8 @@
 
      {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-     {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场1","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/qiumi.json"},
-     {"key": "csp_xpath_网络搜集库88","name": "⚽️球迷专场2","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"}, 
+     {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/qiumi.json"},
+     //{"key": "csp_xpath_网络搜集库88","name": "⚽️球迷专场2","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"}, 
      
     {"key":"csp_appysv2_lkyy","name":" 🤡零刻影院(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
     {"key":"北雁资源","name":"北雁资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
