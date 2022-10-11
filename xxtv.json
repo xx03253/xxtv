@@ -31,7 +31,6 @@
     
     {"key": "csp_Bttoo","name": "🥂两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "KanSJ_spider","name": "🛰️看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
-    //{"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     
     //{"key": "csp_Tkys","name": "📡天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,7 +42,7 @@
     //{"key": "Nfyun", "name": "🥇Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1},
     //{"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
      //{"key":"293视频","name":"🥇293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Auete","name":"🥇Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_Auete","name":"🥇Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
      {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
