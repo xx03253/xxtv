@@ -42,34 +42,31 @@
 
   ],
 
-  "parses":[
+    "parses":[
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "江湖","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name":"云you解析①","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="},
-    {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=iiixiaobai&amp;url="},
-    {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&amp;url="},   
-    {"name":"Parwix","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name": "绿叶","type": 1,"url": "https://hc.izny.cn/json.php?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
-    {"name":"猫","type":1,"url":"https://www.mtosz.com/erzi.php?url="},
-    {"name":"未知2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},  
+    {"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&amp;url="}, 
+    {"name":"GGTV聚合","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&amp;url="},
+    {"name":"未知2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},  
+    {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+    {"name":"猫","type":0,"url":"https://www.mtosz.com/erzi.php?url="},
     {"name":"m3u8tv高清","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
-    {"name":"CK","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
-    {"name":"GO","type":1,"url":"https://go.yh0523.cn/y.cy?url="},
-    {"name":"牛逼解析","type":1,"url":"https://nbjx.vip/?url="},
-    {"name":"365","type":1,"url":"https://chaxun.truechat365.com/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
-    {"name":"8old","type":1,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
-
+    {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+    {"name":"GO","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+    {"name":"牛逼解析","type":0,"url":"https://nbjx.vip/?url="},
+    {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
+    {"name":"8old","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 ## 备用
-    
     {"name":"Fosi嗅探","type":1,"url":"https://play.fositv.com/?url="},
     {"name":"刚刚影视","type":0,"url": "https://vip.fuqizhishi.com/?v="},
-    {"name": "综合","type": 0,"url": "https://okjx.cc/?url="},
+    {"name":"Parwix","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"老板","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
-    {"name":"ckmov","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+    {"name":"ckmov","type":1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
     {"name":"纯净1","type":0,"url":"https://z1.m1907.cn/?jx="},
     {"name": "LE","type": 0,"url": "https://lecurl.cn/?url="},
     {"name":"盘古","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="}, 
@@ -78,7 +75,8 @@
     {"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="},
     {"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="}
   ],
-  "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
+ "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
+  
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
