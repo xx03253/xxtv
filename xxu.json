@@ -22,7 +22,7 @@
     {"key":"csp_XBPQ_黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/黑洞影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_皮皮泡影视","name":"皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/皮皮泡影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
 
-     {"key":"多多资源","name":"祥祥影视(切)","type":1,"api":"http://xxiang.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+     {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://xxiang.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
      
 ## XBiu系列
       {"key":"csp_xb_番茄影视","name":"番茄影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
