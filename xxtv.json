@@ -207,6 +207,7 @@
     {"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&amp;url="}, 
     {"name":"GGTV聚合","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&amp;url="},
     {"name":"未知2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},  
+    {"name":"fk","type":1,"url":"https://fkzymc.cn/player/?url="},
     {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
     {"name":"猫","type":1,"url":"https://www.mtosz.com/erzi.php?url="},
     {"name":"m3u8tv高清","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
