@@ -55,7 +55,7 @@
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://xxiang.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 ## XYPQ系列
 
-     {"key":"csp_XBPQ_厂长影视","name":"厂长影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/厂长影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+  
     {"key":"csp_XBPQ_voflixHD","name":"voflixHD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/voflixHD.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/极品影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_荐片影视","name":"荐片影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/荐片影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
