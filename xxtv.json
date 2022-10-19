@@ -15,7 +15,7 @@
     {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},     
     {"key":"csp_XBPQ_Cokemv","name":"Cokemv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/cokemv.json"},
     {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://xxiang.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-    {"key":"csp_Cokemv","name":"🐝Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_Cokemv","name":"🐝Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "APPTT","name": "🚧图图（SP）","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},  
     //{"key": "神马影院","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Mjxq","name": "🌏美剧星球","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
