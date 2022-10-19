@@ -31,7 +31,7 @@
     //{"key": "神马影院","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"Ikan","name":"🦅爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
     //{"key": "csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.194:7878/xgapp.php/v2/"},
-    //{"key": "Lib","name": "🐛Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
+    {"key": "Lib","name": "🐛Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
     //{"key":"csp_NianYing","name":"NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
      //{"key": "csp_dd5555","name": "5️⃣555影视(SP)","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     //{"key": "csp_Tkys","name": "📡天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
