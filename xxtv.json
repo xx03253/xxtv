@@ -80,6 +80,17 @@
     {"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/alitoken.json"},
     {"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/alitoken.json"},
 
+
+## XBiu系列
+      {"key":"csp_xb_188kan","name":"188看(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://188kan.com/vod-show-id-{cateId}-page-{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+      {"key":"csp_xb_番茄影视","name":"番茄影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+      {"key":"csp_xb_蓝光影院","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
+      {"key":"csp_xb_大米星球","name":"大米星球(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://www.dmxq.fun/vodtype/{cateId}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+       {"key":"csp_xb_影视工厂","name":"影视工厂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://www.ysgc.vip/vodtype/{cateId}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
+      {"key":"csp_xb_大师兄影院","name":"大师兄影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://dsxys.com/type/{cateId}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
+      {"key":"csp_xb_543影视","name":"543影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
+      {"key":"csp_xb_冷曦影视","name":"冷曦影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
+
 ## XYQ系列    
     {"key":"csp_XYQBiu_虎牙直播","name":"🥈虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/虎牙代理直链xyq.json"},
     {"key":"csp_XYQBiu_凌云影视","name":"🥈凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/凌云影视xyq.json"},
