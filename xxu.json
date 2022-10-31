@@ -32,7 +32,7 @@
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://xxiang.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
      {"key":"csp_xpath_88看球","name":"88看球(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"},
 ## XBiu系列
-      
+      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://xxiang.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
       {"key":"csp_xb_188kan","name":"188看(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://188kan.com/vod-show-id-{cateId}-page-{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
       {"key":"csp_xb_番茄影视","name":"番茄影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
       {"key":"csp_xb_蓝光影院","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
