@@ -6,8 +6,8 @@
     //"homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
-        "足球": "football",
-        "篮球": "basketball"
+        //"足球": "football",
+        //"篮球": "basketball"
     },
 	
 	// 首页推荐视频的节点
