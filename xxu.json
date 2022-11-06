@@ -41,8 +41,10 @@
       {"key":"csp_xb_大师兄影院","name":"大师兄影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://dsxys.com/type/{cateId}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
       {"key":"csp_xb_543影视","name":"543影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
       {"key":"csp_xb_冷曦影视","name":"冷曦影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
- 
-  ## 搜搜
+
+      {"key":"csp_xb_88看球","name":"88看球(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://www.88kanqiu.cc/match/{cateId}/live","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+
+## 搜搜
     {"key":"GitCafe","name":"小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alitoken.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
     {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alitoken.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
     {"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alitoken.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
