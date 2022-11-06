@@ -56,7 +56,7 @@
      
      {"key":"csp_XBPQ_抓饭体育","name":"抓饭体育〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/抓饭体育.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
      {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/qiumi.json"},
-     //{"key":"csp_xpath_88看球","name":"88看球(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"},
+     {"key":"csp_xpath_88看球","name":"88看球(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/88kanqiu.json"},
      
      {"key":"csp_appysv2_lkyy","name":" 🤡零刻影院(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
