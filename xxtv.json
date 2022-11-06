@@ -60,7 +60,7 @@
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 ## XYPQ系列
      
-    {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json"},
     {"key":"csp_XBPQ_乐猪TV","name":"乐猪TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/乐猪TV.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_Cokemv","name":"Cokemv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/cokemv.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/LIBVIO.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
@@ -91,7 +91,7 @@
     {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/磁搜.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
 
 ## XBiu系列
-      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
       {"key":"csp_xb_188kan","name":"188看(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://188kan.com/vod-show-id-{cateId}-page-{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
       {"key":"csp_xb_番茄影视","name":"番茄影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
       {"key":"csp_xb_蓝光影院","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"}, 
