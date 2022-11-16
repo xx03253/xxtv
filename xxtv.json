@@ -10,7 +10,7 @@
     {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
     {"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
     {"key":"csp_Kuaikan","name":"💖快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
-    {"key":"追剧喵","name":"🉑追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},    
+    //{"key":"追剧喵","name":"🉑追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},    
     {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/农民.json"},
     {"key":"360_spider","name":"💯360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
     {"key": "csp_Bttoo","name": "🥂两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
