@@ -4,7 +4,7 @@
 
   "sites":[
     {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
-    {"key":"csp_Kunyu77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"}, 
+    {"key":"csp_Kunyu77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
     {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
     {"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://110.42.6.212:7788","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
