@@ -231,7 +231,6 @@
     {"name": "刚佬解析","type": 1,"url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
     {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
     {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"Q1解析","type":1,"url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name": "绿叶","type": 1,"url": "https://hc.izny.cn/json.php?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
