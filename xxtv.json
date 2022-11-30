@@ -6,11 +6,10 @@
     {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key":"csp_Kunyu77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
     {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    //{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
-    //{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://110.42.6.212:7788","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
-    //{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
-   //{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
-    //{"key":"csp_Wmkk","name":"完美看看","api":"csp_Wmkk","type":3,"playerType":2,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/qj.jar"},
+   
+   
+    {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysgc","name":"🎥影视工厂〔SP〕","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dy1010","name":"🔟双十〔SP〕","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_fant","name":"🍙饭团〔SP〕","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -30,7 +29,9 @@
     {"key": "csp_Tkys","name": "📡天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"csp_CZSPP","name":"💟厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🐝Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    
+    {"key":"csp_Auete","name":"🥇Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
 
     
     {"key":"csp_XBPQ_真不卡","name":"真不卡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/真不卡.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
@@ -41,7 +42,7 @@
    
     //{"key": "KanSJ_spider","name": "🛰️看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     
-    //{"key": "神马影院","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "神马影院","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"Ikan","name":"🦅爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
     //{"key": "csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.194:7878/xgapp.php/v2/"},
     //{"key": "Lib","name": "🐛Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
@@ -56,7 +57,7 @@
     //{"key": "Nfyun", "name": "🥇Nf云", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1},
     //{"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
      //{"key":"293视频","name":"🥇293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key":"csp_Auete","name":"🥇Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    
 
     //{"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -228,9 +229,9 @@
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "酷享","type": 1,"url": "http://pandown.pro/app/kxjx.php?url="},
-    {"name":"云you解析①","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=klortuzCGOPRTWZ179&fs=hz&url="},
-    {"name":"Q1解析","type":1,"url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name": "刚佬解析","type": 1,"url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
+    {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
+    {"name":"Q1解析","type":1,"url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name": "绿叶","type": 1,"url": "https://hc.izny.cn/json.php?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="}, 
