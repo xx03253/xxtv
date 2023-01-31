@@ -14,7 +14,8 @@
     {"key": "csp_panghu","name": "🐯胖虎┃SP","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "AppTT","name": "🐰图图┃SP","type": "3","api": "csp_Dora","playerType": 2,"searchable": "1","quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5"},
     {"key": "Tian","name": "🗽天天┃SP","type": "3","api": "csp_Dora","playerType": 2,"searchable": "1","quickSearch": "1","filterable": "1","ext": "bdc1c75081e5e477189a463baa47e392"},
-    
+     {"key": "csp_Xinsj","name": "🐼新视觉┃SP","type": 3,"api": "csp_Xinsj","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
+     
     {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     
 
@@ -48,7 +49,7 @@
     //{"key":"csp_EEEDY","name":"💮飘花┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_ZJMiao","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+    
     
     {"key":"csp_Yj1211","name":"📽️网红直播┃SP","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
