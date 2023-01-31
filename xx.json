@@ -54,7 +54,7 @@
      {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-    {"name": "Q1","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/7fa2a912caa50aad3b026816dd706c51?url="},
+    {"name": "Q1","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/4057e25c9e884b4fa1afd01c7d5a7c99?url="},
     {"name": "刚佬解析","type": 1,"url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
     {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
     {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
