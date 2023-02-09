@@ -9,7 +9,7 @@
     {"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"📕可乐┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Czsapp","name":"📔大厂┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+   
     {"key": "csp_BuLei","name": "💢布雷┃SP","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_panghu","name": "🐯胖虎┃SP","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "AppTT","name": "🐰图图┃SP","type": "3","api": "csp_Dora","playerType": 2,"searchable": "1","quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5"},
@@ -49,7 +49,7 @@
     //{"key":"csp_EEEDY","name":"💮飘花┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-    
+     {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     
     {"key":"csp_Yj1211","name":"📽️网红直播┃SP","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -227,8 +227,8 @@
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "Q1","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/4057e25c9e884b4fa1afd01c7d5a7c99?url="},
-    {"name": "刚佬解析","type": 1,"url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
-    {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
+    {"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=d3f73a7d6d366b864e522d60aa0703f1&url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name": "绿叶","type": 1,"url": "https://hc.izny.cn/json.php?url="},
