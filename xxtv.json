@@ -5,8 +5,6 @@
   "sites":[
 
     {"key": "csp_kuaikan","name": "👀快看┃SP","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key": "csp_YQKAPP","name": "🎉一起看┃SP","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"},  
-    
     {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
 
     {"key": "csp_AppTT","name": "🐰图图┃SP","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="    }, 
