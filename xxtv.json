@@ -26,6 +26,7 @@
     {"key": "csp_Auete","name": "🏝Aue┃SP","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_Bttoo","name": "✌BTtwo┃SP","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1}, 
     {"key": "csp_panghu","name": "🐯胖虎┃SP","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+    {"key": "csp_Lib","name": "🌟Lib┃SP","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://libvio.me"}, 
     {"key": "csp_zxzj","name": "📗在线┃SP", "type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key": "csp_Lgyy","name": "🌀蓝光┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.tv"}, 
     {"key": "csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1 },   
