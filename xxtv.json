@@ -19,7 +19,7 @@
     {"key": "csp_Xinsj","name": "🐼新视觉┃SP","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy2.com"},   
     {"key": "csp_Czsapp","name": "📔厂长┃SP","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_apple","name": "🍎苹果┃SP","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "195da83f347a4c2d93cc82c9a5032d31"    },  
+    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "2a6222e0bcfc43ffba09ba357c72e9e2"    },  
     {"key": "Zhaozy","name": "找资源┃搜4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "2a6222e0bcfc43ffba09ba357c72e9e2"    },
     {"key": "csp_Slsp", "name": "🍅石榴┃SP","type": 3,"api": "csp_Slsp", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/石榴.json"}, 
     { "key": "csp_77","name": "👒七七┃SP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
