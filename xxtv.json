@@ -36,7 +36,7 @@
     {"key": "csp_Ysgc","name": "🏭工厂┃SP","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "hhttps://www.ysgc.vip"}, 
     {"key": "csp_SP360","name": "📺360┃SP","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1, "changeable": 0 }, 
     {"key": "csp_Nkdy","name": "👓耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
+    //{"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
