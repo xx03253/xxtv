@@ -1,13 +1,14 @@
 {
-  "spider":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/xxtv.jar;md5;c0b06f12d55a60b879294d5bf1496efe",
+  //"spider":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/xxtv.jar;md5;c0b06f12d55a60b879294d5bf1496efe",
+  "spider":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxtv.bmp;md5;d08ffe80c85b2d91d654af8c2d6cc862",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
 
 
     {"key": "csp_kuaikan","name": "👀快看┃SP","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key": "csp_BuLei","name": "💢布雷┃SP","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"    },  
+    {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+    {"key": "csp_BuLei","name": "💢布雷┃SP","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.bulei.cc/"    },  
     {"key": "csp_555","name": "5⃣555┃SP","type": 3,"api": "csp_Ys555","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.555dyy1.com"    },  
     //{"key": "csp_Yht","name": "🍀野荷塘┃SP","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"     },   
     {"key": "csp_fantuan","name": "🍙饭团┃SP","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},  
@@ -36,6 +37,8 @@
     {"key": "csp_Ysgc","name": "🏭工厂┃SP","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "hhttps://www.ysgc.vip"}, 
     {"key": "csp_SP360","name": "📺360┃SP","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1, "changeable": 0 }, 
     {"key": "csp_Nkdy","name": "👓耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},  
+    {"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
+
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
     {"key":"csp_XBPQ_真不卡","name":"真不卡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/真不卡.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
