@@ -38,7 +38,7 @@
     {"key": "csp_Nkdy","name": "👓耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
     
-    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "2a6222e0bcfc43ffba09ba357c72e9e2"},  
+    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "ab32e094f9784bb8a7c9f18123c6d308"},  
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
     {"key":"csp_XBPQ_真不卡","name":"真不卡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/真不卡.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
