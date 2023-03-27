@@ -19,8 +19,8 @@
     {"key": "csp_Xinsj","name": "🐼新视觉┃SP","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},   
     {"key": "csp_Czsapp","name": "📔厂长┃SP","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_apple","name": "🍎苹果┃SP","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/alitoken"    },  
-    {"key": "Zhaozy","name": "找资源┃搜4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/alitoken"    },
+    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"    },  
+    {"key": "Zhaozy","name": "找资源┃搜4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"    },
     {"key": "csp_Slsp", "name": "🍅石榴┃SP","type": 3,"api": "csp_Slsp", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/石榴.json"}, 
     { "key": "csp_77","name": "👒七七┃SP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key": "csp_DiDuan","name": "⏮低端┃SP","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},  
@@ -38,7 +38,7 @@
     {"key": "csp_Nkdy","name": "👓耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
     
-    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://ali.饭太硬.ml/alitoken"},  
+    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},  
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
     {"key":"csp_XBPQ_真不卡","name":"真不卡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/真不卡.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
