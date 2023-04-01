@@ -58,6 +58,9 @@
      
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
+     {"key": "Alist1","name": "🅿┃Alis ┃网盘","type": 3,"api": "https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.min.js","ext": "https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alist.jar"}, 
+
+
 ## XYPQ系列
     {"key":"csp_XBPQ_新视觉影院","name":"新视觉影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/新视觉影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"}, 
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
@@ -79,7 +82,7 @@
     {"key":"csp_XBPQ_黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/黑洞影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_皮皮泡影视","name":"皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/皮皮泡影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
 
-    {"key": "Alist1","name": "🅿┃Alis ┃网盘","type": 3,"api": "https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.min.js","ext": ".https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/alist.jar"}, 
+    
 
     ## 搜搜
     {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},
