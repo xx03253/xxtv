@@ -6,7 +6,7 @@
 
 
     {"key": "csp_kuaikan","name": "👀快看┃SP","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+    
     {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},  
     {"key": "csp_BuLei","name": "💢布雷┃SP","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.bulei.cc/"    },  
     {"key": "csp_555","name": "5⃣555┃SP","type": 3,"api": "csp_Ys555","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.555dyy1.com"    },  
@@ -40,6 +40,8 @@
     {"key": "csp_SP360","name": "📺360┃SP","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1, "changeable": 0 }, 
     {"key": "csp_Nkdy","name": "👓耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_MeiJu69","name": "🗽69美剧┃直连","type": 3,"api": "csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"    }, 
+    
+    {"key":"csp_XBPQ_祥祥影视","name":"祥祥影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
