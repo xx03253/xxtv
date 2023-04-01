@@ -1,139 +1,92 @@
-[
-     {
-        "name" : "🙋丫仙女",
-        "server" : "http://alist.xiaoya.pro",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+{
+  "drives": [
+    {
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro/测试（不限速）/"
     },
-      {
+    {
         "name": "肥猫",
-      "server": "https://alist.ys-box.repl.co/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },      
+      "server": "https://alist.ys-box.repl.co/"
+    },     
     {
         "name": "蓝魔",
-      "server": "https://alistcn.repl.co",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },    
- 
-        {
+      "server": "https://alistcn.repl.co/"
+    },   
+    {
+      "name": "动漫盘",
+      "server": "http://pan.smjc.cc/自用Open/动画片/"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    },
+     {
         "name" : "小白",
-        "server" : "https://xgs.rainyun.pro/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://xgs.rainyun.pro/"
     },
 
         {
         "name" : "一只鱼",
-        "server" : "https://alist.youte.ml",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://alist.youte.ml/"
     },
 
         {
         "name" : "神族",
-        "server" : "https://alist.shenzjd.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://alist.shenzjd.com/"
     },
         {
         "name" : "姬路",
-        "server" : "https://pan.jlbx.xyz",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://pan.jlbx.xyz/"
     },
 
         {
         "name" : "听闻",
-        "server" : "https://wangpan.sangxuesheng.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://wangpan.sangxuesheng.com/"
     },
         {
         "name" : "DISK",
-        "server" : "http://124.222.140.243:8080",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "http://124.222.140.243:8080/"
     },
         {
         "name" : "云播放",
-        "server" : "https://quanzi.laoxianghuijia.cn",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-        "name" : "星梦",
-        "server" : "https://pan.bashroot.top",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-        "name" : "触光",
-        "server" : "https://pan.ichuguang.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
+        "server" : "https://quanzi.laoxianghuijia.cn/"
+    },{
         "name" : "好汉吧",
-        "server" : "https://8023.haohanba.cn",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://8023.haohanba.cn/"
     },
     {
         "name" : "小光组",
-        "server" : "https://6vv.app",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://6vv.app/"
     },
      {
         "name" : "SB盘",
-        "server" : "http://sbpan.tk",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "http://sbpan.tk/"
     },
 
         {
         "name" : "repl",
-        "server" : "https://ali.liucn.repl.co",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://ali.liucn.repl.co/"
+      
     },
         {
         "name" : "秋雨分享",
-        "server" : "https://share.laowang.me",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://share.laowang.me/"
+       
     },
      {
         "name" : "梓澪",
-        "server" : "https://zi0.cc",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
+        "server" : "https://zi0.cc/"
+        
     },
         {
         "name" : "讯维",
-        "server" : "https://pan.xwbeta.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    }]
+        "server" : "https://pan.xwbeta.com/"
+       
+    }
+    
+  ]
+}
