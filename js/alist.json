@@ -16,7 +16,10 @@
       "name": "星梦",
       "server": "https://pan.bashroot.top"
     },
- 
+    {
+      "name": "大人盘",
+      "server": "https://43.154.55.240:1443/"
+    },
     {
         "name" : "讯维",
         "server" : "https://pan.xwbeta.com/"
