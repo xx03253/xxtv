@@ -8,7 +8,7 @@
     {"key": "csp_kuaikan","name": "👀快看┃SP","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_fantuan","name": "🍙饭团┃SP","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},  
     {"key": "csp_AppMr","name": "👻明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},  
+    {"key": "csp_FanYY","name": "💦剥饭┃4K","type": 3,"api": "csp_FanYY","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://ali.饭太硬.ml/alitoken"},  
     {"key": "csp_YQKAPP","name": "🎉一起看┃SP","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"  }, 
     {"key": "csp_AppTT","name": "🐰图图┃影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,      "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    }, 
     {"key": "csp_Hlsp","name": "💣黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/黑料.json"    },   
@@ -18,8 +18,8 @@
     {"key": "csp_Xinsj","name": "🐼新视觉┃SP","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},   
     {"key": "csp_Czsapp","name": "📔厂长┃SP","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key": "csp_apple","name": "🍎苹果┃SP","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},  
-    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"    },   
-    {"key": "Zhaozy","name": "找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"    }, 
+    {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"    },   
+    {"key": "Zhaozy","name": "找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"    }, 
     {"key": "csp_Slsp", "name": "🍅石榴┃SP","type": 3,"api": "csp_Slsp", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/石榴.json"}, 
     { "key": "csp_77","name": "👒七七┃SP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key": "csp_DiDuan","name": "⏮低端┃SP","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},  
@@ -88,10 +88,10 @@
     
 
     ## 搜搜
-    {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},
-    {"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},
-    {"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},
-    {"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/token.txt"},
+    {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+    {"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+    {"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+    {"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/磁搜.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
 
 ## XBiu系列
