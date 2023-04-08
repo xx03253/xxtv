@@ -21,7 +21,7 @@
     {"key": "csp_apple","name": "🍎苹果┃SP","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},  
     
     {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://我不是.肥猫.love:63/token.php"    },   
-    {"key": "Zhaozy","name": "找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://我不是.肥猫.love:63/token.php"    }, 
+    {"key": "Zhaozy","name": "找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"    }, 
     {"key": "csp_Slsp", "name": "🍅石榴┃SP","type": 3,"api": "csp_Slsp", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/石榴.json"}, 
     { "key": "csp_77","name": "👒七七┃SP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key": "csp_DiDuan","name": "⏮低端┃SP","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},  
