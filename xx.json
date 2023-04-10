@@ -35,12 +35,12 @@
     {"key":"csp_appysv2_柚子TV","name":"柚子TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tvht.lanrentk.cc/api.php/iptv/vod/"},
     
      ## 搜搜
-    {"key":"GitCafe","name":"小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
-    {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
-    {"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
-    {"key":"Zhaozy","name":"找资源┃云盘搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
-    {"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
-    {"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"254696874f8340a2abcbd0cfea9142f4","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"GitCafe","name":"小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"Zhaozy","name":"找资源┃云盘搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
+    {"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
     {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/磁搜.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/ali.jar"},
     
 
