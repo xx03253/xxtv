@@ -8,10 +8,10 @@
    {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
    {"key": "csp_appys_如意4K","name": "如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},    
    {"key":"csp_XBPQ_祥祥影视","name":"祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-   {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+   {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy3.com"},
    {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
    {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"},
+   {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
    {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
    
    //{"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
