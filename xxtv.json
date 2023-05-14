@@ -109,6 +109,10 @@
     {"key":"csp_xpath_meiju562","name":"🥈美剧56(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/meiju562.json"},
 
 
+## XB系列
+   
+    {"key":"csp_biubiu_神马影院","name":"🥈神马影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/神马影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+
 
 ##  切片资源
     {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
