@@ -112,7 +112,13 @@
 ## XB系列
    
     {"key":"csp_biubiu_神马影院","name":"🥈神马影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/神马影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-
+        {"key":"csp_biubiu_23影院","name":"🥈23影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/23影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/骚火电影.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_乐猪影视","name":"🥈乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/乐猪影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_chok8电影","name":"🥈chok8电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/chok8电影.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_九州影视","name":"🥈九州影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/九州影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_1080Kkk","name":"🥈1080Kkk(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/1080Kkk.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_飘花播播","name":"🥈飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/飘花播播.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
 
 ##  切片资源
     {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
