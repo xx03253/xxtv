@@ -52,18 +52,7 @@
     {"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"快播资源","name":"快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    
-    {"key":"森林资源","name":"森林资源(禁)","type":1,"api":"https://senlinzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"155zy资源","name":"155zy资源(禁)","type":1,"api":"https://155api.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"玉兔资源","name":"玉兔资源(禁)","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"真的不卡资源","name":"真的不卡(禁)","type":1,"api":"https://mudansp.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"奥斯卡资源","name":"奥斯卡资源(禁)","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"乐播资源","name":"乐播资源(禁)","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"老鸭资源","name":"老鸭资源(禁)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"色窝资源","name":"色窝资源(禁)","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"秀色资源网","name":"秀色资源网(禁)","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"探探资源","name":"探探资源(禁)","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-   
+
     {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 
 
