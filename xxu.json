@@ -4,7 +4,9 @@
 
   "sites":[
  ## XYPQ系列
-    
+    {"key":"csp_XBPQ_祥祥影视","name":"祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+    {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/bidid.json"},
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_Cokemv","name":"Cokemv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/cokemv.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/LIBVIO.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
