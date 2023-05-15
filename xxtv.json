@@ -10,6 +10,7 @@
    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
    
    {"key": "虎牙资源","name": "🐯虎牙┃资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://huyajx.com/play?url="},		
+   {"key": "光速资源","name": "光速资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
 
    {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy3.com"},
    {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
