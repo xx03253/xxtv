@@ -87,10 +87,6 @@
     
 
 ## XYPQ系列
-    {"key":"csp_XBPQ_魔力影视","name":"魔力影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/魔力影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQnew.jar"},
-    {"key":"csp_XBPQ_端木蓝光","name":"端木蓝光〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/端木蓝光.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQnew.jar"},
-    {"key":"csp_XBPQ_兔兔瓜","name":"兔兔瓜〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/兔兔瓜.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQnew.jar"},
-    {"key":"csp_XBPQ_A8影视","name":"A8影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/A8影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQnew.jar"},
 
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     {"key":"csp_XBPQ_Cokemv","name":"Cokemv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/cokemv.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
