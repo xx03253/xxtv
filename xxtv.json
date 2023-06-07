@@ -13,8 +13,7 @@
    {"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
    {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://wogg.xyz/"},
    
-   {"key": "酷影", "name": "泰泰┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.222.175.111:89/api.php/app/"
-   }, 
+  
    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
@@ -55,12 +54,13 @@
    //{"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
     {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     
-   
+    
     {"key":"csp_XBPQ_真不卡","name":"真不卡┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/真不卡.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
     
     {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/bidid.json"},
     {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/yinfans.json"},
     
+     {"key": "酷影", "name": "酷影┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.222.175.111:89/api.php/app/"}, 
     {"key": "虎牙资源","name": "🐯虎牙┃资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8//?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://huyajx.com/play?url="},		
     {"key": "光速资源","name": "🐕‍🦺光速┃资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
    
