@@ -14,9 +14,7 @@
    {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://wogg.xyz/"},
   
    {"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/bulei.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
-   {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/aliyunpan.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
-   {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/4KHDR.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
-
+  
    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
   
    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
@@ -77,6 +75,8 @@
 
     {"key": "csp_Paper","name": "📜纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://我不是.肥猫.love:63/token.php"    },   
     {"key": "Zhaozy","name": "找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"    }, 
+     {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/aliyunpan.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
+    {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/4KHDR.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
 
 
     {"key": "csp_Alist1","name": "🅿Alist┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0, "ext": "https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.json"    }, 
