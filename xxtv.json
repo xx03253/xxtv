@@ -4,7 +4,7 @@
 
   "sites":[
 
-   {"key":"js豆瓣","name":"🐼祥影视┃豆瓣┃","type":3,"api":"https://agit.ai/xx03253/xxu/raw/branch/main/JS/drpy2.min.js","ext":"https://agit.ai/xx03253/xxu/raw/branch/main/JS/豆瓣.js"},
+   {"key":"js豆瓣","name":"🐼祥影视┃豆瓣","type":3,"api":"https://agit.ai/xx03253/xxu/raw/branch/main/js/drpy2.min.js","ext":"https://agit.ai/xx03253/xxu/raw/branch/main/js/豆瓣.js"},
    
    {"key":"班班蓝光","name":"🪓️┃鲁班┃七号","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198/api.php/app/"},
    {"key": "玩偶1", "name": "🐔玩偶┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,  "filterable": 1,  "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
