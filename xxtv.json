@@ -4,9 +4,9 @@
 
   "sites":[
 
-   {"key":"js豆瓣","name":"🐼祥影视┃豆瓣","type":3,"api":"https://agit.ai/xx03253/xxu/raw/branch/main/js/drpy2.min.js","ext":"https://agit.ai/xx03253/xxu/raw/branch/main/js/豆瓣.js"},
-   
-   {"key":"班班蓝光","name":"🪓️┃鲁班┃七号","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198/api.php/app/"},
+   //{"key":"js豆瓣","name":"🐼祥影视┃豆瓣","type":3,"api":"https://agit.ai/xx03253/xxu/raw/branch/main/js/drpy2.min.js","ext":"https://agit.ai/xx03253/xxu/raw/branch/main/js/豆瓣.js"},
+   {"key":"js豆瓣","name":"🐼祥影视┃豆瓣","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
+  
    {"key": "玩偶1", "name": "🐔玩偶┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,  "filterable": 1,  "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
    
    {"key":"影探4K","name":"💧影探|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
@@ -33,6 +33,7 @@
    {"key": "csp_beijihu","name": "🎪┃极狐┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
    {"key": "东方影视","name": "🐲东方┃影视", "type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.dfspapp.com/api.php/app/"},
    {"key": "萌蛋蛋","name": "🥚萌蛋蛋┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.mengdandan.com/xgapp.php/v1/"},
+    {"key":"班班蓝光","name":"🪓️┃鲁班┃七号","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198/api.php/app/"},
 
    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
    {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
