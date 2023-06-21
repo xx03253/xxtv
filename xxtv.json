@@ -10,7 +10,7 @@
    
    {"key": "飞飞","name": "🏵飞飞┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://longfei.lfytyl.com/api.php/app/"},
    
-   {"key": "csp_appys_多米","name": "🍐多米┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.dmdh.top/api.php/app/"},   
+   //{"key": "csp_appys_多米","name": "🍐多米┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.dmdh.top/api.php/app/"},   
    //{"key": "3412","name": "🅱️磁力熊熊|T追剧","type": 1,"api": "https://v.3412.net.cn/macapi.php/provide/vod","playUrl": "https://player.i597.cc/?url=","searchable": 1,"quickSearch": 1,"filterable":1},
    
    {"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
@@ -21,16 +21,16 @@
    { "key": "落叶", "name": "💧落叶┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/" },
    //{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/bulei.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
   
-   {"key":"啊班云","name":"💧啊班云","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch": 1, "filterable":1,"ext":"http://a.banwl.com/api.php/app/" },
+   //{"key":"啊班云","name":"💧啊班云","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch": 1, "filterable":1,"ext":"http://a.banwl.com/api.php/app/" },
    {"key": "csp_DuoX","name": "💢多线┃APP","type": 3,"api": "csp_DuoX","searchable": 1,"quickSearch": 1,"filterable": 1},
    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
    
-   {"key": "csp_酷影","name": "🖼️┃酷影┃蓝光","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.wbsys.top:9835/api.php/app/"},	
-   {"key": "csp_xml影视乐","name": "🐏┃乐乐┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.ysle.cn/api.php/app/"},
+   //{"key": "csp_酷影","name": "🖼️┃酷影┃蓝光","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.wbsys.top:9835/api.php/app/"},	
+   //{"key": "csp_xml影视乐","name": "🐏┃乐乐┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.ysle.cn/api.php/app/"},
    {"key": "csp_beijihu","name": "🎪┃极狐┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
    {"key": "东方影视","name": "🐲东方┃影视", "type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.dfspapp.com/api.php/app/"},
    {"key": "萌蛋蛋","name": "🥚萌蛋蛋┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.mengdandan.com/xgapp.php/v1/"},
-    {"key":"班班蓝光","name":"🪓️┃鲁班┃七号","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198/api.php/app/"},
+   //{"key":"班班蓝光","name":"🪓️┃鲁班┃七号","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198/api.php/app/"},
 
    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/祥祥影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
    {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
