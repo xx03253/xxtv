@@ -186,7 +186,12 @@
         "type": 3, 
         "url": "Web" 
     },
-    {"name":"猫影视","type":1,"url":"https://www.itvbox.cc/bftihuan.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+    {"name":"猫影视","type":1,"url":"https://www.itvbox.cc/bftihuan.php?url="},
+    {"name": "但行好事", "type": 1, "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
+    {"name": "稻香🌾","type": 1,"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="},
+    {"name": "窗外🪟","type": 1, "url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url=","header": {"User-Agent": "Dart/2.14 (dart:io)"}},
+    {"name": "落叶🍂","type": 1,"url": "http://110.42.2.247:880//analysis//json//?uid=2373&my=fgimDLMOQTUWYZ0568&url="},
+
     {
 		"name": "爱奇艺",
 		"type": 0,
@@ -293,6 +298,7 @@
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}],
+
 
  "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
   "ijk":[
