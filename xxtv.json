@@ -7,8 +7,8 @@
    
    {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
    
-   {"key": "飞飞","name": "🏵飞飞┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://big.lfytyl.com/api.php/app/"},
-   
+   //{"key": "飞飞","name": "🏵飞飞┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://big.lfytyl.com/api.php/app/"},
+   {"key": "探探","name": "🏵探探┃App","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"filterable": 1},
    {"key": "酷酷","name": "💡酷酷┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.realdou.cn/api.php/app/","categories": ["4K电影","4K电视剧"]},
 
   
