@@ -3,9 +3,9 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
-   {"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
-   
+  
    {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
    
    //{"key": "飞飞","name": "🏵飞飞┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://big.lfytyl.com/api.php/app/"},
    {"key": "探探","name": "🏵探探┃App","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"filterable": 1},
