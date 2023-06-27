@@ -19,7 +19,7 @@
    
    {"key": "app_影视之光","name": "🎳┃八仟┃影视","type": 1,"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"},		
 
-   
+   { "key": "如意4K", "name": "💧如意┃4K", "type": 3, "api":"https://agit.ai/xx03253/xxu/raw/branch/main/js/drpy2.min.js","ext":"https://agit.ai/xx03253/xxu/raw/branch/main/js/ruyi.js"},
    //{"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
   //{"key": "玩偶1", "name": "🐔玩偶┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,  "filterable": 1,  "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
   {"key": "黄黄", "name": "😎迪迪┃App","api": "csp_AppYsV2","type": 3,"filterable": 1, "quickSearch": 1, "searchable": 1, "ext": "https://api123.adys.app/xgapp.php/v3/"},
@@ -61,7 +61,7 @@
     
    {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
    
-   {"key": "csp_appys_如意4K","name": "🐵如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},    
+   //{"key": "csp_appys_如意4K","name": "🐵如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},    
    
    //{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/bulei.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
    //{"key": "csp_appys_多米","name": "🍐多米┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.dmdh.top/api.php/app/"},   
