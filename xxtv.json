@@ -190,6 +190,8 @@
         "type": 3, 
         "url": "Web" 
     },
+    {"name": "牛牛","type": 1,"url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
+    {"name": "逼逼","type": 1,"url": "http://json.g9.pub:66/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
     {"name":"猫影视","type":1,"url":"https://www.itvbox.cc/bftihuan.php?url="},
     {"name": "但行好事", "type": 1, "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
     {"name": "稻香🌾","type": 1,"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="},
