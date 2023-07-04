@@ -97,8 +97,8 @@
 
 
    
-    {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/aliyunpan.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
-    {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/4KHDR.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
+    //{"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/aliyunpan.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
+    //{"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/4KHDR.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/xxu.jar"},
 
 
     //{"key": "csp_Alist1","name": "🅿Alist┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0, "ext": "https://agit.ai/xx03253/xxu/raw/branch/main/js/alist.json"    }, 
