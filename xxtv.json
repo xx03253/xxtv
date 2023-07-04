@@ -106,8 +106,6 @@
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-
-
      {"key":"csp_XBPQ_抓饭体育","name":"抓饭体育〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/抓饭体育.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
      {"key": "88js","name": "⚽88看球","type": 3,"api": "https://agit.ai/xx03253/xxu/raw/branch/main/js/drpy.min.js","ext": "https://agit.ai/xx03253/xxu/raw/branch/main/KQ/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0 }, 
      {"key": "csp_xp_qiumi","name": "⚽Jrs球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/KQ/dj看球.json"    }, 
@@ -116,7 +114,7 @@
      {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
      {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
      
-     {"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/cilixiong.json"},
+     //{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/cilixiong.json"},
 
       ## 搜搜
    {"key": "YiSo","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
