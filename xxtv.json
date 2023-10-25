@@ -1,9 +1,9 @@
 {
-  "spider":"https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.jar;md5;f929984aa10b97ff0be20af3dacd9de0",
+  "spider":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXB2/xxtv.jar;md5;f929984aa10b97ff0be20af3dacd9de0",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
-   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://141.147.146.105/xxu/XBPQ/祥祥影视.json","jar":"http://141.147.146.105/xxu/jar/XBPQ.jar"},
+   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/祥祥影视.json","jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/XBPQ.jar"},
   
     {"key": "csp_WoGG","name": "👽阿里云盘扫码┃4k画质","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"},
     
@@ -64,8 +64,8 @@
   
     
     
-     //{"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://141.147.146.105/xxu/MaooXP/bidid.json"},
-    {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://141.147.146.105/xxu/MaooXP/yinfans.json"},
+     //{"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/bidid.json"},
+    {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/yinfans.json"},
     
     
     {"key": "虎牙资源","name": "🐯虎牙┃资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8//?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://huyajx.com/play?url="},		
@@ -76,21 +76,21 @@
 
     //{"key": "量子云播","name": "🐝┃量子┃资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://lziplayer.com/?url="},
     
-    {"key": "csp_XBPQ_量子[影视范]去广告","name": "量子┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://141.147.146.105/xxu/XBPQ/量子[影视范]去广告.json"},
-    {"key": "csp_XBPQ_非凡[影视范]去广告","name": "非凡┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://141.147.146.105/xxu/XBPQ/非凡[影视范]去广告.json"},
+    {"key": "csp_XBPQ_量子[影视范]去广告","name": "量子┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/量子[影视范]去广告.json"},
+    {"key": "csp_XBPQ_非凡[影视范]去广告","name": "非凡┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/非凡[影视范]去广告.json"},
 
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-     {"key":"csp_XBPQ_抓饭体育","name":"抓饭体育〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://141.147.146.105/xxu/XBPQ/抓饭体育.json","jar":"http://141.147.146.105/xxu/jar/XBPQ.jar"},
-     {"key": "88js","name": "⚽88看球","type": 3,"api": "http://141.147.146.105/xxu/js/drpy.min.js","ext": "http://141.147.146.105/xxu/KQ/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0 }, 
-     {"key": "csp_xp_qiumi","name": "⚽Jrs球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://141.147.146.105/xxu/KQ/dj看球.json"    }, 
-     {"key": "csp_XYQBiu_310直播","name": "⚽310看球","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "http://141.147.146.105/xxu/KQ/310直播.json" }, 
+     {"key":"csp_XBPQ_抓饭体育","name":"抓饭体育〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/抓饭体育.json","jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/XBPQ.jar"},
+     {"key": "88js","name": "⚽88看球","type": 3,"api": "https://gitlab.com/xx03253/xxtv/-/raw/main/js/drpy.min.js","ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0 }, 
+     {"key": "csp_xp_qiumi","name": "⚽Jrs球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/dj看球.json"    }, 
+     {"key": "csp_XYQBiu_310直播","name": "⚽310看球","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/310直播.json" }, 
 
      {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
      {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
      
-     //{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://141.147.146.105/xxu/MaooXP/cilixiong.json"},
+     //{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/cilixiong.json"},
 
       ## 搜搜
    {"key": "YiSo","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
