@@ -7,7 +7,7 @@
      
      {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/祥祥影视.json","jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/XBPQ.jar"},
 
-     {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+     {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 
     {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
