@@ -11,7 +11,7 @@
 
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
-    {
+     {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy33.com/"
+      "ext": "https://www.czzy22.com/"
     },
     {
       "key": "橘子",
@@ -37,7 +37,7 @@
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
