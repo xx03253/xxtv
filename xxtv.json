@@ -15,11 +15,11 @@
 
      {"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
      "jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/pg.jar",
-     "ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/js/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://gitlab.com/xx03253/xxtv/-/raw/main/js/wogg.json"},
+     "ext":"./tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./js/wogg.json"},
 
      {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
      "jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/pg.jar",
-     "ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/js/tokenm.json$$$null$$$1"},
+     "ext":"./js/tokenm.json$$$null$$$1"},
 
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
