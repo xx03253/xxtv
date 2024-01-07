@@ -10,11 +10,11 @@
      {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/$$$弹"},
     
      {"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
-     "jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/pg.jar",
-     "ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/js/tokenm.json$$$https://wogg.link/|wogg.link$$$null$$$1$$$https://gitlab.com/xx03253/xxtv/-/raw/main/js/wogg.json"},
+     "jar":"./jar/pg.jar",
+     "ext":"./js/tokenm.json$$$https://wogg.link/|wogg.link$$$null$$$1$$$./js/wogg.json"},
 
      {"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
-     "jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/pg.jar",
+     "jar":"./jar/pg.jar",
      "ext":"./tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./js/wogg.json"},
 
      {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
