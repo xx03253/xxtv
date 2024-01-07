@@ -11,7 +11,7 @@
     
      //{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"./jar/pg.jar","ext":"./js/tokenm.json$$$https://wogg.xyz/|wogg.xyz$$$null$$$1$$$./js/wogg.json"},
      
-     {"key":"ysc","name":"👽阿里云盘|影视车","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.weixine.net$$$弹"},
+     {"key":"ysc","name":"👽阿里云盘|影视车","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.weixine.net/$$$弹"},
 
      {"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, 
      "jar":"./jar/pg.jar",
