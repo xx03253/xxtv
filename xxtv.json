@@ -16,7 +16,7 @@
      {"key": "天天","name": "弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
      {"key":"荐片弹幕版","name":"弹幕┃荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/jianpian.json$$$1","jar":"./jar/pg.jar","timeout":60},
 
-     {"key":"csp_WoGG","name":"弹幕┃哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://tvfan.xxooo.cf/$$$1$$$./js/wogg.json", "timeout":30},
+     {"key":"csp_WoGG","name":"弹幕┃哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://tvfan.xxooo.cf/$$$1$$$./js/wogg.json","jar":"./jar/pg.jar", "timeout":30},
 
      {"key":"祥祥影视","name":"祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
