@@ -15,7 +15,7 @@
      
      {"key": "996影院","name": "影视┃996","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"jar":"./jar/pg.jar"},
      {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js","jar":"./jar/pg.jar","timeout":30}, 
-    
+     {"key": "天天","name": "弹幕 | 天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
 
      {
       "key": "Czsapp",
