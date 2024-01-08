@@ -19,6 +19,16 @@
      {"key":"祥祥影视","name":"祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
      {
+      "key": "网络接口", 
+      "name": "🌟 切片接口┃多线过滤", 
+      "type": 1, 
+      "api": "http://film.benmx.com/api.php/tvbox", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+     }, 
+
+     {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
