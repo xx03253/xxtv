@@ -217,25 +217,24 @@
 
 ## XYPQ系列
     
-    {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/384影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/胖虎影视.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/LIBVIO.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_voflixHD","name":"voflixHD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/voflixHD.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_555电影","name":"555电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/555电影.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_巨人影院","name":"巨人影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/XBPQ/巨人影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/384影视.json","jar":"./jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/胖虎影视.json","jar":"./jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/LIBVIO.json","jar":"./jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_voflixHD","name":"voflixHD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflixHD.json","jar":"./jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_555电影","name":"555电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555电影.json","jar":"./jar/XBPQ.jar"},
+    {"key":"csp_XBPQ_巨人影院","name":"巨人影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影院.json","jar":"./jar/XBPQ.jar"},
 
 
 ## XBiu系列
-      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/jar/XBiu.jar"},
+      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"./jar/XBiu.jar"},
 
 ## XB系列
-    {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/骚火电影.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_voflix","name":"🥈voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/voflix.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_老电影","name":"🥈老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/老电影.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_Nike影视网","name":"🥈Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/Nike影视网.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_VIP1280","name":"🥈VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/VIP1280.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_乌龟影院","name":"🥈乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/乌龟影院.json","jar":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXB2/newbb.jar"},
-
+    {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXB2/骚火电影.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_voflix","name":"🥈voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/voflix.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_老电影","name":"🥈老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/老电影.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_Nike影视网","name":"🥈Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/Nike影视网.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_VIP1280","name":"🥈VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_biubiu_乌龟影院","name":"🥈乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/乌龟影院.json","jar":"./MaooXB2/newbb.jar"},
 
 ##  切片资源
      
