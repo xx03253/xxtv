@@ -7,10 +7,8 @@
      
      {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
 
-     {"key":"csp_WoGG","name":"弹幕 | 哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wogg.xyz/$$$1$$$./js/wogg.json","jar":"./jar/pg.jar","timeout":30},
      {"key":"影视车","name":"弹幕 | 影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.weixine.net/$$$1$$$./js/wogg.json","jar":"./jar/pg.jar","timeout":30},
-     {"key":"csp_Wobg","name":"弹幕 | 表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1$$$./js/wogg.json","jar":"./jar/pg.jar","timeout":30},
-
+    
      {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/$$$弹"},
 
      {"key":"祥祥影视","name":"祥祥影视(切)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
