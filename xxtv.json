@@ -60,7 +60,26 @@
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "playerType": 1,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "九六",
+      "name": "🎀九六┃直连",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "77",
+      "name": "👒七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -84,25 +103,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
-    {
-      "key": "77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "九六",
-      "name": "🎀九六┃直连",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "嘿嘿",
