@@ -16,7 +16,7 @@
      
      {"key":"csp_Wobg","name":"🌐阿里云盘扫码┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1$$$./js/wogg.json","jar":"./jar/pg.jar"},
 
-     {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://cdn.wogg.xyz/$$$弹"},
+     {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.link/$$$弹"},
 
      {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
@@ -69,20 +69,20 @@
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "key": "九六",
+      "name": "🎀九六┃直连",
       "type": 3,
-      "api": "csp_NanGua",
+      "api": "csp_Cs1369",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "九六",
-      "name": "🎀九六┃直连",
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
       "type": 3,
-      "api": "csp_Cs1369",
+      "api": "csp_NanGua",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
