@@ -6,8 +6,9 @@
      
      {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
 
-     {"key":"影视车","name":"⚠️阿里云盘扫码┃影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.weixine.net/$$$1$$$./js/wogg.json","jar":"./jar/pg.jar"},
-     {"key":"配置中心","name":"🌏配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg.jar"},
+     {"key":"影视车","name":"⚠️阿里云盘扫码┃影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./js/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./js/wogg.json","jar":"./jar/pg.jar"},
+     
+     {"key": "网盘配置","name": "🌏网盘┃彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./js/tokenm.json","jar":"./jar/pg.jar"},
 
      {"key": "996影院","name": "🍍影视┃996","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1","jar":"./jar/pg.jar"},
      {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
@@ -26,6 +27,10 @@
      
      {"key":"drpy_js_荐片","name":"🍌影视┃荐片[js]","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js","jar":"./jar/pg.jar"}, 
      {"key":"荐片弹幕版","name":"🥝弹幕┃荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/jianpian.json$$$1","jar":"./jar/pg.jar"},
+     
+     {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./js/tokenm.json$$$./js/alishare.txt","jar":"./jar/pg.jar"},
+
+     {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./js/tokenm.json$$$./js/quarkshare.txt","jar":"./jar/pg.jar"},
      
      
      {
