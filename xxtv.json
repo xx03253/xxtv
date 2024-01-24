@@ -22,7 +22,7 @@
 
      {"key": "网盘配置","name": "🌏网盘┃彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
      
-     {"key":"AliShare","name":"🏅阿里云盘┃分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt"},
+     {"key":"AliShare","name":"🏅阿里云盘┃分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg.jar"},
 
      {"key":"Hdhive","name":"⛑️影巢┃网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar":"./jar/pg.jar"},
 
