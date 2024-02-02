@@ -12,6 +12,7 @@
  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
  {"key": "快看","name": "🥯快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/pg.jar"},
+
  
  {
   "key": "网络接口", 
