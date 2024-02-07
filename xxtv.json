@@ -2,7 +2,7 @@
   "spider":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXB2/xxtv.jar;md5;ec54d5ff4d3165f8e1e07928b62d41b2",
   
   "sites":[
-    {"key": "豆豆","name": "🐲祥祥┃影视","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "豆豆","name": "🐲祥影视┃新年🎉","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
      
     {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
 
