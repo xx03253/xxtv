@@ -2,7 +2,7 @@
     "urls": [
        {
             "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
-            "name": "🤖自用1(失效选择其他源)"
+            "name": "🤖自用一线(失效选择其他源)"
         },
         {
             "url": "https://gitlab.com/xx03253/pg/-/raw/main/jsm.json",
@@ -10,7 +10,7 @@
         },
         {
             "url": "http://141.147.146.105/xxu/xxtv.json",
-            "name": "🤖自用2(失效选择其他源)"
+            "name": "🤖自用二线"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -34,7 +34,7 @@
         },
         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🤖自用3(失效选择其他源)"
+            "name": "🤖自用三线"
         },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
