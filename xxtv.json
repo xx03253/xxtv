@@ -2,9 +2,12 @@
   "spider":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXB2/xxtv.jar;md5;ec54d5ff4d3165f8e1e07928b62d41b2",
   
   "sites":[
-    {"key": "豆豆","name": "🐲祥影视┃新年🎉","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+  {"key": "豆豆","name": "🐲祥影视┃新年🎉","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
      
-    {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
+  {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
+    
+  {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+
 
  {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
 
@@ -190,7 +193,6 @@
  {"key":"影视车","name":"🤿阿里云盘扫码┃影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
  {"key":"Wobg","name":"🌐阿里云盘扫码┃表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
 
- {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
  {"key": "网盘配置","name": "🌏网盘┃彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
  
