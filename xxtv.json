@@ -245,6 +245,16 @@
         "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
       },
       {
+        "key": "Zhaozy",
+        "name": "🐺找资源┃搜索",
+        "type": 3,
+        "api": "csp_Zhaozy",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
+      },
+      {
         "key": "PanSou",
         "name": "🦊盘搜┃搜索",
         "type": 3,
@@ -269,16 +279,6 @@
         "name": "🙀盘Se┃搜索",
         "type": 3,
         "api": "csp_PanSearch",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-      },
-      {
-        "key": "七夜",
-        "name": "😾七夜┃搜索",
-        "type": 3,
-        "api": "csp_Dovx",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
