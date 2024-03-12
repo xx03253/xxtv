@@ -195,8 +195,8 @@
   "ext": "https://auete.pro/"
 },
 
+{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
 
-{"key":"PanSearch","name":"🧇PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
  {"key":"Gitcafe", "name": "🧀阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
  
  {"key":"影视车","name":"🤿阿里云盘扫码┃影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
