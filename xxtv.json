@@ -27,6 +27,16 @@
  }, 
  
  {
+  "key": "短剧",
+  "name": "🌈上头┃短剧",
+  "type": 3,
+  "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+{
   "key": "酷看",
   "name": "💡酷看┃秒播",
   "type": 3,
@@ -48,7 +58,7 @@
 },
 {
   "key": "苹果",
-  "name": "🍎小苹果┃复活",
+  "name": "🍎苹果┃无广",
   "type": 3,
   "api": "csp_LiteApple",
   "searchable": 1,
@@ -56,15 +66,15 @@
   "changeable": 1
 },
 {
-  "key": "Xinsj",
-  "name": "👓视觉┃直连",
+  "key": "白嫖",
+  "name": "👻白飘┃无广",
   "type": 3,
-  "api": "csp_Xinsj",
-  "timeout": 15,
+  "api": "csp_BaiPiao",
+  "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "ext": "https://www.80yy3.com/"
+  "ext": "https://www.baipiaoys.com:9092/"
 },
 {
   "key": "厂长",
@@ -89,15 +99,15 @@
   "changeable": 1
 },
 {
-  "key": "白嫖",
-  "name": "👻白飘┃无广",
+  "key": "南瓜",
+  "name": "🎃南瓜┃App",
   "type": 3,
-  "api": "csp_BaiPiao",
+  "api": "csp_NanGua",
+  "timeout": 15,
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://www.baipiaoys.com/"
+  "changeable": 1
 },
 {
   "key": "DiDuan",
@@ -110,15 +120,15 @@
   "changeable": 1
 },
 {
-  "key": "南瓜",
-  "name": "🎃南瓜┃App",
+  "key": "csp_Nmys",
+  "name": "🌾农民┃直连",
   "type": 3,
-  "api": "csp_NanGua",
+  "api": "csp_Nmys",
   "timeout": 15,
-  "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1
+  "changeable": 1,
+  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
 },
 {
   "key": "毛驴",
@@ -141,6 +151,17 @@
   "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },
 {
+  "key": "Xinsj",
+  "name": "👓视觉┃直连",
+  "type": 3,
+  "api": "csp_Xinsj",
+  "timeout": 15,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://www.80yy3.com/"
+},
+{
   "key": "zxzj",
   "name": "🍊在线┃外剧",
   "type": 3,
@@ -159,17 +180,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
-{
-  "key": "csp_Nmys",
-  "name": "🌾农民┃直连",
-  "type": 3,
-  "api": "csp_Nmys",
-  "timeout": 15,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
 },
 {
   "key": "csp_Bttoo",
@@ -201,6 +211,27 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://auete.pro/"
+},
+{
+  "key": "贱贱",
+  "name": "🐭贱贱┃p2p",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "playerType": "1",
+  "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+  "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+},
+{
+  "key": "新6V",
+  "name": "🧲新6V┃磁力",
+  "type": 3,
+  "api": "csp_SixV",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "http://www.xb6v.com/"
 },
 
 {"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
