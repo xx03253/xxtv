@@ -6,7 +6,7 @@
      
   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
     
-  {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+  {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
 
  {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
@@ -15,16 +15,6 @@
 
  {"key": "快看","name": "🥯快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/pg.jar"},
 
- 
- {
-  "key": "网络接口", 
-  "name": "🌟切片接口┃多线过滤", 
-  "type": 1, 
-  "api": "http://film.benmx.com/api.php/tvbox", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 1
- }, 
  
  {
   "key": "短剧",
@@ -283,6 +273,16 @@
 
       ## 搜搜
       {
+        "key": "夸搜",
+        "name": "🐺夸搜┃搜索",
+        "type": 3,
+        "api": "csp_QuarkPanso",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+      },
+      {
         "key": "YiSo",
         "name": "😹易搜┃搜索",
         "type": 3,
@@ -290,7 +290,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
       },
       {
         "key": "PanSou",
@@ -300,7 +300,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
       },
       {
         "key": "UpYun",
@@ -310,7 +310,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
       },
       {
         "key": "PanSearch",
@@ -320,7 +320,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
       },
       {
         "key": "push_agent",
@@ -329,9 +329,8 @@
         "api": "csp_Push",
         "searchable": 0,
         "quickSearch": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
       },
-
 ## XYPQ系列
     
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/384影视.json","jar":"./jar/XBPQ.jar"},
