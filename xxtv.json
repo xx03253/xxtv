@@ -6,8 +6,22 @@
      
   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
     
-  {"key":"玩偶哥哥","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-
+  {
+    "key": "玩偶",
+    "name": "👽阿里云盘扫码┃4k画质",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": {
+      "aliToken": "tvfan/token.txt",
+      "quarkCookie": "tvfan/cookie.txt",
+      "from": "4k|auto|fhd",
+      "siteUrl": "https://api.wogg.xyz/",
+      "danMu": "弹"
+    }
+  },
 
  {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
 
@@ -67,6 +81,17 @@
   "ext": "https://www.baipiaoys.com:9092/"
 },
 {
+  "key": "视觉",
+  "name": "👓视觉┃直连",
+  "type": 3,
+  "api": "csp_Xinsj",
+  "timeout": 15,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://www.80yy3.com/"
+},
+{
   "key": "厂长",
   "name": "📔厂长┃无广",
   "type": 3,
@@ -76,17 +101,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "ext": "https://www.czzy77.com/"
-},
-{
-  "key": "77",
-  "name": "👒七七┃秒播",
-  "type": 3,
-  "api": "csp_Kunyu77",
-  "timeout": 15,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
+  "ext": "https://www.czys01.com/"
 },
 {
   "key": "南瓜",
@@ -100,18 +115,8 @@
   "changeable": 1
 },
 {
-  "key": "DiDuan",
-  "name": "⏮️低端┃外剧",
-  "type": 3,
-  "api": "csp_Ddrk",
-  "playerType": "2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
-  "key": "csp_Nmys",
-  "name": "🌾农民┃直连",
+  "key": "农民",
+  "name": "🌾农民┃秒播",
   "type": 3,
   "api": "csp_Nmys",
   "timeout": 15,
@@ -119,6 +124,26 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+},
+{
+  "key": "七七",
+  "name": "👒七七┃秒播",
+  "type": 3,
+  "api": "csp_Kunyu77",
+  "timeout": 15,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "低端",
+  "name": "⏮️低端┃外剧",
+  "type": 3,
+  "api": "csp_Ddrk",
+  "playerType": "2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
 },
 {
   "key": "毛驴",
@@ -141,26 +166,13 @@
   "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },
 {
-  "key": "Xinsj",
-  "name": "👓视觉┃直连",
+  "key": "比特",
+  "name": "🍄比特┃秒播",
   "type": 3,
-  "api": "csp_Xinsj",
-  "timeout": 15,
+  "api": "csp_Bttwoo",
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://www.80yy3.com/"
-},
-{
-  "key": "zxzj",
-  "name": "🍊在线┃外剧",
-  "type": 3,
-  "api": "csp_Zxzj",
-  "timeout": 15,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://www.zxzja.com/"
+  "changeable": 1
 },
 {
   "key": "一起看 ",
@@ -172,13 +184,15 @@
   "changeable": 1
 },
 {
-  "key": "csp_Bttoo",
-  "name": "🍄比特┃秒播",
+  "key": "zxzj",
+  "name": "🍊在线┃外剧",
   "type": 3,
-  "api": "csp_Bttwoo",
+  "api": "csp_Zxzj",
+  "timeout": 15,
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1
+  "changeable": 1,
+  "ext": "https://www.zxzja.com/"
 },
 {
   "key": "Lib",
