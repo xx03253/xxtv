@@ -267,10 +267,57 @@
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-     {"key":"csp_XBPQ_抓饭体育","name":"抓饭体育〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/抓饭体育.json","jar":"https://gitlab.com/xx03253/xxtv/-/raw/main/jar/XBPQ.jar"},
-     {"key": "88js","name": "⚽88看球","type": 3,"api": "https://gitlab.com/xx03253/xxtv/-/raw/main/js/drpy.min.js","ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0 }, 
-     {"key": "csp_xp_qiumi","name": "⚽Jrs球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/dj看球.json"    }, 
-     {"key": "csp_XYQBiu_310直播","name": "⚽310看球","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/KQ/310直播.json" }, 
+    {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Jrsjs",
+      "name": "⚽ Jrs┃球迷",
+      "type": 3,
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "310js",
+      "name": "⚽310┃看球",
+      "type": 3,
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "企鹅体育xp",
+      "name": "🐧鹅鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+    }, 
 
      {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
      {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
