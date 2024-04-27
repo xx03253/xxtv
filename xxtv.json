@@ -227,21 +227,12 @@
   "ext": "http://www.xb6v.com/"
 },
 
+
+
 {"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
 
  {"key":"Gitcafe", "name": "🧀阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
  
- {"key":"影视车","name":"🤿阿里云盘扫码┃影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
- {"key":"Wobg","name":"🌐阿里云盘扫码┃表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
- {"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg.jar"},
-
- 
- {"key": "网盘配置","name": "🌏网盘┃彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
- 
- {"key":"AliShare","name":"🏅阿里云盘┃分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg.jar"},
-
- {"key":"Hdhive","name":"⛑️影巢┃网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar":"./jar/pg.jar"},
-
 
  {"key":"荐片弹幕版","name":"🥝弹幕┃荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/jianpian.json$$$1","jar":"./jar/pg.jar"},
    
