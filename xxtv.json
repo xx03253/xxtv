@@ -25,7 +25,8 @@
   "playerType": 2,
   "timeout": 30,
   "changeable": 0,
-  "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+  "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+  "jar": "./jar/feimao.jar"
 },
 
 {
