@@ -229,17 +229,8 @@
 
 
 {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,
-"jar":"./jar/wei.txt","style": {"type": "rect","ratio": 1.43}},
+"jar":"./jar/wei.jar","style": {"type": "rect","ratio": 1.43}},
 
-{
-  "key": "玩偶",
-  "name": "🥷玩偶┃网盘┃综合",
-  "type": 3,
-  "api": "csp_Wogg",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wei.txt"
-},
 {
   "key": "土豆",
   "name": "🥷土豆┃网盘┃综合",
@@ -247,7 +238,7 @@
   "api": "csp_Wextudou",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 {
   "key": "Wexyingchao",
@@ -256,7 +247,7 @@
   "api": "csp_Wexyingchao",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 {
   "key": "Wexxiongdiys",
@@ -265,7 +256,7 @@
   "api": "csp_Wexxiongdiys",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 {
   "key": "Wexkukantv",
@@ -274,7 +265,7 @@
   "api": "csp_Wexkukantv",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 {
   "key": "mingriyingshi",
@@ -283,7 +274,7 @@
   "api": "csp_WexMingriys",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 {
   "key": "Fujutv",
@@ -292,7 +283,7 @@
   "api": "csp_WexFujutv",
   "searchable": 1,
   "changeable": 1,
-  "jar":"./jar/wei.txt"
+  "jar":"./jar/wei.jar"
 },
 
 
