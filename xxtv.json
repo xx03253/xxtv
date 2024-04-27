@@ -93,13 +93,13 @@
   "key": "厂长",
   "name": "📔厂长┃无广",
   "type": 3,
-  "api": "csp_Czsapp",
+  "api": "csp_NewCz",
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "ext": "https://www.cz233.com/"
+  "ext": "https://www.czys.top/"
 },
 {
   "key": "七七",
@@ -123,6 +123,17 @@
   "changeable": 1
 },
 {
+  "key": "糯米",
+  "name": "🍙糯米┃秒播",
+  "type": 3,
+  "api": "csp_Nmys",
+  "timeout": 15,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+},
+{
   "key": "低端",
   "name": "⏮️低端┃外剧",
   "type": 3,
@@ -131,17 +142,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
-{
-  "key": "农民",
-  "name": "🌾农民┃秒播",
-  "type": 3,
-  "api": "csp_Nmys",
-  "timeout": 15,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
 },
 {
   "key": "毛驴",
@@ -213,8 +213,8 @@
   "quickSearch": 1,
   "changeable": 1,
   "playerType": "1",
-  "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-  "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 },
 {
   "key": "新6V",
