@@ -14,7 +14,7 @@
     "ext": "./lib/douban.json"
   },
   {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,
-"jar":"./jar/wex.jar","style": {"type": "rect","ratio": 1.43}},
+ "jar":"./jar/wex.jar","style": {"type": "rect","ratio": 1.43}},
 
 {
   "key": "土豆",
