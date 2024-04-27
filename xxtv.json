@@ -16,6 +16,18 @@
   {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,
  "jar":"./jar/wex.jar","style": {"type": "rect","ratio": 1.43}},
 
+ {
+  "key": "csp_Panda_玩偶哥哥",
+  "name": "👲┃玩偶┃影视",
+  "api": "csp_Wogg",
+  "type": 3,
+  "searchable": 1,
+  "playerType": 2,
+  "timeout": 30,
+  "changeable": 0,
+  "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+},
+
 {
   "key": "土豆",
   "name": "🥷土豆┃网盘┃综合",
@@ -36,7 +48,7 @@
 },
 
   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
-    
+   
   {
     "key": "玩偶",
     "name": "👽阿里云盘扫码┃4k画质",
