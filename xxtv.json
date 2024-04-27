@@ -228,6 +228,75 @@
 },
 
 
+{"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,
+"jar":"./jar/wei.txt","style": {"type": "rect","ratio": 1.43}},
+
+{
+  "key": "玩偶",
+  "name": "🥷玩偶┃网盘┃综合",
+  "type": 3,
+  "api": "csp_Wogg",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "土豆",
+  "name": "🥷土豆┃网盘┃综合",
+  "type": 3,
+  "api": "csp_Wextudou",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "Wexyingchao",
+  "name": "🦜鸟巢┃网盘┃综合",
+  "type": 3,
+  "api": "csp_Wexyingchao",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "Wexxiongdiys",
+  "name": "👬基友┃影视┃App",
+  "type": 3,
+  "api": "csp_Wexxiongdiys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "Wexkukantv",
+  "name": "😁看呗┃TV┃App",
+  "type": 3,
+  "api": "csp_Wexkukantv",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "mingriyingshi",
+  "name": "☀️明日┃影视┃App",
+  "type": 3,
+  "api": "csp_WexMingriys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+{
+  "key": "Fujutv",
+  "name": "🍩腐剧┃TV┃App",
+  "type": 3,
+  "api": "csp_WexFujutv",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wei.txt"
+},
+
+
+
 
 {"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
 
