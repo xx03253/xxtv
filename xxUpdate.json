@@ -5,10 +5,6 @@
             "name": "🤖自用一线(失效选择其他源)"
         },
         {
-            "url": "https://gitlab.com/xx03253/pg/-/raw/main/jsm.json",
-            "name": "🚀PG线路"
-        },
-        {
             "url": "http://141.147.146.105/xxu/xxtv.json",
             "name": "🤖自用二线"
         },
@@ -31,6 +27,10 @@
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小暴脾气线路"
+        },
+        {
+            "url": "https://gitlab.com/xx03253/pg/-/raw/main/jsm.json",
+            "name": "🚀PG线路"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
