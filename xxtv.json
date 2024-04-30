@@ -323,6 +323,126 @@
   "changeable": 1,
   "jar":"./jar/wex.jar"
 },
+{
+  "key": "Fangniu4k",
+  "name": "👎放牛┃TV┃App",
+  "type": 3,
+  "api": "csp_WexFangniu4k",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexshandian",
+  "name": "⚡️闪电┃秒播┃直连",
+  "type": 3,
+  "api": "csp_Wexshandian",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexjiohub",
+  "name": "🎉啾啾┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexjiohub",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexwencai",
+  "name": "🎇文才┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexwencai",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Subaibai",
+  "name": "🐇拜拜┃影视┃直连",
+  "type": 3,
+  "api": "csp_Subaibai",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "WexShijuedy",
+  "name": "👓看看┃影视┃直连",
+  "type": 3,
+  "api": "csp_WexShijuedy",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "csp_Nmys",
+  "name": "🎅‍伯伯┃影视┃直连",
+  "type": 3,
+  "api": "csp_WexNmys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexbaipiao",
+  "name": "💢白嫖┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexbaipiao",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "哔嘀影视",
+  "name": "🚨喇叭┃影视┃直连",
+  "type": 3,
+  "api": "csp_WexBDys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexlibhd",
+  "name": "🌚进口┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexlibhd",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Diduanys",
+  "name": "🙈深渊┃影视┃直连",
+  "type": 3,
+  "api": "csp_WexDiduanys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "F4kvm",
+  "name": "🦑纯享┃影视┃直连",
+  "type": 3,
+  "api": "csp_WexF4kvm",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexbttwo",
+  "name": "🐸大鼻涕┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexbttwo",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+
+
+
 
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
 
@@ -330,11 +450,6 @@
 
  {"key": "快看","name": "🥯快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/pg.jar"},
 
-
-{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
-
- {"key":"Gitcafe", "name": "🧀阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar":"./jar/pg.jar"},
- 
 
  {"key":"荐片弹幕版","name":"🥝弹幕┃荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/jianpian.json$$$1","jar":"./jar/pg.jar"},
    
@@ -420,11 +535,15 @@
         "key": "夸搜",
         "name": "🐺夸搜┃搜索",
         "type": 3,
-        "api": "csp_QuarkPanso",
+        "api": "csp_PanSearch",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "pan": "quark",
+          "quarkCookie": "tvfan/cookie.txt",
+          "from": "4k|auto|fhd"
+        }
       },
       {
         "key": "YiSo",
@@ -434,7 +553,10 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "aliToken": "tvfan/token.txt",
+          "from": "4k|auto|fhd"
+        }
       },
       {
         "key": "PanSou",
@@ -444,7 +566,10 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "aliToken": "tvfan/token.txt",
+          "from": "4k|auto|fhd"
+        }
       },
       {
         "key": "UpYun",
@@ -454,7 +579,10 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "aliToken": "tvfan/token.txt",
+          "from": "4k|auto|fhd"
+        }
       },
       {
         "key": "PanSearch",
@@ -464,7 +592,10 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "aliToken": "tvfan/token.txt",
+          "from": "4k|auto|fhd"
+        }
       },
       {
         "key": "push_agent",
@@ -473,8 +604,13 @@
         "api": "csp_Push",
         "searchable": 0,
         "quickSearch": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        "ext": {
+          "aliToken": "tvfan/token.txt",
+          "quarkCookie": "tvfan/cookie.txt",
+          "from": "4k|auto|fhd"
+        }
       },
+  
 ## XYPQ系列
     
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/384影视.json","jar":"./jar/XBPQ.jar"},
