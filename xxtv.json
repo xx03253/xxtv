@@ -46,7 +46,7 @@
   },
   {
     "key": "苹果",
-    "name": "🍎苹果┃无广",
+    "name": "🍎苹果┃不卡",
     "type": 3,
     "api": "csp_LiteApple",
     "searchable": 1,
@@ -55,7 +55,7 @@
   },
   {
     "key": "白嫖",
-    "name": "👻白飘┃无广",
+    "name": "👻白飘┃不卡",
     "type": 3,
     "api": "csp_BaiPiao",
     "playerType": 2,
@@ -87,7 +87,7 @@
   },
   {
     "key": "厂长",
-    "name": "📔厂长┃无广",
+    "name": "📔厂长┃不卡",
     "type": 3,
     "api": "csp_NewCz",
     "timeout": 15,
@@ -95,7 +95,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "https://www.czzy.top/"
+    "ext": "https://czzy.top/"
   },
   {
     "key": "七七",
@@ -127,7 +127,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "./lib/nmys.json"
+    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
   },
   {
     "key": "低端",
@@ -181,7 +181,7 @@
   },
   {
     "key": "Lib",
-    "name": "🌟立播┃直连",
+    "name": "🌟立播┃无广",
     "type": 3,
     "api": "csp_Libvio",
     "timeout": 15,
@@ -192,7 +192,7 @@
   },
   {
     "key": "Auete",
-    "name": "🏝奥特┃直连",
+    "name": "🏝奥特┃无广",
     "type": 3,
     "api": "csp_Auete",
     "timeout": 15,
@@ -209,8 +209,8 @@
     "quickSearch": 1,
     "changeable": 1,
     "playerType": "1",
-    "api": "./lib/drpy2.min.js",
-    "ext": "./lib/jp.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
   },
   {
     "key": "新6V",
