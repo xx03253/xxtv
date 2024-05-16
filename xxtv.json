@@ -44,28 +44,6 @@
     "changeable": 1
   },
   {
-    "key": "原创",
-    "name": "☀原创┃无广",
-    "type": 3,
-    "api": "csp_YCyz",
-    "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
-    "key": "厂长",
-    "name": "📔厂长┃不卡",
-    "type": 3,
-    "api": "csp_NewCz",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://czzy.top/"
-  },
-  {
     "key": "视觉",
     "name": "👓视觉┃多线",
     "type": 3,
@@ -95,6 +73,28 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
+  },
+  {
+    "key": "原创",
+    "name": "☀原创┃无广",
+    "type": 3,
+    "api": "csp_YCyz",
+    "timeout": 15,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "厂长",
+    "name": "📔厂长┃不卡",
+    "type": 3,
+    "api": "csp_NewCz",
+    "timeout": 15,
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://czzy.top/"
   },
   {
     "key": "糯米",
