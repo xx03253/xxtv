@@ -44,6 +44,17 @@
     "changeable": 1
   },
   {
+    "key": "原创",
+    "name": "☀原创┃不卡",
+    "type": 3,
+    "api": "csp_YCyz",
+    "timeout": 15,
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
     "key": "视觉",
     "name": "👓视觉┃多线",
     "type": 3,
@@ -55,17 +66,6 @@
     "ext": "https://www.80yy3.com/"
   },
   {
-    "key": "南瓜",
-    "name": "🎃南瓜┃多线",
-    "type": 3,
-    "api": "csp_NanGua",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
     "key": "苹果",
     "name": "🍎苹果┃不卡",
     "type": 3,
@@ -75,14 +75,15 @@
     "changeable": 1
   },
   {
-    "key": "原创",
-    "name": "☀原创┃不卡",
+    "key": "糯米",
+    "name": "🍙糯米┃秒播",
     "type": 3,
-    "api": "csp_YCyz",
+    "api": "csp_Nmys",
     "timeout": 15,
     "searchable": 1,
     "quickSearch": 1,
-    "changeable": 1
+    "changeable": 1,
+    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
   },
   {
     "key": "厂长",
@@ -97,15 +98,25 @@
     "ext": "https://czzy.top/"
   },
   {
-    "key": "糯米",
-    "name": "🍙糯米┃秒播",
+    "key": "低端",
+    "name": "⏮️低端┃外剧",
     "type": 3,
-    "api": "csp_Nmys",
+    "api": "csp_Ddrk",
+    "playerType": "2",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "zxzj",
+    "name": "🍊在线┃外剧",
+    "type": 3,
+    "api": "csp_Zxzj",
     "timeout": 15,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+    "ext": "https://www.zxzjhd.com/"
   },
   {
     "key": "小点",
@@ -150,22 +161,12 @@
     "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
   },
   {
-    "key": "zxzj",
-    "name": "🍊在线┃外剧",
+    "key": "南瓜",
+    "name": "🎃南瓜┃多线",
     "type": 3,
-    "api": "csp_Zxzj",
+    "api": "csp_NanGua",
     "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://www.zxzjhd.com/"
-  },
-  {
-    "key": "低端",
-    "name": "⏮️低端┃外剧",
-    "type": 3,
-    "api": "csp_Ddrk",
-    "playerType": "2",
+    "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
@@ -186,6 +187,17 @@
     "name": "🍄比特┃秒播",
     "type": 3,
     "api": "csp_Bttwoo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "可可",
+    "name": "👻可可┃多线",
+    "type": 3,
+    "api": "csp_Kekys",
+    "timeout": 15,
+    "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
