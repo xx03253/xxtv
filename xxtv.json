@@ -237,6 +237,17 @@
 "jar":"./jar/wex.jar","style": {"type": "rect","ratio": 1.43}},
 
 {
+  "key": "csp_Duopan",
+  "name": "🖍︎┃蜡笔┃影视",
+  "type": 3,
+  "api": "csp_Duopan",
+  "playerType": 2,
+  "filterable": 1,
+  "ext": "https://duopan.fun/",
+  "jar": "./jar/feimao.jar"
+},
+
+{
 "key": "csp_Panda_玩偶哥哥",
 "name": "👲┃玩偶┃影视",
 "api": "csp_Wogg",
