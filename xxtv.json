@@ -288,21 +288,30 @@
    "changeable": 1,
    "jar":"./jar/wex.jar"
    },
-   {
-     "key": "Wexwanwo",
-     "name": "🧑‍⚖️哥哥┃配置扫码",
-     "type": 3,
-     "api": "csp_Wexwanwo",
-     "searchable": 1,
-     "changeable": 1,
-     "jar":"./jar/wex.jar"
-   }, 
-
+ 
 {
-  "key": "Wexxiongdiys",
-  "name": "👬基友┃影视┃App",
+    "key": "Wexhuaruitv",
+    "name": "🌺花蕊┃影视┃App",
+    "type": 3,
+    "api": "csp_Wexhuaruitv",
+    "searchable": 1,
+    "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexjiazitv",
+  "name": "🥁甲子┃影视┃App",
   "type": 3,
-  "api": "csp_Wexxiongdiys",
+  "api": "csp_Wexjiazitv",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexyuyueys",
+  "name": "⛈️雨落┃影视┃App",
+  "type": 3,
+  "api": "csp_Wexyuyueys",
   "searchable": 1,
   "changeable": 1,
   "jar":"./jar/wex.jar"
@@ -353,6 +362,15 @@
   "jar":"./jar/wex.jar"
 },
 {
+  "key": "WexTiantianys",
+  "name": "🌤️明天┃秒播┃直连",
+  "type": 3,
+  "api": "csp_WexTiantianys",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
   "key": "Wexjiohub",
   "name": "🎉啾啾┃影视┃直连",
   "type": 3,
@@ -366,6 +384,15 @@
   "name": "🎇文才┃影视┃直连",
   "type": 3,
   "api": "csp_Wexwencai",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"./jar/wex.jar"
+},
+{
+  "key": "Wexbaipiao",
+  "name": "🌟星星┃影视┃直连",
+  "type": 3,
+  "api": "csp_Wexbaipiao",
   "searchable": 1,
   "changeable": 1,
   "jar":"./jar/wex.jar"
@@ -389,46 +416,10 @@
   "jar":"./jar/wex.jar"
 },
 {
-  "key": "csp_Nmys",
-  "name": "🎅‍伯伯┃影视┃直连",
+  "key": "Wexsaohuo",
+  "name": "🔥火火┃影视┃直连",
   "type": 3,
-  "api": "csp_WexNmys",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexbaipiao",
-  "name": "💢白嫖┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexbaipiao",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "哔嘀影视",
-  "name": "🚨喇叭┃影视┃直连",
-  "type": 3,
-  "api": "csp_WexBDys",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexlibhd",
-  "name": "🌚进口┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexlibhd",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Diduanys",
-  "name": "🙈深渊┃影视┃直连",
-  "type": 3,
-  "api": "csp_WexDiduanys",
+  "api": "csp_Wexsaohuo",
   "searchable": 1,
   "changeable": 1,
   "jar":"./jar/wex.jar"
