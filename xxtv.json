@@ -305,32 +305,24 @@
 
 {
   "key": "Wexwanni",
-   "name": "🧑‍🏫老哥┃配置扫码",
+   "name": "🧑‍🏫玩你┃配置扫码",
    "type": 3,
    "api": "csp_Wexwanni",
    "searchable": 1,
    "changeable": 1,
    "jar":"./jar/wex.jar"
    },
- 
+   
 {
-    "key": "Wexhuaruitv",
-    "name": "🌺花蕊┃影视┃App",
-    "type": 3,
-    "api": "csp_Wexhuaruitv",
-    "searchable": 1,
-    "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexjiazitv",
-  "name": "🥁甲子┃影视┃App",
-  "type": 3,
-  "api": "csp_Wexjiazitv",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
+      "key": "Wexxiongdiys",
+      "name": "💥基友┃影视💥",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "searchable": 1,
+      "changeable": 1,
+   "jar":"./jar/wex.jar"
+ },
+
 {
   "key": "Wexyuyueys",
   "name": "⛈️雨落┃影视┃App",
