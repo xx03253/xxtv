@@ -8,7 +8,22 @@
   {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
    
 
-  {"key":"玩偶","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+  {
+    "key": "玩偶",
+    "name": "👽阿里云盘扫码┃4k画质",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": {
+      "aliToken": "tvfan/token.txt",
+      "quarkCookie": "tvfan/cookie.txt",
+      "from": "4k|auto|fhd",
+      "siteUrl": "https://www.wogg.link/",
+      "danMu": "弹"
+    }
+  },
   
   {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
