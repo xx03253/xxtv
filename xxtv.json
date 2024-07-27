@@ -10,7 +10,7 @@
 
   //{ "key": "玩偶", "name": "👽阿里云盘扫码┃4k画质","type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 
-  {"key":"玩偶","name":"👽阿里云盘扫码┃4k画质","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+  {"key":"玩偶","name":"👽UC夸克阿里扫码┃4k","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
   
   {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
@@ -31,18 +31,17 @@
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, {"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"}, 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
   
+
+
 {
-  "key": "Doubana",
-  "name": "⬇️【阿里夸克先扫码】⬇️",
+  "key": "config",
+  "name": "🐼┃配置┃中心",
   "type": 3,
-  "api": "csp_Douban",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "./lib/douban.json"
+  "api": "csp_Config",
+  "playerType": 2,
+  "jar": "./jar/feimao.jar"
 },
-{"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,
-"jar":"./jar/wex.jar","style": {"type": "rect","ratio": 1.43}},
+
 
 {
   "key": "csp_Duopan",
@@ -67,182 +66,81 @@
 "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
 "jar": "./jar/feimao.jar"
 },
-
 {
-"key": "土豆",
-"name": "👻土豆┃配置扫码",
-"type": 3,
-"api": "csp_Wextudou",
-"searchable": 1,
-"changeable": 1,
-"jar":"./jar/wex.jar"
-},
-{
-"key": "Wexyingchao",
-"name": "🦜鸟巢┃配置扫码",
-"type": 3,
-"api": "csp_Wexyingchao",
-"searchable": 1,
-"changeable": 1,
-"jar":"./jar/wex.jar"
-},
-
-{
-  "key": "Wexwanni",
-   "name": "🧑‍🏫玩你┃配置扫码",
-   "type": 3,
-   "api": "csp_Wexwanni",
-   "searchable": 1,
-   "changeable": 1,
-   "jar":"./jar/wex.jar"
-   },
-   
-{
-      "key": "Wexxiongdiys",
-      "name": "💥基友┃影视💥",
-      "type": 3,
-      "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1,
-   "jar":"./jar/wex.jar"
- },
-
-{
-  "key": "Wexyuyueys",
-  "name": "⛈️雨落┃影视┃App",
+  "key": "csp_Netfixtv",
+  "name": "💌┃至臻┃影视",
   "type": 3,
-  "api": "csp_Wexyuyueys",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "api": "csp_Netfixtv",
+  "playerType": 2,
+  "filterable": 1,
+  "ext": "",
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "Wexkukantv",
-  "name": "😁看呗┃TV┃App",
+  "key": "csp_SuBaiBai",
+  "name": "🏳️┃素白┃影视",
   "type": 3,
-  "api": "csp_Wexkukantv",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "api": "csp_SuBaiBai",
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "mingriyingshi",
-  "name": "☀️明日┃影视┃App",
+  "key": "csp_Ikan",
+  "name": "💕┃爱看┃影视",
   "type": 3,
-  "api": "csp_WexMingriys",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "api": "csp_Ikan",
+  "playerType": 2,
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "Fujutv",
-  "name": "🍩腐剧┃TV┃App",
+  "key": "荐片",
+  "name": "🎬┃荐片┃影视",
+  "api": "csp_Jianpian",
   "type": 3,
-  "api": "csp_WexFujutv",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "playerType": "2",
+  "ext": "http://api2.rinhome.com",
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "Fangniu4k",
-  "name": "👎放牛┃TV┃App",
+  "key": "csp_Vidhub2",
+  "name": "🎼┃Vid┃影视",
   "type": 3,
-  "api": "csp_WexFangniu4k",
+  "api": "csp_Vidhub2",
   "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "./jar/feimao.jar"
+}, 
+{
+  "key": "FreeOK",
+  "name": "️️👌┃Fre┃影视",
+  "type": 3,
+  "api": "csp_FreeOK",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "Wexshandian",
-  "name": "⚡️闪电┃秒播┃直连",
+  "key": "兄弟",
+  "name": "👯┃兄弟┃影视",
   "type": 3,
-  "api": "csp_Wexshandian",
+  "api": "csp_Xdys",
   "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "./jar/feimao.jar"
 },
 {
-  "key": "WexTiantianys",
-  "name": "🌤️明天┃秒播┃直连",
+  "key": "可可",
+  "name": " 😝┃可可┃影视",
   "type": 3,
-  "api": "csp_WexTiantianys",
+  "playerType": "2",
+  "api": "csp_Keke",
   "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "./jar/feimao.jar"
 },
-{
-  "key": "Wexjiohub",
-  "name": "🎉啾啾┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexjiohub",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexwencai",
-  "name": "🎇文才┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexwencai",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexbaipiao",
-  "name": "🌟星星┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexbaipiao",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Subaibai",
-  "name": "🐇拜拜┃影视┃直连",
-  "type": 3,
-  "api": "csp_Subaibai",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "WexShijuedy",
-  "name": "👓看看┃影视┃直连",
-  "type": 3,
-  "api": "csp_WexShijuedy",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexsaohuo",
-  "name": "🔥火火┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexsaohuo",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "F4kvm",
-  "name": "🦑纯享┃影视┃直连",
-  "type": 3,
-  "api": "csp_WexF4kvm",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-{
-  "key": "Wexbttwo",
-  "name": "🐸大鼻涕┃影视┃直连",
-  "type": 3,
-  "api": "csp_Wexbttwo",
-  "searchable": 1,
-  "changeable": 1,
-  "jar":"./jar/wex.jar"
-},
-
 
 
 
