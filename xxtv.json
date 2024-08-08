@@ -151,17 +151,6 @@
     "changeable": 1
   },
   {
-    "key": "蛋蛋",
-    "name": "🍓蛋蛋┃多线",
-    "type": 3,
-    "api": "csp_Cddys",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
     "key": "贱贱",
     "name": "🐭贱贱┃P2P",
     "type": 3,
@@ -255,7 +244,12 @@
   "api": "csp_Duopan",
   "playerType": 2,
   "filterable": 1,
-  "ext": "https://duopan.fun/",
+  "ext": {
+    "site_urls": [
+      "https://duopan.fun",
+      "http://labipan.com"
+    ]
+  },
   "jar": "./jar/feimao.jar"
 },
 
@@ -336,7 +330,98 @@
   "jar": "./jar/feimao.jar"
 },
 
-
+## 搜搜
+      {
+        "key": "米搜",
+        "name": "🦋米搜┃夸父",
+        "type": 3,
+        "api": "csp_MIPanSo",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "盘他",
+        "name": "🍄盘他┃U夸",
+        "type": 3,
+        "api": "csp_PanTa",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "夸搜",
+        "name": "🐟夸搜┃夸父",
+        "type": 3,
+        "api": "csp_PanSearch",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "pan": "quark",
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "YiSo",
+        "name": "😹易搜┃阿狸",
+        "type": 3,
+        "api": "csp_YiSo",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "PanSou",
+        "name": "🦊盘搜┃阿狸",
+        "type": 3,
+        "api": "csp_PanSou",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "PanSearch",
+        "name": "🙀盘Se┃阿狸",
+        "type": 3,
+        "api": "csp_PanSearch",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
+      {
+        "key": "push_agent",
+        "name": "🛴手机┃推送",
+        "type": 3,
+        "api": "csp_Push",
+        "searchable": 0,
+        "quickSearch": 0,
+        "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+        }
+      },
 
 
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
@@ -378,14 +463,7 @@
      
      //{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/cilixiong.json"},
 
-      ## 搜搜
-      {"key":"米搜","name":"🦋米搜┃搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"夸搜","name":"🐌夸搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+      
   
 ## XYPQ系列
     
