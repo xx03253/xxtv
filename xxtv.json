@@ -89,15 +89,6 @@
     "changeable": 1
   },
   {
-    "key": "小点",
-    "name": "💥小点┃多线",
-    "type": 3,
-    "api": "csp_Appxdys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 0
-  },
-  {
     "key": "原创",
     "name": "☀原创┃不卡",
     "type": 3,
