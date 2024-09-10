@@ -261,7 +261,8 @@
   "ext": {
     "site_urls": [
       "https://duopan.fun",
-      "http://labipan.com"
+      "http://labipan.com",
+      "https://mihdr.top"
     ]
   },
   "jar": "./jar/feimao.jar"
@@ -286,7 +287,7 @@
   "api": "csp_Netfixtv",
   "playerType": 2,
   "filterable": 1,
-  "ext": "",
+  "ext": "http://mpanso.com",
   "jar": "./jar/feimao.jar"
 },
 {
@@ -302,15 +303,6 @@
   "type": 3,
   "api": "csp_Ikan",
   "playerType": 2,
-  "jar": "./jar/feimao.jar"
-},
-{
-  "key": "荐片",
-  "name": "🎬┃荐片┃影视",
-  "api": "csp_Jianpian",
-  "type": 3,
-  "playerType": "2",
-  "ext": "http://api2.rinhome.com",
   "jar": "./jar/feimao.jar"
 },
 {
