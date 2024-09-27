@@ -95,48 +95,37 @@
     "changeable": 1
   },
   {
-    "key": "厂长",
-    "name": "📔厂长┃不卡",
+    "key": "萌米",
+    "name": "👀萌米┃多线",
     "type": 3,
-    "api": "csp_NewCz",
-    "timeout": 15,
+    "api": "csp_AppTT",
     "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "https://www.czys.pro/"
+    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
   },
   {
-    "key": "原创",
-    "name": "☀原创┃不卡",
+    "key": "欢视",
+    "name": "👓欢视┃多线",
     "type": 3,
-    "api": "csp_YCyz",
-    "timeout": 15,
-    "playerType": 1,
+    "api": "csp_AppTT",
+    "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
-    "changeable": 1
+    "changeable": 1,
+    "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
   },
   {
     "key": "热播",
     "name": "📺热播┃多线",
     "type": 3,
     "api": "csp_AppTT",
-    "timeout": 15,
     "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
     "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-  },
-  {
-    "key": "萌米",
-    "name": "👀萌米┃多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "timeout": 15,
-    "playerType": 1,
-    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
   },
   {
     "key": "南瓜",
@@ -154,7 +143,6 @@
     "name": "👻可可┃多线",
     "type": 3,
     "api": "csp_Kekys",
-    "timeout": 15,
     "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
@@ -197,6 +185,29 @@
     "name": "🍄比特┃秒播",
     "type": 3,
     "api": "csp_Bttwoo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "厂长",
+    "name": "📔厂长┃不卡",
+    "type": 3,
+    "api": "csp_NewCz",
+    "timeout": 15,
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.czzy77.com/"
+  },
+  {
+    "key": "原创",
+    "name": "☀原创┃不卡",
+    "type": 3,
+    "api": "csp_YCyz",
+    "timeout": 15,
+    "playerType": 1,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
