@@ -117,17 +117,6 @@
     "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
   },
   {
-    "key": "热播",
-    "name": "📺热播┃多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-  },
-  {
     "key": "南瓜",
     "name": "🎃南瓜┃多线",
     "type": 3,
@@ -137,6 +126,17 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
+  },
+  {
+    "key": "热播",
+    "name": "📺热播┃多线",
+    "type": 3,
+    "api": "csp_AppTT",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
   },
   {
     "key": "可可",
@@ -181,15 +181,6 @@
     "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
   },
   {
-    "key": "比特",
-    "name": "🍄比特┃秒播",
-    "type": 3,
-    "api": "csp_Bttwoo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
     "key": "厂长",
     "name": "📔厂长┃不卡",
     "type": 3,
@@ -208,6 +199,15 @@
     "api": "csp_YCyz",
     "timeout": 15,
     "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "比特",
+    "name": "🍄比特┃秒播",
+    "type": 3,
+    "api": "csp_Bttwoo",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
