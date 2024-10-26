@@ -120,7 +120,28 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "http://www.czzy77.com/"
+    "ext": "https://czzy.top/"
+  },
+  {
+    "key": "热播",
+    "name": "📺热播┃多线",
+    "type": 3,
+    "api": "csp_AppTT",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+  },
+  {
+    "key": "南瓜",
+    "name": "🎃南瓜┃多线",
+    "type": 3,
+    "api": "csp_NanGua",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
   },
   {
     "key": "萌米",
@@ -145,27 +166,6 @@
     "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
   },
   {
-    "key": "南瓜",
-    "name": "🎃南瓜┃多线",
-    "type": 3,
-    "api": "csp_NanGua",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
-    "key": "热播",
-    "name": "📺热播┃多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-  },
-  {
     "key": "可可",
     "name": "👻可可┃多线",
     "type": 3,
@@ -184,7 +184,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "http://www.zxzjhd.com/"
+    "ext": "https://www.zxzjhd.com/"
   },
   {
     "key": "低端",
@@ -434,6 +434,87 @@
       },
 
 
+      {
+        "key": "drpy_js_310直播",
+        "name": "🏀┃体育┃直播",
+        "type": 3,
+        "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+        "changeable": 0,
+        "gridview": 3,
+        "style": {
+          "type": "list"
+        },
+        "ext": "http://js.xn--z7x900a.com/js/310直播.js",
+         "jar": "./jar/feimao.jar"
+      },
+       
+  
+        {
+        "key": "926看球",
+        "name": "⚽926┃看球",
+        "type": 3,
+        "api": "csp_kanqiu926",
+        "searchable": 0,
+        "changeable": 0,
+        "style": {
+          "type": "list"
+        }
+      },
+      {
+        "key": "88js",
+        "name": "⚽ 88┃看球",
+        "type": 3,
+        "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+        "style": {
+          "type": "list"
+        },
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0
+      },
+      {
+        "key": "310js",
+        "name": "⚽ 310┃看球",
+        "type": 3,
+        "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+        "style": {
+          "type": "list"
+        },
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0
+      },
+      {
+        "key": "Jrsjs",
+        "name": "⚽ Jrs┃球迷",
+        "type": 3,
+        "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+        "style": {
+          "type": "list"
+        },
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0
+      },
+      {
+        "key": "企鹅xp",
+        "name": "🐧鹅鹅┃体育",
+        "type": 3,
+        "api": "csp_XPath",
+        "style": {
+          "type": "list"
+        },
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0,
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+      },
+  
+
+
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
 
  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
@@ -463,10 +544,7 @@
 
     {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-    {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-
-{"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
+    
 
      {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
      {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
