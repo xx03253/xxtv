@@ -233,30 +233,38 @@
   },
 
   {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://duopan.fun",
-          "http://labipan.com",
-          "http://feimaoai.site",
-          "https://mihdr.top"
-        ]
-      },
-  "jar": "./jar/feimao.jar"
+    "key": "csp_Duopan",
+    "name": "🖍︎┃蜡笔┃影视",
+    "type": 3,
+    "api": "csp_Duopan",
+    "filterable": 1,
+    "ext": {
+      "site_urls": [
+        "https://duopan.fun",
+        "http://labipan.com",
+        "http://feimaoai.site",
+        "https://mihdr.top"
+      ],
+      "url_key": "Duopan"
     },
-    {
-      "key": "肥猫4K",
-      "name": "🖍┃肥猫┃4K",
-      "type": 3,
-      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js",
-      "ext": "http://js.xn--z7x900a.com/肥猫4K.js",
-      "searchable": 1,
-      "jar": "./jar/feimao.jar"
+    "jar": "./jar/feimao.jar"
+  },
+  {
+    "key": "csp_FeiMaoUC",
+    "name": "🐼┃肥猫┃UC",
+    "type": 3,
+    "api": "csp_Duopan",
+    "filterable": 1,
+    "ext": {
+      "site_urls": [
+        "http://www.mucpan.cc",
+        "http://ucmi.fun",
+        "http://www.ucmi.fun"
+      ],
+      "url_key": "FeiMaoUC"
     },
+    "jar": "./jar/feimao.jar"
+  },
 
     {
       "key": "csp_Panda_玩偶哥哥",
@@ -272,11 +280,23 @@
     },
     {
       "key": "csp_Netfixtv",
-      "name": "💌┃至臻┃影视",
+      "name": "💌┃️至臻┃影视",
       "type": 3,
       "api": "csp_Duopan",
       "filterable": 1,
-      "ext": "http://mpanso.com",
+      "ext": {
+        "site_urls": [
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      },
       "jar": "./jar/feimao.jar"
     },
     {
@@ -291,53 +311,44 @@
     "name": "🏳️┃素白┃影视",
     "type": 3,
     "api": "csp_SuBaiBai",
+    "ext": "http://subaibai.com",
     "jar": "./jar/feimao.jar"
     },
     {
-    "key": "csp_Ikan",
-    "name": "💕┃爱看┃影视",
-    "type": 3,
-    "api": "csp_Ikan",
-    "playerType": 2,
+      "key": "csp_Qiyou",
+      "name": "🥝┃奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com/",
     "jar": "./jar/feimao.jar"
     },
     {
-    "key": "荐片",
-    "name": "🎬┃荐片┃影视",
-    "api": "csp_Jianpian",
-    "type": 3,
-    "playerType": "2",
-    "ext": "http://api2.rinhome.com",
+      "key": "csp_Dadag",
+      "name": "🐢️┃达龟┃影视",
+      "type": 3,
+      "api": "csp_Dadag",
     "jar": "./jar/feimao.jar"
     },
     {
-    "key": "csp_Vidhub2",
-    "name": "🎼┃Vid┃影视",
-    "type": 3,
-    "api": "csp_Vidhub2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
+      "key": "csp_Kanke",
+      "name": "🛳️┃看客┃影视",
+      "type": 3,
+      "api": "csp_Kanke",
     "jar": "./jar/feimao.jar"
     }, 
     {
-    "key": "FreeOK",
-    "name": "️️👌┃Fre┃影视",
-    "type": 3,
-    "api": "csp_FreeOK",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
+      "key": "csp_Nkdy",
+      "name": "🏔️┃耐看┃影视",
+      "type": 3,
+      "api": "csp_Nkdy",
     "jar": "./jar/feimao.jar"
     },
     {
-    "key": "兄弟",
-    "name": "👯┃兄弟┃影视",
-    "type": 3,
-    "api": "csp_Xdys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
+      "key": "csp_AppRZ",
+      "name": "🕵️┃忍者┃影视",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "ext": "http://rzys.xyz/",
     "jar": "./jar/feimao.jar"
     },
 
@@ -421,55 +432,54 @@
   }
 },
 
-      {
-        "key": "926看球",
-        "name": "⚽926┃看球",
-        "type": 3,
-        "api": "csp_kanqiu926",
-        "searchable": 0,
-        "changeable": 0,
-        "style": {
-          "type": "list"
-        }
-      },
-      {
-        "key": "88看球",
-        "name": "⚽88┃看球",
-        "type": 3,
-        "api": "csp_Sir88",
-        "searchable": 0,
-        "changeable": 0,
-        "style": {
-          "type": "list"
-        }
-      },
-      {
-        "key": "310js",
-        "name": "⚽ 310┃看球",
-        "type": 3,
-        "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-        "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
-        "style": {
-          "type": "list"
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-      {
-        "key": "Jrsjs",
-        "name": "⚽ Jrs┃球迷",
-        "type": 3,
-        "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-        "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
-        "style": {
-          "type": "list"
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-  
+{
+  "key": "926看球",
+  "name": "⚽926┃看球",
+  "type": 3,
+  "api": "csp_kanqiu926",
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  }
+},
+{
+  "key": "88看球",
+  "name": "⚽88┃看球",
+  "type": 3,
+  "api": "csp_Sir88",
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  }
+},
+{
+  "key": "310js",
+  "name": "⚽ 310┃看球",
+  "type": 3,
+  "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+  "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
+  "style": {
+    "type": "list"
+  },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},
+{
+  "key": "Jrsjs",
+  "name": "⚽ Jrs┃球迷",
+  "type": 3,
+  "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+  "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
+  "style": {
+    "type": "list"
+  },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},
 
 
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
