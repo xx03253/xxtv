@@ -195,8 +195,8 @@
     "quickSearch": 1,
     "changeable": 1,
     "playerType": "1",
-    "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-    "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
+    "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+    "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
   },
   {
     "key": "Auete",
