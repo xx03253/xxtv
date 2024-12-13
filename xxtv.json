@@ -255,13 +255,28 @@
         "http://feimaoai.site",
         "https://mihdr.top"
       ],
-      "url_key": "Duopan"
+      "url_key": "Duopan2"
     },
     "jar": "./jar/feimao.jar"
   },
   {
     "key": "csp_FeiMaoUC",
-    "name": "🐼┃肥猫┃UC",
+    "name": "⚡┃闪电┃优汐",
+    "type": 3,
+    "api": "csp_Duopan",
+    "filterable": 1,
+    "ext": {
+      "site_urls": [
+        "http://feimaouc.cloud:666",
+        "http://feimao.tech:666"
+      ],
+      "url_key": "FeiMaoUC"
+    },
+    "jar": "./jar/feimao.jar"
+  },
+  {
+    "key": "csp_XMUC",
+    "name": "🍚┃小米┃UC",
     "type": 3,
     "api": "csp_Duopan",
     "filterable": 1,
@@ -271,7 +286,7 @@
         "http://ucmi.fun",
         "http://www.ucmi.fun"
       ],
-      "url_key": "FeiMaoUC"
+      "url_key": "XMUC"
     },
     "jar": "./jar/feimao.jar"
   },
@@ -346,21 +361,6 @@
       "api": "csp_Kanke",
     "jar": "./jar/feimao.jar"
     }, 
-    {
-      "key": "csp_Nkdy",
-      "name": "🏔️┃耐看┃影视",
-      "type": 3,
-      "api": "csp_Nkdy",
-    "jar": "./jar/feimao.jar"
-    },
-    {
-      "key": "csp_AppRZ",
-      "name": "🕵️┃忍者┃影视",
-      "type": 3,
-      "api": "csp_AppRZ",
-      "ext": "http://rzys.xyz/",
-    "jar": "./jar/feimao.jar"
-    },
 
 ## 搜搜
 
