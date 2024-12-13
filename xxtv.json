@@ -512,16 +512,13 @@
     {"key":"csp_XBPQ_384影视","name":"384影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/384影视.json","jar":"./jar/XBPQ.jar"},
     {"key":"csp_XBPQ_胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/胖虎影视.json","jar":"./jar/XBPQ.jar"},
     {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/LIBVIO.json","jar":"./jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_voflixHD","name":"voflixHD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflixHD.json","jar":"./jar/XBPQ.jar"},
     {"key":"csp_XBPQ_555电影","name":"555电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555电影.json","jar":"./jar/XBPQ.jar"},
-    {"key":"csp_XBPQ_巨人影院","name":"巨人影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影院.json","jar":"./jar/XBPQ.jar"},
-
 
 ## XBiu系列
       {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"./jar/XBiu.jar"},
 
 ## XB系列
-    {"key": "csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXB2/骚火电影.json","jar":"./MaooXB2/newbb.jar"},
+    {"key":"csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXB2/骚火电影.json","jar":"./MaooXB2/newbb.jar"},
     {"key":"csp_biubiu_voflix","name":"🥈voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/voflix.json","jar":"./MaooXB2/newbb.jar"},
     {"key":"csp_biubiu_老电影","name":"🥈老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/老电影.json","jar":"./MaooXB2/newbb.jar"},
     {"key":"csp_biubiu_Nike影视网","name":"🥈Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/Nike影视网.json","jar":"./MaooXB2/newbb.jar"},
@@ -530,20 +527,10 @@
 
 ##  切片资源
      
-    {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-    //{"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    //{"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
-    //{"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
-    {"key":"FOX资源","name":"FOX资源(切)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"量子资源","name":"量子资源(切)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    //{"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"快播资源","name":"快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1}
-
-
-
+    {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+    {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1}
 
 
 
