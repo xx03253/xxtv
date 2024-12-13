@@ -499,36 +499,13 @@
  {"key": "快看","name": "🥯快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/pg.jar"},
 
 
- {"key":"荐片弹幕版","name":"🥝弹幕┃荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/jianpian.json$$$1","jar":"./jar/pg.jar"},
-   
-   {"key": "csp_beijihu","name": "🎪┃极狐┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://www.kuin.one/api.php/app/" },
-    
-     //{"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/bidid.json"},
-    {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/yinfans.json"},
-    
-    
-    {"key": "虎牙资源","name": "🐯虎牙┃资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8//?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://huyajx.com/play?url="},		
-    {"key": "光速资源","name": "🐕‍🦺光速┃资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
-   
-    {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+  {"key": "光速资源","name": "🐕‍🦺光速┃资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
 
 
-    //{"key": "量子云播","name": "🐝┃量子┃资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://lziplayer.com/?url="},
-    
-    {"key": "csp_XBPQ_量子[影视范]去广告","name": "量子┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/量子[影视范]去广告.json"},
-    {"key": "csp_XBPQ_非凡[影视范]去广告","name": "非凡┃去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/xx03253/xxtv/-/raw/main/XBPQ/非凡[影视范]去广告.json"},
-
-
-    {"key": "csp_Yj1211","name": "📽网红直播┃SP","type": 3, "api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
-
-    
-
-     {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
-     {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
+  {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
+  {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
      
-     //{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXP/cilixiong.json"},
 
-      
   
 ## XYPQ系列
     
