@@ -100,17 +100,6 @@
     "changeable": 1
   },
   {
-    "key": "厂长",
-    "name": "📔厂长┃不卡",
-    "type": 3,
-    "api": "csp_NewCz",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://www.czzyvideo.com/"
-  },
-  {
     "key": "原创",
     "name": "☀原创┃不卡",
     "type": 3,
@@ -120,6 +109,17 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
+  },
+  {
+    "key": "厂长",
+    "name": "📔厂长┃不卡",
+    "type": 3,
+    "api": "csp_NewCz",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.czzyvideo.com/"
   },
   {
     "key": "木星",
@@ -202,8 +202,8 @@
     "quickSearch": 1,
     "changeable": 1,
     "playerType": "1",
-    "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-    "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+    "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+    "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
   },
   {
     "key": "Auete",
@@ -468,8 +468,8 @@
   "key": "310js",
   "name": "⚽ 310┃看球",
   "type": 3,
-  "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-  "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
+  "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
   "style": {
     "type": "list"
   },
@@ -481,8 +481,8 @@
   "key": "Jrsjs",
   "name": "⚽ Jrs┃球迷",
   "type": 3,
-  "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-  "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
+  "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
   "style": {
     "type": "list"
   },
