@@ -138,7 +138,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
   },
   {
     "key": "热播",
@@ -474,19 +474,6 @@
   }
 },
 {
-  "key": "310js",
-  "name": "⚽ 310┃看球",
-  "type": 3,
-  "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
-  "style": {
-    "type": "list"
-  },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
-},
-{
   "key": "Jrsjs",
   "name": "⚽ Jrs┃球迷",
   "type": 3,
@@ -499,6 +486,7 @@
   "quickSearch": 0,
   "changeable": 0
 },
+
 
 
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
