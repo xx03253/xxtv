@@ -488,19 +488,19 @@
 },
 
 {
-  "key": "310js",
-  "name": "⚽310┃看球",
+  "key": "drpy_js_310直播",
+  "name": "🏀┃体育┃直播",
   "type": 3,
-  "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
-  "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885145/310.txt",
+  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+  "changeable": 0,
+  "gridview": 3,
   "style": {
     "type": "list"
   },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "timeout": 10
+  "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
 },
+
+
 
 
 {"key": "天天","name": "🍑弹幕┃天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg.jar"},
