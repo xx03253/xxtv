@@ -21,6 +21,8 @@
       "danMu": "弹"
     }
   },
+
+  
   {
     "key": "抠搜",
     "name": "🍄抠抠┃搜搜",
@@ -162,16 +164,6 @@
     "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
   },
   {
-    "key": "南瓜",
-    "name": "🎃南瓜┃多线",
-    "type": 3,
-    "api": "csp_NanGua",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
     "key": "萌米",
     "name": "👀萌米┃多线",
     "type": 3,
@@ -234,6 +226,7 @@
     "changeable": 0,
     "ext": "https://www.xb6v.com/"
   },
+
 
 ##三方聚合
   {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -476,8 +469,8 @@
   "key": "Jrsjs",
   "name": "⚽ Jrs┃球迷",
   "type": 3,
-  "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+  "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
   "style": {
     "type": "list"
   },
