@@ -2,7 +2,7 @@
   "spider":"https://gitlab.com/xx03253/xxtv/-/raw/main/MaooXB2/xxtv.jar;md5;ec54d5ff4d3165f8e1e07928b62d41b2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites":[
-  {"key": "豆豆","name": "🐲祥影视🎉","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+  {"key": "豆豆","name": "🐲点击主页切换源","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
   
   //{ "key": "玩偶", "name": "👽阿里云盘扫码┃4k画质","type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 
