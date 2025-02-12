@@ -478,8 +478,8 @@
   "key": "Jrsjs",
   "name": "⚽ Jrs┃球迷",
   "type": 3,
-  "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+  "api": "./KQ/drpy2.min.js",
+  "ext": "./KQ/jrk.js",
   "style": {
     "type": "list"
   },
