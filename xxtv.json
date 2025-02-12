@@ -488,6 +488,20 @@
   "changeable": 0
 },
 
+{
+  "key": "看球",
+  "name": "⚾┃看球┃直播",
+  "type": 3,
+  "api": "csp_Kanqiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "gridview": 3,
+  "style": {
+    "type": "list"
+  },
+  "jar": "./jar/feimao.jar"
+},
 
  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
