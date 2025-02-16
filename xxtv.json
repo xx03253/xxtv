@@ -101,10 +101,10 @@
     }
   },
   {
-    "key": "文采",
-    "name": "💮文采┃秒播",
+    "key": "流光",
+    "name": "💡流光┃秒播",
     "type": 3,
-    "api": "csp_Jpys",
+    "api": "csp_Lgyy",
     "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
@@ -192,6 +192,16 @@
     "quickSearch": 1,
     "changeable": 1,
     "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+  },
+  {
+    "key": "文采",
+    "name": "💮文采┃秒播",
+    "type": 3,
+    "api": "csp_Jpys",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
   },
   {
     "key": "可可",
@@ -498,20 +508,6 @@
   "changeable": 0
 },
 
-{
-  "key": "看球",
-  "name": "⚾┃看球┃直播",
-  "type": 3,
-  "api": "csp_Kanqiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "gridview": 3,
-  "style": {
-    "type": "list"
-  },
-  "jar": "./jar/feimao.jar"
-},
 
  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
