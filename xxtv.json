@@ -541,11 +541,6 @@
 
 ## XB系列
     {"key":"csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXB2/骚火电影.json","jar":"./MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_voflix","name":"🥈voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/voflix.json","jar":"./MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_老电影","name":"🥈老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/老电影.json","jar":"./MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_Nike影视网","name":"🥈Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/Nike影视网.json","jar":"./MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_VIP1280","name":"🥈VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar":"./MaooXB2/newbb.jar"},
-    {"key":"csp_biubiu_乌龟影院","name":"🥈乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/乌龟影院.json","jar":"./MaooXB2/newbb.jar"},
 
 ##  切片资源
      
