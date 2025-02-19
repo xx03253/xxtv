@@ -385,6 +385,27 @@
       "api": "csp_Kanke",
     "jar": "./jar/feimao.jar"
     }, 
+    {
+      "key": "csp_Lkdy",
+      "name": "🏔️┃来看┃影视",
+      "type": 3,
+      "api": "csp_Lkdy",
+    "jar": "./jar/feimao.jar"
+    },
+    {
+      "key": "csp_Lggys",
+      "name": "💗️┃攻阁┃影视",
+      "type": 3,
+      "api": "csp_Lggys",
+    "jar": "./jar/feimao.jar"
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "☁️️┃云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+    "jar": "./jar/feimao.jar"
+    },
 
 ## 搜搜
 
