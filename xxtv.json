@@ -90,6 +90,16 @@
     "changeable": 1
   },
   {
+    "key": "白白",
+    "name": "🐟白白┃秒播",
+    "type": 3,
+    "api": "csp_Sbaibai",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
     "key": "Lib",
     "name": "🌟立播┃秒播",
     "type": 3,
@@ -123,16 +133,6 @@
     "changeable": 1
   },
   {
-    "key": "白白",
-    "name": "🐟白白┃秒播",
-    "type": 3,
-    "api": "csp_Sbaibai",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
     "key": "文采",
     "name": "💮文采┃秒播",
     "type": 3,
@@ -153,14 +153,14 @@
     "changeable": 1
   },
   {
-    "key": "港迷",
-    "name": "💯港迷┃粤语",
+    "key": "兄弟",
+    "name": "🍊兄弟┃多线",
     "type": 3,
-    "api": "csp_AppSK",
+    "api": "csp_AppSx",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
+    "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
   },
   {
     "key": "南瓜",
