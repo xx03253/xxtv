@@ -5,16 +5,20 @@
             "name": "🤖自用一线(失效选择其他源)"
         },
         {
-            "url": "http://141.147.146.105/xxu/xxtv.json",
+            "url": "https://dy.963969.xyz/xxu/xxtv.json",
             "name": "🤖自用二线"
+        },
+        {
+            "url": "https://gitea.963969.xyz/xxu/xxtv/raw/branch/main/xxtv.json",
+            "name": "🤖备用一线"
+        },
+        {
+            "url": "https://notabug.org/xx03253/xxutv/raw/73a7770ebe72fd34c196f17b31fc59a9c0db5a9f/xxtv.json",
+            "name": "🤖备用二线"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀王二小线路"
-        },
-        {
-            "url": "http://ok321.top/ok",
-            "name": "🚀ok线路"
         },
         {
             "url": "http://www.饭太硬.com/tv",
@@ -29,20 +33,8 @@
             "name": "🚀小暴脾气线路"
         },
         {
-            "url": "https://o.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8C?&kSO?&yxV",
-            "name": "🚀欧歌线路"
-        },
-        {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🚀老刘备线路"
-        },
-        {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "🚀道长线路"
-        },
-	    {
-            "url": "https://tvbox.cainisi.c",
-            "name": "🚀菜妮丝xBPQ"
         },
         {
              "url": "https://fmbox.cc",
@@ -57,13 +49,10 @@
             "name": "🚀南风线路"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🚀荷城茶秀"
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "🚀菜妮丝线路"
         },
-         {
-            "url": "https://gitea.xxiang.us.kg/xxiang/xxtv/raw/branch/main/xxtv.json",
-            "name": "🤖备用二线"
-        },
+        
 	    {
             "url": "http://141.147.146.105/xxu/xxu.json",
             "name": "--以上源都可随意切换--"
@@ -71,4 +60,3 @@
 	
     ]
 }
-
