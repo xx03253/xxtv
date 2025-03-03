@@ -438,10 +438,10 @@
 ## 搜搜
 
 {
-  "key": "PanSso",
-  "name": "🐌盘他┃三盘",
+  "key": "YpanSo",
+  "name": "🐟盘她┃三盘",
   "type": 3,
-  "api": "csp_PanSso",
+  "api": "csp_YpanSoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -451,10 +451,10 @@
   }
 },
 {
-  "key": "YpanSo",
-  "name": "🐟盘她┃三盘",
+  "key": "xzso",
+  "name": "👻盘它┃三盘",
   "type": 3,
-  "api": "csp_YpanSo",
+  "api": "csp_XzsoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -467,7 +467,7 @@
   "key": "米搜",
   "name": "🦋米搜┃夸父",
   "type": 3,
-  "api": "csp_MIPanSo",
+  "api": "csp_MIPanSoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -477,10 +477,24 @@
   }
 },
 {
+  "key": "夸搜",
+  "name": "😻夸搜┃夸父",
+  "type": 3,
+  "api": "csp_PanSearchGuard",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+    "pan": "quark",
+    "Cloud-drive": "tvfan/Cloud-drive.txt",
+    "from": "4k|auto"
+  }
+},
+{
   "key": "Aliso",
   "name": "🙀盘搜┃阿狸",
   "type": 3,
-  "api": "csp_Aliso",
+  "api": "csp_PanSearchGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -493,7 +507,7 @@
   "key": "YiSo",
   "name": "😹易搜┃阿狸",
   "type": 3,
-  "api": "csp_YiSo",
+  "api": "csp_YiSoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -506,7 +520,7 @@
   "key": "push_agent",
   "name": "🛴手机┃推送",
   "type": 3,
-  "api": "csp_Push",
+  "api": "csp_PushGuard",
   "searchable": 0,
   "quickSearch": 0,
   "ext": {
@@ -515,11 +529,13 @@
   }
 },
 
+
+## 看球
 {
   "key": "926",
   "name": "⚽926┃看球",
   "type": 3,
-  "api": "csp_kanqiu926",
+  "api": "csp_kanqiu926Guard",
   "searchable": 0,
   "changeable": 0,
   "style": {
@@ -530,7 +546,7 @@
   "key": "88",
   "name": "⚽88┃看球",
   "type": 3,
-  "api": "csp_Sir88",
+  "api": "csp_Sir88Guard",
   "searchable": 0,
   "changeable": 0,
   "style": {
@@ -541,7 +557,7 @@
   "key": "看球",
   "name": "⚽看球┃直播",
   "type": 3,
-  "api": "csp_Kanqiu",
+  "api": "csp_KanqiuGuard",
   "searchable": 0,
   "changeable": 0,
   "style": {
@@ -563,16 +579,39 @@
 },
 
 
- {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+  {
+    "key": "Dm84",
+    "name": "🚌巴士┃动漫",
+    "type": 3,
+    "api": "csp_Dm84Guard",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "Ysj",
+    "name": "🎀异界┃动漫",
+    "type": 3,
+    "api": "csp_YsjGuard",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+  {
+    "key": "Anime1",
+    "name": "🐾日本┃动漫",
+    "type": 3,
+    "api": "csp_Anime1Guard",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+  },
+
+
+  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 
   {"key": "光速资源","name": "🐕‍🦺光速┃资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
-
-
-  {"key": "csp_Dm84","name": "🚌动漫┃巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1    },   
-  {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1    }, 
-     
-
   
 ## XYPQ系列
     {"key":"csp_XBPQ_胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/胖虎影视.json","jar":"./jar/XBPQ.jar"},
@@ -588,9 +627,86 @@
      
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"量子资源","name":"量子资源(切)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+    {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+      }
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+      }
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+      }
+    }
 
   ],
 
