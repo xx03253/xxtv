@@ -82,17 +82,6 @@
       "changeable": 1
     },
     {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
       "type": 3,
@@ -154,6 +143,17 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "比特",
