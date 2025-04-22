@@ -16,7 +16,7 @@
   
   //{ "key": "玩偶", "name": "👽阿里云盘扫码┃4k画质","type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 
-  {"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
+   //{"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
    
   
   {
@@ -621,7 +621,7 @@
   },
 
 
-  {"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+   //{"key":"祥祥影视","name":"🥨祥祥┃影视(切片)","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 
   {"key": "光速资源","name": "🐕‍🦺光速┃资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "https://www.gszyv.com/m3u8/?url="},		
@@ -631,7 +631,7 @@
     {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/LIBVIO.json","jar":"./jar/XBPQ.jar"},
 
 ## XBiu系列
-      {"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"./jar/XBiu.jar"},
+       //{"key":"csp_xb_祥祥影视","name":"祥祥影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://141.147.146.105/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"./jar/XBiu.jar"},
 
 ## XB系列
     {"key":"csp_骚火电影","name": "🥈骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXB2/骚火电影.json","jar":"./MaooXB2/newbb.jar"},
