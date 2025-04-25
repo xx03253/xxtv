@@ -4,10 +4,7 @@
             "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
             "name": "🤖自用一线(失效选择其他源)"
         },
-        {
-            "url": "https://dy.963969.xyz/xxu/xxtv.json",
-            "name": "🤖自用二线"
-        },
+      
         {
             "url": "https://gitea.963969.xyz/xxu/xxtv/raw/branch/main/xxtv.json",
             "name": "🤖备用一线"
@@ -51,6 +48,10 @@
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
             "name": "🚀菜妮丝线路"
+        },
+        {
+            "url": "https://dy.963969.xyz/xxu/xxtv.json",
+            "name": "🤖自用二线"
         },
         
 	    {
