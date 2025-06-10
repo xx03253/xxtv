@@ -35,6 +35,7 @@
       }
     },
 
+ 
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -561,21 +562,6 @@
 },
 
 {
-  "key": "Jrsjs",
-  "name": "⚽ Jrs┃球迷",
-  "type": 3,
-  "api": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-  "style": {
-    "type": "list"
-  },
-  "timeout": 10,
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
-},
-
-{
   "key": "看球",
   "name": "⚾┃看球┃直播",
   "type": 3,
@@ -588,6 +574,21 @@
   "style": {
     "type": "list"
   }
+},
+
+{
+  "key": "Jrsjs",
+  "name": "⚽ Jrs┃球迷",
+  "type": 3,
+  "api": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+  "style": {
+    "type": "list"
+  },
+  "timeout": 10,
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
 },
 
 
