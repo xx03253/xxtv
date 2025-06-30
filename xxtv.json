@@ -18,12 +18,12 @@
 
    //{"key":"csp_XBPQ_祥祥影视","name":"🦸‍♂️祥祥┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/祥祥影视.json","jar":"./jar/XBPQ.jar"},
    
-  
-  {
+    {
       "key": "玩偶",
       "name": "👽UC夸克阿里扫码┃4k",
       "type": 3,
       "api": "csp_WoGGGuard",
+      "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -35,7 +35,6 @@
       }
     },
 
- 
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -274,7 +273,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
- 
+   
 
 ##三方聚合
   {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -298,11 +297,17 @@
     "filterable": 1,
     "ext": {
       "site_urls": [
-        "https://feimao666.fun",
-        "http://feimao888.fun",
-        "http://feimaoai.site",
-        "http://www.labi88.sbs"
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "https://fmao.shop"
       ],
+      "threadinfo": {
+        "chunksize": 512,
+        "threads": 16
+      },
       "url_key": "Duopan2"
     },
     "jar": "./jar/feimao.jar"
@@ -351,96 +356,170 @@
       "jar": "./jar/feimao.jar"
   },
 
-    {
-      "key": "csp_Netfixtv",
-      "name": "💌┃️至臻┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://xiaomi666.fun",
-          "https://xiaomiai.site",
-          "http://www.miqk.cc",
-          "https://mihdr.top"
-        ],
-        "url_key": "Netfixtv2",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 10
-        }
-      },
-      "jar": "./jar/feimao.jar"
+  {
+    "key": "csp_Netfixtv",
+    "name": "💌┃️至臻┃影视",
+    "type": 3,
+    "api": "csp_Duopan",
+    "filterable": 1,
+    "ext": {
+      "site_urls": [
+        "http://xiaomi666.fun",
+        "https://xiaomiai.site",
+        "https://mihdr.top",
+        "https://www.mihdr.top",
+        "http://www.miqk.cc",
+        "https://www.zhizhenpan.fun"
+      ],
+      "url_key": "Netfixtv2",
+      "threadinfo": {
+        "chunksize": 512,
+        "threads": 16
+      }
     },
-    {
-      "key": "潮流",
-      "name": "🏜┃潮流┃影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "./jar/feimao.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-    },
+    "jar": "./jar/feimao.jar"
+  },
+      
+
     {
       "key": "梦回",
-      "name": "🏈┃梦回┃影视",
+      "name": "🏈┃梦回┃APP",
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "./jar/feimao.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+      "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
     },
     {
       "key": "星辉",
-      "name": "🦢┃星辉┃影视",
+      "name": "🦢┃星辉┃APP",
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "./jar/feimao.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
     },
     {
-      "key": "csp_Jpyy",
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "4wSF77WNzVYxpDQF3Vf/eAoVqKf1nKdv5MpKtrhokKJN288M3lP16ZeoM36I71sJ"
+    },
+    {
+      "key": "干饭",
+      "name": "🍚┃干饭┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g=="
+    },
+    {
+      "key": "光盘",
+      "name": "📀┃光盘┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj"
+    },
+    {
+      "key": "行动",
+      "name": "😌┃行动┃APP",
+      "type": 3,
+      "api": "csp_AppSy",
+      "jar": "./jar/feimao.jar",
+      "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
+    },
+    {
+      "key": "再来",
+      "name": "✌️┃再来┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "gKqtScS9maa2YW8G9NNOtUsSxDvraRvNMDiazqRUzDYklDH0MMxfu9ZPgRdHKBcI"
+    },
+    {
+      "key": "一碗",
+      "name": "🥣┃一碗┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "cOS1UvSbYM3xW1jXF4QBcYkSAhpFDDoh7c53wGBZEyxDhNunH+Feq+RreiUkQsV1"
+    },
+    {
+      "key": "猫抓",
+      "name": "🐱┃猫抓┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "iUYplHbim/qVptUBrzCuqmzk48cRdrCU+TvWjkRayUR3VnXktGT5Xk3xOdnrzb1IN9MUDdYRVCdA3H9+5eszqQ=="
+    },
+    {
+      "key": "仓鼠",
+      "name": "🐹┃耗子┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "uOx4WoHPKe5LbDsNX+u7yPwU6Ups0duUFWxZbQqPo2oF+jkgV7jbW6aOO1kS4+9PdDFoRHhRxKKvcUOgzloTKw=="
+    },
+    {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "II6EBjEX9APRjw9zkvfuusSMPTiiXvPm9pK9Zv0wFaq4AWWODp1x+otEA1t0ZFTSq+p0AmaiQvE9cq5Hdl/Vlg=="
+    },
+    {
+      "key": "黑猫",
+      "name": "🐼┃黑猫┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": "cLeOXZXsq65z+2s8qkWsD+GYhlTxoLn2cNnZiAXyiQPBfOCR3nVfgmZWdkvjSaqJFD9Bmb+U0RVCI9wv8BMVIg=="
+    },
+    {
+      "key": "csp_Jpys",
       "name": "🥇️┃金牌┃影视",
       "type": 3,
-      "api": "csp_Jpyy",
+      "api": "csp_Jpys",
       "jar": "./jar/feimao.jar"
     },
     {
-      "key": "csp_Qiyou",
-      "name": "🥝┃奇优┃影视",
+      "key": "csp_Wwys",
+      "name": "🌾️┃农民┃影视",
       "type": 3,
-      "api": "csp_Qiyou",
-      "ext": "http://www.dyxz2.com/",
-    "jar": "./jar/feimao.jar"
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn",
+      "jar": "./jar/feimao.jar"
     },
     {
-      "key": "csp_Kanke",
-      "name": "🛳️┃看客┃影视",
+      "key": "csp_KmeiJu",
+      "name": "🍐┃鸭梨┃影视",
       "type": 3,
-      "api": "csp_Kanke",
-    "jar": "./jar/feimao.jar"
-    }, 
+      "api": "csp_KmeiJu",
+      "jar": "./jar/feimao.jar"
+    },
+    {
+      "key": "csp_FourK",
+      "name": "🐿️┃绝对┃影视",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv",
+      "jar": "./jar/feimao.jar"
+    },
     {
       "key": "csp_Lkdy",
       "name": "🏔️┃来看┃影视",
       "type": 3,
       "api": "csp_Lkdy",
-    "jar": "./jar/feimao.jar"
-    },
-    {
-      "key": "csp_Lggys",
-      "name": "💗️┃攻阁┃影视",
-      "type": 3,
-      "api": "csp_Lggys",
-    "jar": "./jar/feimao.jar"
+      "jar": "./jar/feimao.jar"
     },
     {
       "key": "csp_Tvyb",
       "name": "☁️️┃云播┃影视",
       "type": 3,
       "api": "csp_Tvyb",
-    "jar": "./jar/feimao.jar"
+      "jar": "./jar/feimao.jar"
     },
 
 ## 搜搜
