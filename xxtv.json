@@ -492,6 +492,19 @@
 ## 搜搜
 
 {
+  "key": "PanSso",
+  "name": "🐌盘他┃三盘",
+  "type": 3,
+  "api": "csp_PanSsoGuard",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+    "Cloud-drive": "tvfan/Cloud-drive.txt",
+    "from": "4k|auto"
+  }
+},
+{
   "key": "YpanSo",
   "name": "🐟盘她┃三盘",
   "type": 3,
@@ -582,7 +595,6 @@
     "from": "4k|auto"
   }
 },
-
 
 ## 看球
 {
