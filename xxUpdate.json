@@ -1,10 +1,13 @@
 {
     "urls": [
-       {
+      {
             "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
             "name": "🤖自用一线(失效选择其他源)"
         },
-      
+        {
+            "url": "https://xx.963969.xyz/xx/xxtv.json",
+            "name": "🤖备用线路"
+        },
         {
             "url": "https://gitea.963969.xyz/xxu/xxtv/raw/branch/main/xxtv.json",
             "name": "🤖备用一线"
@@ -13,7 +16,7 @@
             "url": "https://notabug.org/xx03253/xxutv/raw/73a7770ebe72fd34c196f17b31fc59a9c0db5a9f/xxtv.json",
             "name": "🤖备用二线"
         },
-	{
+        {
             "url": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/xx03253/xxtv/refs/heads/main/xxtv.json",
             "name": "🤖备用三线"
         },
