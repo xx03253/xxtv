@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
     },
     {
       "key": "原创",
@@ -180,7 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
     },
     {
       "key": "下饭",
@@ -225,6 +225,8 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
+
+    
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -276,12 +278,13 @@
     "filterable": 1,
     "ext": {
       "site_urls": [
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://feimaoai.site",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "https://fmao.shop"
+        "https://feimao666.fun",
+        "http://feimao888.fun",
+        "https://feimo.fun",
+        "http://www.labi88.sbs",
+        "http://fmao.site",
+        "http://fmao.shop",
+        "http://xiaocge.fun"
       ],
       "threadinfo": {
         "chunksize": 512,
@@ -366,7 +369,7 @@
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "./jar/feimao.jar",
-      "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
+      "ext": "http://v.lkuys.cn"
     },
     {
       "key": "星辉",
@@ -374,7 +377,7 @@
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "./jar/feimao.jar",
-      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
+      "ext": "http://tt.ysdqjs.cn"
     },
     {
       "key": "肥猫",
@@ -382,7 +385,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "4wSF77WNzVYxpDQF3Vf/eAoVqKf1nKdv5MpKtrhokKJN288M3lP16ZeoM36I71sJ"
+      "ext": {
+        "url": "https://mac.555618.xyz",
+        "dataKey": "#getapp@TMD@2025",
+        "siteApi": "get",
+        "version": "201"
+      }
     },
     {
       "key": "干饭",
@@ -390,7 +398,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g=="
+      "ext": {
+        "url": "http://110.42.53.99:1080",
+        "dataKey": "staraugust123456",
+        "siteApi": "qiji",
+        "version": "301"
+      }
     },
     {
       "key": "光盘",
@@ -398,15 +411,25 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj"
+      "ext": {
+        "url": "https://appcms.rx4k.top",
+        "dataKey": "ZX10ysTYZWtIJCTU",
+        "siteApi": "qiji",
+        "version": "120"
+      }
     },
     {
       "key": "行动",
       "name": "😌┃行动┃APP",
       "type": 3,
-      "api": "csp_AppSy",
+      "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
+      "ext": {
+        "url": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+        "dataKey": "dksvndkaAjekakcE",
+        "siteApi": "qiji",
+        "version": ""
+      }
     },
     {
       "key": "再来",
@@ -414,7 +437,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "gKqtScS9maa2YW8G9NNOtUsSxDvraRvNMDiazqRUzDYklDH0MMxfu9ZPgRdHKBcI"
+      "ext": {
+        "url": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "siteApi": "qiji",
+        "version": ""
+      }
     },
     {
       "key": "一碗",
@@ -422,7 +450,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "cOS1UvSbYM3xW1jXF4QBcYkSAhpFDDoh7c53wGBZEyxDhNunH+Feq+RreiUkQsV1"
+      "ext": {
+        "url": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "siteApi": "qiji",
+        "version": "119"
+      }
     },
     {
       "key": "猫抓",
@@ -430,7 +463,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "iUYplHbim/qVptUBrzCuqmzk48cRdrCU+TvWjkRayUR3VnXktGT5Xk3xOdnrzb1IN9MUDdYRVCdA3H9+5eszqQ=="
+      "ext": {
+        "url": "http://172.247.189.145:8989",
+        "dataKey": "6d1061a50b656564",
+        "siteApi": "get",
+        "version": ""
+      }
     },
     {
       "key": "仓鼠",
@@ -438,7 +476,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "uOx4WoHPKe5LbDsNX+u7yPwU6Ups0duUFWxZbQqPo2oF+jkgV7jbW6aOO1kS4+9PdDFoRHhRxKKvcUOgzloTKw=="
+      "ext": {
+        "url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "siteApi": "qiji",
+        "version": ""
+      }
     },
     {
       "key": "蔬菜",
@@ -446,7 +489,12 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "II6EBjEX9APRjw9zkvfuusSMPTiiXvPm9pK9Zv0wFaq4AWWODp1x+otEA1t0ZFTSq+p0AmaiQvE9cq5Hdl/Vlg=="
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "dataKey": "huohushipingetap",
+        "siteApi": "get",
+        "version": "140"
+      }
     },
     {
       "key": "黑猫",
@@ -454,7 +502,59 @@
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/feimao.jar",
-      "ext": "cLeOXZXsq65z+2s8qkWsD+GYhlTxoLn2cNnZiAXyiQPBfOCR3nVfgmZWdkvjSaqJFD9Bmb+U0RVCI9wv8BMVIg=="
+      "ext": {
+        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+        "dataKey": "k9o3p2c8b7m3z0o8",
+        "siteApi": "get",
+        "version": ""
+      }
+    },
+    {
+      "key": "优优",
+      "name": "💯┃优优┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": {
+        "url": "https://apiapplbys.lbys.app:5678",
+        "dataKey": "apiapplbyskey168",
+        "siteApi": "get",
+        "version": "107"
+      }
+    },
+    {
+      "key": "兔子",
+      "name": "🐇┃兔子┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": {
+        "url": "http://154.37.152.97:5211",
+        "dataKey": "685bf108bc47b67d",
+        "siteApi": "get",
+        "version": "521"
+      }
+    },
+    {
+      "key": "永永",
+      "name": "♾️┃永永┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/feimao.jar",
+      "ext": {
+        "url": "https://www.guangyingmi.com",
+        "dataKey": "230fnsodfsdhfon2",
+        "siteApi": "get",
+        "version": ""
+      }
+    },
+    {
+      "key": "冷心",
+      "name": "🧊┃冷心┃APP",
+      "type": 3,
+      "api": "csp_AppMuou",
+      "jar": "./jar/feimao.jar",
+      "ext": "http://app.789dd.cn|火猫影视"
     },
     {
       "key": "csp_Jpys",
@@ -609,43 +709,44 @@
 },
 
 ## 看球
-   {
-      "key": "超全",
-      "name": "⚽超全┃看球",
-      "type": 3,
-      "api": "csp_ZbzGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-    },
-    {
-      "key": "88",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "timeout": 15,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "看球",
-      "name": "⚽手机┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "timeout": 15,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+{
+  "key": "超全",
+  "name": "⚽超全┃看球",
+  "type": 3,
+  "api": "csp_ZbzGuard",
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  },
+  "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+},
+{
+  "key": "88",
+  "name": "⚽88┃看球",
+  "type": 3,
+  "api": "csp_Sir88Guard",
+  "timeout": 15,
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  }
+},
+{
+  "key": "看球",
+  "name": "⚽手机┃看球",
+  "type": 3,
+  "api": "csp_KanqiuGuard",
+  "timeout": 15,
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  }
+},
+
 
 
 
