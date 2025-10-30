@@ -46,12 +46,11 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/"
+        "from": "4k|auto"
       }
     },
 
-   {
+    {
       "key": "seed",
       "name": "💡聚剧剧┃三盘",
       "type": 3,
@@ -91,6 +90,16 @@
       "changeable": 1
     },
     {
+      "key": "苹果",
+      "name": "🍎苹果┃秒播",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
@@ -102,18 +111,8 @@
       "changeable": 1
     },
     {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_BttwooGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "原创",
-      "name": "☀原创┃不卡",
+      "name": "☀原创┃秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 30,
@@ -123,10 +122,10 @@
       "changeable": 1
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
+      "key": "比特",
+      "name": "🍄比特┃秒播",
       "type": 3,
-      "api": "csp_LiteAppleGuard",
+      "api": "csp_BttwooGuard",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -216,8 +215,7 @@
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
+      "changeable": 1
     },
     {
       "key": "荐片",
@@ -240,34 +238,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
-    },
-
-    
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
-      "type": 3,
-      "api": "csp_UuSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
    
    
@@ -620,10 +590,10 @@
 ## 搜搜
 
 {
-  "key": "PanSso",
-  "name": "🐌盘他┃三盘",
+  "key": "抠搜",
+  "name": "🍄抠抠┃搜搜",
   "type": 3,
-  "api": "csp_PanSsoGuard",
+  "api": "csp_KkSsGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -633,10 +603,10 @@
   }
 },
 {
-  "key": "YpanSo",
-  "name": "🐟盘她┃三盘",
+  "key": "UC",
+  "name": "🌈优汐┃搜搜",
   "type": 3,
-  "api": "csp_YpanSoGuard",
+  "api": "csp_UuSsGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -646,21 +616,22 @@
   }
 },
 {
-  "key": "xzso",
-  "name": "👻盘它┃三盘",
+  "key": "YiSo",
+  "name": "😹易搜┃三盘",
   "type": 3,
-  "api": "csp_XzsoGuard",
+  "api": "csp_YiSoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
   "ext": {
     "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto"
+    "from": "4k|auto",
+    "yisouCookie": "150e5bb8-401e-4f1f-b74e-7fd5f8bd6dea"
   }
 },
 {
   "key": "米搜",
-  "name": "🦋米搜┃夸父",
+  "name": "🦋米搜┃优夸",
   "type": 3,
   "api": "csp_MIPanSoGuard",
   "searchable": 1,
@@ -672,24 +643,10 @@
   }
 },
 {
-  "key": "夸搜",
-  "name": "😻夸搜┃夸父",
+  "key": "xzso",
+  "name": "👻盘他┃夸父",
   "type": 3,
-  "api": "csp_PanSearchGuard",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-    "pan": "quark",
-    "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto"
-  }
-},
-{
-  "key": "Aliso",
-  "name": "🙀盘搜┃阿狸",
-  "type": 3,
-  "api": "csp_PanSearchGuard",
+  "api": "csp_XzsoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -699,10 +656,10 @@
   }
 },
 {
-  "key": "YiSo",
-  "name": "😹易搜┃阿狸",
+  "key": "YpanSo",
+  "name": "🐟盘她┃夸父",
   "type": 3,
-  "api": "csp_YiSoGuard",
+  "api": "csp_YpanSoGuard",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -725,6 +682,7 @@
 },
 
 ## 看球
+
 {
   "key": "超全",
   "name": "⚽超全┃看球",
@@ -750,18 +708,18 @@
     "type": "list"
   }
 },
- {
-      "key": "看球",
-      "name": "⚽手机┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "timeout": 15,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+{
+  "key": "看球",
+  "name": "⚽手机┃看球",
+  "type": 3,
+  "api": "csp_KanqiuGuard",
+  "timeout": 15,
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+    "type": "list"
+  }
+},
 
 
 
