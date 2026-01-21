@@ -51,7 +51,7 @@
     },
 
   
-    {
+     {
       "key": "seed",
       "name": "💡聚剧剧┃三盘",
       "type": 3,
@@ -74,7 +74,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://api.jkai.de/"
+        "siteUrl": "http://38.55.131.86:82/"
       },
       "indexs": 0,
       "style": {
@@ -91,19 +91,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
-    },
-    {
-      "key": "奶酪",
-      "name": "🧀奶酪┃秒播",
-      "type": 3,
-      "api": "csp_T4Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
     },
     {
       "key": "厂长",
@@ -112,16 +101,6 @@
       "api": "csp_NewCzGuard",
       "timeout": 10,
       "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃秒播",
-      "type": 3,
-      "api": "csp_LiteAppleGuard",
-      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -159,10 +138,20 @@
       "changeable": 1
     },
     {
-      "key": "剧圈",
-      "name": "🐻剧圈┃多线",
+      "key": "奶酪",
+      "name": "🧀奶酪┃秒播",
       "type": 3,
-      "api": "csp_JqqGuard",
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃秒播",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
@@ -181,6 +170,17 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+    },
+    {
       "key": "下饭",
       "name": "🍙下饭┃多线",
       "type": 3,
@@ -189,7 +189,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+      "ext": "rfOX1voDIQhH8epBwpmIsuSzvzLEz8i80ys7e423AAgOORAW/jpk9eN3XtlP3Ixxt12KWtF0+Esrq3Y="
+    },
+    {
+      "key": "极狐",
+      "name": "🦊极狐┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0D2Cr6rghboDg=="
     },
     {
       "key": "猫猫",
@@ -200,18 +211,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsub0/WmdmYi/k2NkJsm7Vk4dJQZft2UtrrwhKK52i/dDilKkU5Nz+V0bwkYsVuU="
-    },
-    {
-      "key": "鲸鱼",
-      "name": "👀鲸鱼┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+      "ext": "rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg="
     },
     {
       "key": "橘子",
@@ -222,7 +222,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZwM/jwik9Zoy3AAlFMxpf9CY77fshJ+II0I4x7mOKd5IWnT40uC1p"
+    },
+    {
+      "key": "鲸鱼",
+      "name": "👀鲸鱼┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXC3NH30m85MMiyVkwSIgNArXpwrLZwJOlInMRrq2qCb88RxXck6mdnBfx+E9mVr+/WQHKnXOuf1rT3CHH2zSEDJ0lM/ZH/GF+kFMAPQfAluHgdCEy1QqmjhV0="
     },
     {
       "key": "糯米",
@@ -646,44 +657,43 @@
 
 ## 看球
 
-
-{
-  "key": "超全",
-  "name": "⚽超全┃看球",
-  "type": 3,
-  "api": "csp_ZbzGuard",
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "style": {
-    "type": "list"
-  },
-  "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-},
-{
-  "key": "88",
-  "name": "⚽88┃看球",
-  "type": 3,
-  "api": "csp_Sir88Guard",
-  "timeout": 10,
-  "searchable": 0,
-  "changeable": 0,
-  "style": {
-    "type": "list"
-  }
-},
-{
-  "key": "看球",
-  "name": "⚽手机┃看球",
-  "type": 3,
-  "api": "csp_KanqiuGuard",
-  "timeout": 10,
-  "searchable": 0,
-  "changeable": 0,
-  "style": {
-    "type": "list"
-  }
-},
+   {
+      "key": "88",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "超全",
+      "name": "⚽超全┃看球",
+      "type": 3,
+      "api": "csp_ZbzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+    },
+    {
+      "key": "看球",
+      "name": "⚽手机┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
 
 
   {
