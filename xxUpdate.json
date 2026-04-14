@@ -1,7 +1,7 @@
 {
     "urls": [
       {
-            "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
+            "url": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/xx03253/xxtv/refs/heads/main/xxtv.json",
             "name": "🤖自用一线(失效选择其他源)"
         },
         {
@@ -17,7 +17,7 @@
             "name": "🤖备用二线"
         },
         {
-            "url": "https://ghproxy.963969.xyz/https://raw.githubusercontent.com/xx03253/xxtv/refs/heads/main/xxtv.json",
+            "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
             "name": "🤖备用三线"
         },
         {
