@@ -653,6 +653,18 @@
     "from": "4k|auto"
   }
 },
+        {
+      "key": "BpanSo",
+      "name": "🐞盘他┃嘟嘟",
+      "type": 3,
+      "api": "csp_BpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
 {
   "key": "push_agent",
   "name": "🛴手机┃推送",
