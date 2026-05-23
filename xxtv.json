@@ -569,36 +569,7 @@
       "cookie": ""
   }
 },
-{
-  "key": "PanTa",
-  "name": "🍥┃盘它┃4K",
-  "type": 3,
-"jar": "./jar/fish.jar",
-  "api": "csp_PanTaFishGuard",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "夸父",
-  "name": "🌞┃夸父┃4K",
-  "type": 3,
-"jar": "./jar/fish.jar",
-  "api": "csp_FishKFFishGuard",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "style": {
-      "type": "list",
-      "ratio": 1.433
-  },
-  "ext": {
-      "site": [
-          "https://www.kfjwzz.com"
-      ],
-      "cookie": ""
-  }
-},
+
 {
   "key": "ShuangXing",
   "name": "🌟┃双星┃4K",
@@ -770,6 +741,65 @@
         "type": "list"
       }
     },
+
+    {
+      "key": "Kanqiu",
+      "name": "🏀┃看球┃体育",
+      "type": 3,
+"jar": "./jar/fish.jar",
+      "api": "csp_KanqiuFishGuard",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "http://www.88kanqiu.one",
+      "style": {
+          "type": "list"
+      }
+  },
+  {
+      "key": "Sir88",
+      "name": "🥤┃超全┃体育",
+      "type": 3,
+"jar": "./jar/fish.jar",
+      "api": "csp_Sir88FishGuard",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "style": {
+          "type": "list"
+      }
+  },
+  {
+      "key": "QiutongTY",
+      "name": "🏀┃球通┃体育",
+      "type": 3,
+"jar": "./jar/fish.jar",
+      "api": "csp_QiutongTYFishGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+  },
+  {
+      "key": "GuaziTY",
+      "name": "🥜┃瓜子┃体育",
+      "type": 3,
+"jar": "./jar/fish.jar",
+      "api": "csp_GuaziTYFishGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+  },
+  {
+      "key": "919TY",
+      "name": "⭐┃919┃体育",
+      "type": 3,
+"jar": "./jar/fish.jar",
+      "api": "csp_C919TYFishGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+  },
+
 
 
   {
