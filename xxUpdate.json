@@ -5,6 +5,10 @@
             "name": "🤖自用一线(失效选择其他源)"
         },
         {
+            "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
+            "name": "🤖gitlab备用线路"
+        },
+        {
             "url": "https://xx.963969.xyz/xx/xxtv.json",
             "name": "🤖备用线路"
         },
@@ -15,10 +19,6 @@
         {
             "url": "https://notabug.org/xx03253/xxutv/raw/73a7770ebe72fd34c196f17b31fc59a9c0db5a9f/xxtv.json",
             "name": "🤖备用二线"
-        },
-        {
-            "url": "https://gitlab.com/xx03253/xxtv/-/raw/main/xxtv.json",
-            "name": "🤖备用三线"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
