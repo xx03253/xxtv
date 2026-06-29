@@ -50,7 +50,6 @@
       }
     },
 
-  
     {
       "key": "seed",
       "name": "💡聚剧剧┃四盘",
@@ -93,7 +92,7 @@
   },
   {
       "key": "原创",
-      "name": "☀原创┃不卡",
+      "name": "👒原创┃不卡",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -114,27 +113,6 @@
       "changeable": 1
   },
   {
-      "key": "比特",
-      "name": "🍄比特┃不卡",
-      "type": 3,
-      "api": "csp_BttwooGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-  },
-  {
-      "key": "荐片",
-      "name": "🥝荐片┃不卡",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-  },
-  {
       "key": "立播",
       "name": "🌟立播┃不卡",
       "type": 3,
@@ -145,8 +123,29 @@
       "changeable": 1,
       "ext": {
           "Cloud-drive": "tvfan/Cloud-drive.txt",
-          "siteUrl": "https://www.libvio.life/"
+          "siteUrl": "https://www.libvio.pw/"
       }
+  },
+  {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+  },
+  {
+      "key": "比特",
+      "name": "🍄比特┃不卡",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
   },
   {
       "key": "糯米",
@@ -192,26 +191,15 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
   },
   {
-      "key": "剧圈",
-      "name": "🐻剧圈┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
-  },
-  {
       "key": "视界",
-      "name": "🍙视界┃多线",
+      "name": "🌸茉莉┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
   },
   {
       "key": "播客",
@@ -225,15 +213,26 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
   },
   {
-      "key": "柚子",
-      "name": "🐟柚子┃多线",
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv"
+      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+  },
+  {
+      "key": "荐片",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
   },
   {
       "key": "奥特",
@@ -255,7 +254,28 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
-  }, 
+  },
+  {
+      "key": "咕咕",
+      "name": "🦉咕咕┃动漫",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+  },
+  {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+  },
 
 
   {
@@ -686,6 +706,12 @@
       "name": "⚽🏀体育赛事全能王",
       "type": 1,
       "api": "https://jsnzkpg.us.ci"
+    },
+    {
+      "key": "DM体育爬虫",
+      "name": "⚽🏀DM体育",
+      "type": 1,
+      "api": "https://jsnzkpg.ggff.net/"
     },
 
 
