@@ -49,7 +49,6 @@
       }
   },
 
-  
   {
     "key": "seed",
     "name": "💡聚剧┃四盘",
@@ -89,6 +88,17 @@
     "api": "csp_NewCzGuard",
     "timeout": 10,
     "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+},
+{
+    "key": "海绵",
+    "name": "⏮️海绵┃不卡",
+    "type": 3,
+    "api": "csp_HmysGuard",
+    "timeout": 10,
+    "playerType": "2",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
@@ -236,7 +246,7 @@
     "changeable": 0,
     "ext": "https://www.xb6v.com/"
 },
-
+ 
 
 
   {
@@ -510,43 +520,42 @@
 ## 看球
 
 
-    {
-      "key": "看球",
-      "name": "⚽八八┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "list"
-      }
-  },
-  {
-      "key": "多多",
-      "name": "🏀多多┃看球",
-      "type": 3,
-      "api": "csp_DoubaoGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-          "type": "list"
-      }
-  },
-  {
-      "key": "吃瓜",
-      "name": "🏐吃瓜┃看球",
-      "type": 3,
-      "api": "csp_LiveGzGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-          "type": "list"
-      }
-  },
-
+{
+  "key": "看球",
+  "name": "⚽八八┃看球",
+  "type": 3,
+  "api": "csp_KanqiuGuard",
+  "timeout": 10,
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+      "type": "list"
+  }
+},
+{
+  "key": "多多",
+  "name": "🏀多多┃看球",
+  "type": 3,
+  "api": "csp_DoubaoGuard",
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0,
+  "style": {
+      "type": "list"
+  }
+},
+{
+  "key": "吃瓜",
+  "name": "🏐吃瓜┃看球",
+  "type": 3,
+  "api": "csp_LiveGzGuard",
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0,
+  "style": {
+      "type": "list"
+  }
+},
 
 
 {
