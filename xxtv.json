@@ -49,6 +49,8 @@
       }
   },
 
+  
+ 
   {
     "key": "seed",
     "name": "💡聚剧┃四盘",
@@ -94,7 +96,7 @@
 },
 {
     "key": "海绵",
-    "name": "⏮️海绵┃不卡",
+    "name": "🐬海绵┃不卡",
     "type": 3,
     "api": "csp_HmysGuard",
     "timeout": 10,
@@ -246,7 +248,6 @@
     "changeable": 0,
     "ext": "https://www.xb6v.com/"
 },
- 
 
 
   {
@@ -534,7 +535,7 @@
 },
 {
   "key": "多多",
-  "name": "🏀多多┃看球",
+  "name": "🏀多多┃回放",
   "type": 3,
   "api": "csp_DoubaoGuard",
   "searchable": 0,
@@ -560,13 +561,13 @@
 
 {
   "key": "Kanqiu",
-  "name": "⚽┃看球┃体育",
+  "name": "⚽┆看球┆体育",
   "type": 3,
-"jar": "./jar/fish.jar",
   "api": "csp_Kanqiu",
   "searchable": 0,
   "filterable": 1,
   "indexs": 0,
+"jar": "./jar/fish.jar",
   "ext": "http://www.88kanqiu.one",
   "style": {
       "type": "list"
@@ -574,7 +575,7 @@
 },
 {
   "key": "Sir88",
-  "name": "🏟️┃超全┃体育",
+  "name": "🏟️┆超全┆体育",
   "type": 3,
 "jar": "./jar/fish.jar",
   "api": "csp_Sir88",
@@ -587,7 +588,7 @@
 },
 {
   "key": "QiutongTY",
-  "name": "🏀┃球通┃体育",
+  "name": "🏀┆球通┆体育",
   "type": 3,
 "jar": "./jar/fish.jar",
   "api": "csp_QiutongTY",
@@ -597,7 +598,7 @@
 },
 {
   "key": "GuaziTY",
-  "name": "🥜┃瓜子┃体育",
+  "name": "🥜┆瓜子┆体育",
   "type": 3,
 "jar": "./jar/fish.jar",
   "api": "csp_GuaziTY",
@@ -607,7 +608,7 @@
 },
 {
   "key": "919TY",
-  "name": "🏅┃919┃体育",
+  "name": "🏅┆919┆体育",
   "type": 3,
 "jar": "./jar/fish.jar",
   "api": "csp_C919TY",
